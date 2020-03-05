@@ -10,12 +10,6 @@ QT += qml quick widgets
 WALLET_ROOT=$$PWD/TheSuperiorCoin
 
 CONFIG += c++11 link_pkgconfig
-packagesExist(libusb-1.0) {
-    PKGCONFIG += libusb-1.0
-}
-packagesExist(protobuf) {
-    PKGCONFIG += protobuf
-}
 packagesExist(hidapi-libusb) {
     PKGCONFIG += hidapi-libusb
 }
@@ -291,7 +285,6 @@ linux {
         message("using static libraries")
         LIBS+= -Wl,-Bstatic    
         QMAKE_LFLAGS += -static-libgcc -static-libstdc++
-        QMAKE_LIBDIR += /usr/local/ssl/lib
    #     contains(QT_ARCH, x86_64) {
             LIBS+= -lunbound \
                    -lusb-1.0 \
@@ -469,7 +462,7 @@ OTHER_FILES += \
 
 DISTFILES += \
     notes.txt \
-    superior/src/wallet/CMakeLists.txt
+    TheSuperiorCoin/src/wallet/CMakeLists.txt
 
 
 # windows application icon

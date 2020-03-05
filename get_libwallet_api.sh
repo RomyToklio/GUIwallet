@@ -17,7 +17,7 @@ if [ ! -d $SUPERIOR_DIR/src ]; then
 fi
 git submodule update --remote
 git -C $SUPERIOR_DIR fetch
-git -C $SUPERIOR_DIR checkout SuperiorV14
+git -C $SUPERIOR_DIR checkout 16f0312cda8913eb4158c10867b95085a6c0423a
 
 # get superior core tag
 pushd $SUPERIOR_DIR

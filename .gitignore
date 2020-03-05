@@ -13,3 +13,4 @@ superior-wallet-gui_plugin_import.cpp
 superior-wallet-gui_qml_plugin_import.cpp
 *.qmlc
 *.jsc
+.vscode
