@@ -487,13 +487,13 @@
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="62"/>
-        <source>WARNING: Do not reuse your Superior keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
-        <translation>ATENȚIE: Nu reutilizați cheile Superior în alte rețele. Făcând asta, vă va dăuna confidențialitatea.</translation>
+        <source>WARNING: Do not reuse your SuperiorCoin keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
+        <translation>ATENȚIE: Nu reutilizați cheile SuperiorCoin în alte rețele. Făcând asta, vă va dăuna confidențialitatea.</translation>
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="85"/>
-        <source>WARNING: Copying your seed to clipboard can expose you to malicious software, which may record your seed and steal your Superior. Please write down your seed manually.</source>
-        <translation>ATENȚIE: Copiatul seminței în memorie vă poate expune la aplicații rău intenționate, care pot să vă înregistreze sămânța și să vă fure Superior. Vă rugăm să scrieți sămânța de mână.</translation>
+        <source>WARNING: Copying your seed to clipboard can expose you to malicious software, which may record your seed and steal your SuperiorCoin. Please write down your seed manually.</source>
+        <translation>ATENȚIE: Copiatul seminței în memorie vă poate expune la aplicații rău intenționate, care pot să vă înregistreze sămânța și să vă fure SuperiorCoin. Vă rugăm să scrieți sămânța de mână.</translation>
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="159"/>
@@ -879,8 +879,8 @@
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="72"/>
-        <source>Mining with your computer helps strengthen the Superior network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Superior. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
-        <translation>Minatul cu propriul calculator ajută la creșterea puterii rețelei Superior. Cu cât se minează mai mult, cu atât rețeaua e mai greu de atacat și fiecare miner ajută.&lt;br&gt; &lt;br&gt;Minatul îți oferă de asemenea o mică șansă de a câștiga un pic de Superior. Calculatorul tău va crea hash-uri în căutarea de soluții pentru blocuri. Dacă descoperi un bloc, primești recompensa aferentă. Succes!</translation>
+        <source>Mining with your computer helps strengthen the SuperiorCoin network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some SuperiorCoin. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
+        <translation>Minatul cu propriul calculator ajută la creșterea puterii rețelei SuperiorCoin. Cu cât se minează mai mult, cu atât rețeaua e mai greu de atacat și fiecare miner ajută.&lt;br&gt; &lt;br&gt;Minatul îți oferă de asemenea o mică șansă de a câștiga un pic de SuperiorCoin. Calculatorul tău va crea hash-uri în căutarea de soluții pentru blocuri. Dacă descoperi un bloc, primești recompensa aferentă. Succes!</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="93"/>
@@ -1239,8 +1239,8 @@
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="97"/>
-        <source>Embedded Superior version: </source>
-        <translation>Versiune Superior încorporat: </translation>
+        <source>Embedded SuperiorCoin version: </source>
+        <translation>Versiune SuperiorCoin încorporat: </translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="126"/>
@@ -1357,7 +1357,7 @@ Vechiul fișier cache va fi redenumit și va putea fi restaurat mai tâziu.
     <message>
         <location filename="../pages/settings/SettingsLayout.qml" line="171"/>
         <source>Change language</source>
-        <translation>Schimbă limba</translation>
+        <translation type="unfinished">Schimbă limba</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsLayout.qml" line="183"/>
@@ -1402,13 +1402,13 @@ Vechiul fișier cache va fi redenumit și va putea fi restaurat mai tâziu.
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="233"/>
-        <source>Uses a third-party server to connect to the Superior network. Less secure, but easier on your computer.</source>
-        <translation>Utilizează un server terțiar pentru a se conecta la rețeaua Superior. Mai puțin securizat, dar mai ușor de folosit pe calculatorul tău.</translation>
+        <source>Uses a third-party server to connect to the SuperiorCoin network. Less secure, but easier on your computer.</source>
+        <translation>Utilizează un server terțiar pentru a se conecta la rețeaua SuperiorCoin. Mai puțin securizat, dar mai ușor de folosit pe calculatorul tău.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="279"/>
-        <source>To find a remote node, type &apos;Superior remote node&apos; into your favorite search engine. Please ensure the node is run by a trusted third-party.</source>
-        <translation>Pentru a găsi un nod la distanță, tastați &apos;Superior remote node&apos; în motorul de căutare favorit. Vă rugăm să fiți siguri că nodul este rulat de o terța parte de încredere.</translation>
+        <source>To find a remote node, type &apos;SuperiorCoin remote node&apos; into your favorite search engine. Please ensure the node is run by a trusted third-party.</source>
+        <translation>Pentru a găsi un nod la distanță, tastați &apos;SuperiorCoin remote node&apos; în motorul de căutare favorit. Vă rugăm să fiți siguri că nodul este rulat de o terța parte de încredere.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="293"/>
@@ -1522,7 +1522,7 @@ Vechiul fișier cache va fi redenumit și va putea fi restaurat mai tâziu.
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="183"/>
         <source>Success</source>
-        <translation>Succes</translation>
+        <translation type="unfinished">Succes</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="184"/>
@@ -1613,8 +1613,8 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="104"/>
-        <source>This page allows you to interact with the shared ring database. This database is meant for use by Superior wallets as well as wallets from Superior clones which reuse the Superior keys.</source>
-        <translation>Această pagina vă permite să interacționați cu baza de date ce conține inelele distribuite. Această bază de date este menită să fie folosită de portofelul Superior și de alte portofele ale clonelor Superior ce refolosesc cheile Superior.</translation>
+        <source>This page allows you to interact with the shared ring database. This database is meant for use by SuperiorCoin wallets as well as wallets from SuperiorCoin clones which reuse the SuperiorCoin keys.</source>
+        <translation>Această pagina vă permite să interacționați cu baza de date ce conține inelele distribuite. Această bază de date este menită să fie folosită de portofelul SuperiorCoin și de alte portofele ale clonelor SuperiorCoin ce refolosesc cheile SuperiorCoin.</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="117"/>
@@ -1630,8 +1630,8 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="120"/>
-        <source>In order to obscure which inputs in a Superior transaction are being spent, a third party should not be able to tell which inputs in a ring are already known to be spent. Being able to do so would weaken the protection afforded by ring signatures. If all but one of the inputs are known to be already spent, then the input being actually spent becomes apparent, thereby nullifying the effect of ring signatures, one of the three main layers of privacy protection Superior uses.&lt;br&gt;To help transactions avoid those inputs, a list of known spent ones can be used to avoid using them in new transactions. Such a list is maintained by the Superior project and is available on the getsuperior.org website, and you can import this list here.&lt;br&gt;Alternatively, you can scan the blockchain (and the blockchain of key-reusing Superior clones) yourself using the superior-blockchain-mark-spent-outputs tool to create a list of known spent outputs.&lt;br&gt;</source>
-        <translation>Pentru a ascunde ce inputuri sunt folosite intr-o tranzacție Superior, o terță parte nu ar trebui să știe ce inputuri într-un inel au fost deja folosite. Dacă ar putea să facă asta, ar slăbi protecția semnăturilor de inel. Dacă toate inputurile cu excepția unuia sunt deja știute să fie folosite, atunci inputul ce va fi folosit devine vizibil, anulând efectul semnăturilor de inel, unul dintre cele trei straturi principale de protecție a confidențialității ce este folosit de Superior.&lt;br&gt;Pentru a ajuta tranzacțiile să evite aceste inputuri, o listă a acestora ce sunt conuscute poate fi folosită pentru a evita utilizarea lor in noi tranzacții. O asemenea lista este întreținută de proiectul Superior și este disponibila la adresa getsuperior.org, și puteți importa această lista aici.&lt;br&gt;Sau, puteți scana blockchain (și blockchain al clonelor Superior) inșivă folosind unealta superior-blockchain-mark-spent-outputs pentru a crea o listă de rezultate cunoscute folosite.&lt;br&gt;</translation>
+        <source>In order to obscure which inputs in a SuperiorCoin transaction are being spent, a third party should not be able to tell which inputs in a ring are already known to be spent. Being able to do so would weaken the protection afforded by ring signatures. If all but one of the inputs are known to be already spent, then the input being actually spent becomes apparent, thereby nullifying the effect of ring signatures, one of the three main layers of privacy protection SuperiorCoin uses.&lt;br&gt;To help transactions avoid those inputs, a list of known spent ones can be used to avoid using them in new transactions. Such a list is maintained by the SuperiorCoin project and is available on the superior-coin.com website, and you can import this list here.&lt;br&gt;Alternatively, you can scan the blockchain (and the blockchain of key-reusing SuperiorCoin clones) yourself using the superior-blockchain-mark-spent-outputs tool to create a list of known spent outputs.&lt;br&gt;</source>
+        <translation>Pentru a ascunde ce inputuri sunt folosite intr-o tranzacție SuperiorCoin, o terță parte nu ar trebui să știe ce inputuri într-un inel au fost deja folosite. Dacă ar putea să facă asta, ar slăbi protecția semnăturilor de inel. Dacă toate inputurile cu excepția unuia sunt deja știute să fie folosite, atunci inputul ce va fi folosit devine vizibil, anulând efectul semnăturilor de inel, unul dintre cele trei straturi principale de protecție a confidențialității ce este folosit de SuperiorCoin.&lt;br&gt;Pentru a ajuta tranzacțiile să evite aceste inputuri, o listă a acestora ce sunt conuscute poate fi folosită pentru a evita utilizarea lor in noi tranzacții. O asemenea lista este întreținută de proiectul SuperiorCoin și este disponibila la adresa superior-coin.com, și puteți importa această lista aici.&lt;br&gt;Sau, puteți scana blockchain (și blockchain al clonelor SuperiorCoin) inșivă folosind unealta superior-blockchain-mark-spent-outputs pentru a crea o listă de rezultate cunoscute folosite.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="141"/>
@@ -1701,13 +1701,13 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="257"/>
-        <source>In order to avoid nullifying the protection afforded by Superior&apos;s ring signatures, an output should not be spent with different rings on different blockchains. While this is normally not a concern, it can become one when a key-reusing Superior clone allows you to spend existing outputs. In this case, you need to ensure this existing outputs uses the same ring on both chains.&lt;br&gt;This will be done automatically by Superior and any key-reusing software which is not trying to actively strip you of your privacy.&lt;br&gt;If you are using a key-reusing Superior clone too, and this clone does not include this protection, you can still ensure your transactions are protected by spending on the clone first, then manually adding the ring on this page, which allows you to then spend your Superior safely.&lt;br&gt;If you do not use a key-reusing Superior clone without these safety features, then you do not need to do anything as it is all automated.&lt;br&gt;</source>
-        <translation>Pentru a nu anula protecția oferită de semnăturile de tip ring ale Superior, o tranzacție nu ar trebui refolosită cu diferite ring-uri pe diferite blockchain-uri. De obicei această operație nu ar trebui să fie un motiv de îngrijorare, dar poate deveni unul când o clonă Superior permite să folosiți un output existent. în acest caz, trebuie să fiți sigur că output-urile existente folosesc același ring în ambele rețele.&lt;br&gt;</translation>
+        <source>In order to avoid nullifying the protection afforded by SuperiorCoin&apos;s ring signatures, an output should not be spent with different rings on different blockchains. While this is normally not a concern, it can become one when a key-reusing SuperiorCoin clone allows you to spend existing outputs. In this case, you need to ensure this existing outputs uses the same ring on both chains.&lt;br&gt;This will be done automatically by SuperiorCoin and any key-reusing software which is not trying to actively strip you of your privacy.&lt;br&gt;If you are using a key-reusing SuperiorCoin clone too, and this clone does not include this protection, you can still ensure your transactions are protected by spending on the clone first, then manually adding the ring on this page, which allows you to then spend your SuperiorCoin safely.&lt;br&gt;If you do not use a key-reusing SuperiorCoin clone without these safety features, then you do not need to do anything as it is all automated.&lt;br&gt;</source>
+        <translation>Pentru a nu anula protecția oferită de semnăturile de tip ring ale SuperiorCoin, o tranzacție nu ar trebui refolosită cu diferite ring-uri pe diferite blockchain-uri. De obicei această operație nu ar trebui să fie un motiv de îngrijorare, dar poate deveni unul când o clonă SuperiorCoin permite să folosiți un output existent. în acest caz, trebuie să fiți sigur că output-urile existente folosesc același ring în ambele rețele.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="279"/>
-        <source>This records rings used by outputs spent on Superior on a key reusing chain, so that the same ring may be reused to avoid privacy issues.</source>
-        <translation>Aceste inele înregistrate sunt folosite pentru outputurile cheltuite in Superior pe un lanț de chei refolosite, deci același inel poate fi refolosit pentru a evita probleme de confidențialitate.</translation>
+        <source>This records rings used by outputs spent on SuperiorCoin on a key reusing chain, so that the same ring may be reused to avoid privacy issues.</source>
+        <translation>Aceste inele înregistrate sunt folosite pentru outputurile cheltuite in SuperiorCoin pe un lanț de chei refolosite, deci același inel poate fi refolosit pentru a evita probleme de confidențialitate.</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="290"/>
@@ -1891,8 +1891,8 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="337"/>
-        <source>Enter the Superior Address (example: 44AFFq5kSiGBoZ...)</source>
-        <translation>Introdu adresa Superior (de exemplu: 44AFFq5kSiGBoZ...)</translation>
+        <source>Enter the SuperiorCoin Address (example: 44AFFq5kSiGBoZ...)</source>
+        <translation>Introdu adresa SuperiorCoin (de exemplu: 44AFFq5kSiGBoZ...)</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="348"/>
@@ -2065,8 +2065,8 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="51"/>
-        <source>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #B79B0F; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Start daemon&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</source>
-        <translation>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #B79B0F; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Pornește serviciu&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</translation>
+        <source>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FF6C3C; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Start daemon&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</source>
+        <translation>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FF6C3C; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Pornește serviciu&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="187"/>
@@ -2126,8 +2126,8 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="616"/>
-        <source>Superior sent successfully</source>
-        <translation>Superior trimiți cu succes</translation>
+        <source>SuperiorCoin sent successfully</source>
+        <translation>SuperiorCoin trimiți cu succes</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="463"/>
@@ -2283,8 +2283,7 @@ Actualizează sau conectează-te la un alt serviciu</translation>
         <source>Payment ID &lt;font size=&apos;2&apos;&gt;( Optional )&lt;/font&gt;</source>
         <translation>Identificator plată &lt;font size=&apos;2&apos;&gt;( Opțional )&lt;/font&gt;</translation>
     </message>
-<message><source></source><translation></translation>
-    <location filename="../pages/Transfer.qml" line="91"/></message></context>
+</context>
 <context>
     <name>TxKey</name>
     <message>
@@ -2374,70 +2373,6 @@ Pentru cazurile cu Dovadă de plată, nu e necesară adresa destinatarului.</tra
     </message>
 </context>
 <context>
-    <name>Utils</name>
-    <message>
-        <location filename="../js/Utils.js" line="42"/>
-        <source>Wrong password</source>
-        <translation>Parolă incorectă</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="61"/>
-        <source>second ago</source>
-        <translation>secundă în urmă</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="63"/>
-        <source>seconds ago</source>
-        <translation>secunde în urmă</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="67"/>
-        <source>minute ago</source>
-        <translation>minut în urmă</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="69"/>
-        <source>minutes ago</source>
-        <translation>minute în urmă</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="73"/>
-        <source>hour ago</source>
-        <translation>oră în urmă</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="75"/>
-        <source>hours ago</source>
-        <translation>ore în urmă</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="79"/>
-        <location filename="../js/Utils.js" line="83"/>
-        <source>day ago</source>
-        <translation>zi în urmă</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="85"/>
-        <source>days ago</source>
-        <translation>zile în urmă</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="94"/>
-        <source>Testnet</source>
-        <translation>Testnet</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="94"/>
-        <source>Stagenet</source>
-        <translation>Stagenet</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="94"/>
-        <source>Mainnet</source>
-        <translation>Rețea principală</translation>
-    </message>
-</context>
-<context>
     <name>WizardAskPassword</name>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="41"/>
@@ -2524,12 +2459,12 @@ Pentru cazurile cu Dovadă de plată, nu e necesară adresa destinatarului.</tra
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="125"/>
         <source>Wallet creation date as `YYYY-MM-DD` or restore height</source>
-        <translation>Data creării portofelului în formatul &apos;AAAA-LL-ZZ&apos; sau înălțimea de restaurare</translation>
+        <translation type="unfinished">Data creării portofelului în formatul &apos;AAAA-LL-ZZ&apos; sau înălțimea de restaurare</translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="128"/>
         <source>Restore height</source>
-        <translation>Înălțimea de revenire</translation>
+        <translation type="unfinished">Înălțimea de revenire</translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="139"/>
@@ -2591,7 +2526,7 @@ Pentru cazurile cu Dovadă de plată, nu e necesară adresa destinatarului.</tra
     <message>
         <location filename="../wizard/WizardCreateWallet2.qml" line="78"/>
         <source>Failed to fetch remote nodes from third-party server.</source>
-        <translation>Eșuare la conectarea rețelei la distanță a terței părți.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2603,8 +2538,8 @@ Pentru cazurile cu Dovadă de plată, nu e necesară adresa destinatarului.</tra
     </message>
     <message>
         <location filename="../wizard/WizardCreateWallet3.qml" line="58"/>
-        <source>To be able to communicate with the Superior network your wallet needs to be connected to a Superior node. For best privacy it&apos;s recommended to run your own node.</source>
-        <translation>Pentru a comunica cu rețeaua Superior, portofelul trebuie să fie conectat la un nod de rețea. Pentru cea mai bună intimitate este recomandat să rulați propriul nod.</translation>
+        <source>To be able to communicate with the SuperiorCoin network your wallet needs to be connected to a SuperiorCoin node. For best privacy it&apos;s recommended to run your own node.</source>
+        <translation>Pentru a comunica cu rețeaua SuperiorCoin, portofelul trebuie să fie conectat la un nod de rețea. Pentru cea mai bună intimitate este recomandat să rulați propriul nod.</translation>
     </message>
 </context>
 <context>
@@ -2654,8 +2589,8 @@ Pentru cazurile cu Dovadă de plată, nu e necesară adresa destinatarului.</tra
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="120"/>
-        <source>Additionally, you may specify a bootstrap node to use Superior immediately.</source>
-        <translation>În plus, puteți specifica un nod de tip bootstrap pentru a folosi Superior imediat.</translation>
+        <source>Additionally, you may specify a bootstrap node to use SuperiorCoin immediately.</source>
+        <translation>În plus, puteți specifica un nod de tip bootstrap pentru a folosi SuperiorCoin imediat.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="183"/>
@@ -2667,8 +2602,8 @@ Pentru cazurile cu Dovadă de plată, nu e necesară adresa destinatarului.</tra
     <name>WizardHome</name>
     <message>
         <location filename="../wizard/WizardHome.qml" line="60"/>
-        <source>Welcome to Superior.</source>
-        <translation>Bine ați venit la Superior.</translation>
+        <source>Welcome to SuperiorCoin.</source>
+        <translation>Bine ați venit la SuperiorCoin.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="65"/>
@@ -2677,8 +2612,8 @@ Pentru cazurile cu Dovadă de plată, nu e necesară adresa destinatarului.</tra
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="66"/>
-        <source>Choose this option if this is your first time using Superior.</source>
-        <translation>Alegeți această opțiune dacă este prima dată când folosiți Superior.</translation>
+        <source>Choose this option if this is your first time using SuperiorCoin.</source>
+        <translation>Alegeți această opțiune dacă este prima dată când folosiți SuperiorCoin.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="86"/>
@@ -2687,8 +2622,8 @@ Pentru cazurile cu Dovadă de plată, nu e necesară adresa destinatarului.</tra
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="87"/>
-        <source>Connect your hardware wallet to create a new Superior wallet.</source>
-        <translation>Conectați dispozitivul hardware pentru a crea un portofel nou Superior.</translation>
+        <source>Connect your hardware wallet to create a new SuperiorCoin wallet.</source>
+        <translation>Conectați dispozitivul hardware pentru a crea un portofel nou SuperiorCoin.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="106"/>
@@ -2740,7 +2675,7 @@ Pentru cazurile cu Dovadă de plată, nu e necesară adresa destinatarului.</tra
     </message>
     <message>
         <location filename="../wizard/WizardLang.qml" line="93"/>
-        <source>Change the language of the Superior GUI.</source>
+        <source>Change the language of the SuperiorCoin GUI.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2768,8 +2703,8 @@ Pentru cazurile cu Dovadă de plată, nu e necesară adresa destinatarului.</tra
     </message>
     <message>
         <location filename="../wizard/WizardModeBootstrap.qml" line="81"/>
-        <source>Temporary use of remote nodes is useful in order to use Superior immediately (hence the name &lt;i&gt;bootstrap&lt;/i&gt;), however be aware that when using remote nodes (including with the bootstrap setting), nodes could track your IP address, track your &quot;restore height&quot; and associated block request data, and send you inaccurate information to learn more about transactions you make.</source>
-        <translation>Utilizarea temporară a nodurilor la distanță este utilă pentru a utiliza imediat Superior (de aici numele &lt;i&gt;bootstrap&lt;/i&gt;), cu toate acestea, rețineți că atunci când utilizați nodurile de la distanță (inclusiv cu setarea de bootstrap), nodurile pot să vă urmărească adresa IP, să vă urmărească datele de solicitare de blocare a recuperării și asociate și să vă trimită informații inexacte pentru a afla mai multe despre tranzacțiile pe care le faceți.</translation>
+        <source>Temporary use of remote nodes is useful in order to use SuperiorCoin immediately (hence the name &lt;i&gt;bootstrap&lt;/i&gt;), however be aware that when using remote nodes (including with the bootstrap setting), nodes could track your IP address, track your &quot;restore height&quot; and associated block request data, and send you inaccurate information to learn more about transactions you make.</source>
+        <translation>Utilizarea temporară a nodurilor la distanță este utilă pentru a utiliza imediat SuperiorCoin (de aici numele &lt;i&gt;bootstrap&lt;/i&gt;), cu toate acestea, rețineți că atunci când utilizați nodurile de la distanță (inclusiv cu setarea de bootstrap), nodurile pot să vă urmărească adresa IP, să vă urmărească datele de solicitare de blocare a recuperării și asociate și să vă trimită informații inexacte pentru a afla mai multe despre tranzacțiile pe care le faceți.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeBootstrap.qml" line="94"/>
@@ -2796,8 +2731,8 @@ Pentru cazurile cu Dovadă de plată, nu e necesară adresa destinatarului.</tra
     </message>
     <message>
         <location filename="../wizard/WizardModeRemoteNodeWarning.qml" line="70"/>
-        <source>This mode is ideal for managing small amounts of Superior. You have access to basic features for making and managing transactions. It will automatically connect to the Superior network so you can start using Superior immediately.</source>
-        <translation>Acest mod este ideal pentru gestionarea cantităților mici de Superior. Aveți acces la caracteristicile de bază pentru efectuarea și gestionarea tranzacțiilor. Se va conecta automat la rețeaua Superior, astfel încât să puteți începe să utilizați Superior imediat.</translation>
+        <source>This mode is ideal for managing small amounts of SuperiorCoin. You have access to basic features for making and managing transactions. It will automatically connect to the SuperiorCoin network so you can start using SuperiorCoin immediately.</source>
+        <translation>Acest mod este ideal pentru gestionarea cantităților mici de SuperiorCoin. Aveți acces la caracteristicile de bază pentru efectuarea și gestionarea tranzacțiilor. Se va conecta automat la rețeaua SuperiorCoin, astfel încât să puteți începe să utilizați SuperiorCoin imediat.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeRemoteNodeWarning.qml" line="81"/>
@@ -2902,7 +2837,7 @@ Pentru cazurile cu Dovadă de plată, nu e necesară adresa destinatarului.</tra
     <message>
         <location filename="../wizard/WizardOpenWallet1.qml" line="201"/>
         <source>Failed to fetch remote nodes from third-party server.</source>
-        <translation>Nu s-au putut prelua nodurile de la distanță de la un server terță parte.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardOpenWallet1.qml" line="228"/>
@@ -2978,7 +2913,7 @@ Pentru cazurile cu Dovadă de plată, nu e necesară adresa destinatarului.</tra
     <message>
         <location filename="../wizard/WizardRestoreWallet2.qml" line="77"/>
         <source>Failed to fetch remote nodes from third-party server.</source>
-        <translation>Nu s-au putut prelua nodurile de la distanță de la un server terță parte.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2990,10 +2925,10 @@ Pentru cazurile cu Dovadă de plată, nu e necesară adresa destinatarului.</tra
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet3.qml" line="66"/>
-        <source>To be able to communicate with the Superior network your wallet needs to be connected to a Superior node. For best privacy it&apos;s recommended to run your own node.
+        <source>To be able to communicate with the SuperiorCoin network your wallet needs to be connected to a SuperiorCoin node. For best privacy it&apos;s recommended to run your own node.
 
 If you don&apos;t have the option to run your own node, there&apos;s an option to connect to a remote node.</source>
-        <translation>Pentru a putea comunica cu rețeaua Superior, portofelul trebuie să fie conectat la un nod Superior. Pentru cea mai bună confidențialitate, este recomandat să rulați propriul nod.
+        <translation>Pentru a putea comunica cu rețeaua SuperiorCoin, portofelul trebuie să fie conectat la un nod SuperiorCoin. Pentru cea mai bună confidențialitate, este recomandat să rulați propriul nod.
 
 Dacă nu aveți opțiunea de a rula propriul nod, există o opțiune de conectare la un nod de la distanță.</translation>
     </message>
@@ -3248,8 +3183,8 @@ Indexul adresei de cheltuit:</translation>
     </message>
     <message>
         <location filename="../main.qml" line="840"/>
-        <source>Superior sent successfully: %1 transaction(s) </source>
-        <translation>Superior trimiți cu succes: %1 tranzacție</translation>
+        <source>SuperiorCoin sent successfully: %1 transaction(s) </source>
+        <translation>SuperiorCoin trimiți cu succes: %1 tranzacție</translation>
     </message>
     <message>
         <location filename="../main.qml" line="870"/>
@@ -3333,7 +3268,7 @@ Indexul adresei de cheltuit:</translation>
     <message>
         <location filename="../main.qml" line="1803"/>
         <source>Failed to fetch remote nodes from third-party server.</source>
-        <translation>Nu s-au putut prelua nodurile de la distanță de la un server terță parte.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.qml" line="1858"/>
@@ -3431,8 +3366,8 @@ Indexul adresei de cheltuit:</translation>
     <message>
         <location filename="../main.qml" line="1328"/>
         <location filename="../main.qml" line="1343"/>
-        <source>Superior</source>
-        <translation>Superior</translation>
+        <source>SuperiorCoin</source>
+        <translation>SuperiorCoin</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1503"/>

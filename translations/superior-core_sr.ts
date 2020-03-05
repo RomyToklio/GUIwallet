@@ -6,58 +6,58 @@
     <message>
         <location filename="../pages/Account.qml" line="51"/>
         <source>Set the label of the selected account:</source>
-        <translation>Поставите ознаку за одабрани налог:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Account.qml" line="82"/>
         <source>Balance All</source>
-        <translation>Svi balansi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Account.qml" line="88"/>
         <source>Total balance: </source>
-        <translation>Ukupni balans: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Account.qml" line="112"/>
         <location filename="../pages/Account.qml" line="145"/>
         <source>Copied to clipboard</source>
-        <translation>Kopirano na klipbord</translation>
+        <translation type="unfinished">Kopirano na klipbord</translation>
     </message>
     <message>
         <location filename="../pages/Account.qml" line="121"/>
         <source>Total unlocked balance: </source>
-        <translation>Ukupni otkljucani balans: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Account.qml" line="159"/>
         <source>Accounts</source>
-        <translation>Nalozi (racuni)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Account.qml" line="241"/>
         <source>Balance: </source>
-        <translation>Balans: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Account.qml" line="285"/>
         <source>Address copied to clipboard</source>
-        <translation>Adresa kopirana na klipbord</translation>
+        <translation type="unfinished">Adresa kopirana na klipbord</translation>
     </message>
     <message>
         <location filename="../pages/Account.qml" line="320"/>
         <source>Create new account</source>
-        <translation>Napravite novi nalog</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Account.qml" line="322"/>
         <source>Set the label of the new account:</source>
-        <translation>Postavite oznaku (naziv) za novi nalog:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Account.qml" line="323"/>
         <source>(Untitled)</source>
-        <translation>(Bez nasolova)</translation>
+        <translation type="unfinished">(Bez nasolova)</translation>
     </message>
 </context>
 <context>
@@ -75,33 +75,33 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="93"/>
         <source>Resolve</source>
-        <translation>Reši</translation>
+        <translation type="unfinished">Reši</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="109"/>
         <source>No valid address found at this OpenAlias address</source>
-        <translation>Nema validnih adresa pronađenih na ovoj OpenAlias adresi</translation>
+        <translation type="unfinished">Nema validnih adresa pronađenih na ovoj OpenAlias adresi</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="114"/>
         <source>Address found, but the DNSSEC signatures could not be verified, so this address may be spoofed</source>
-        <translation>Adresa pronađena, ali DNSSEC potpisi nisu mogli biti verifikovani, moguće da je u pitanju spufing, tj. da je adresa lažna i ugrožena</translation>
+        <translation type="unfinished">Adresa pronađena, ali DNSSEC potpisi nisu mogli biti verifikovani, moguće da je u pitanju spufing, tj. da je adresa lažna i ugrožena</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="118"/>
         <source>No valid address found at this OpenAlias address, but the DNSSEC signatures could not be verified, so this may be spoofed</source>
-        <translation>Nema validnih adresa pronađenih na ovoj OpenAlias adresi i DNSSEC potpisi nisu mogli biti verifikovani, moguće da je u pitanju spufing, tj. da je adresa lažna i ugrožena</translation>
+        <translation type="unfinished">Nema validnih adresa pronađenih na ovoj OpenAlias adresi i DNSSEC potpisi nisu mogli biti verifikovani, moguće da je u pitanju spufing, tj. da je adresa lažna i ugrožena</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="122"/>
         <location filename="../pages/AddressBook.qml" line="126"/>
         <source>Internal error</source>
-        <translation>Interna greška</translation>
+        <translation type="unfinished">Interna greška</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="130"/>
         <source>No address found</source>
-        <translation>Adresa nije pronađena</translation>
+        <translation type="unfinished">Adresa nije pronađena</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="140"/>
@@ -141,7 +141,7 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="264"/>
         <source>OpenAlias error</source>
-        <translation>OpenAlias greška</translation>
+        <translation type="unfinished">OpenAlias greška</translation>
     </message>
 </context>
 <context>
@@ -193,32 +193,32 @@
     <message>
         <location filename="../pages/History.qml" line="72"/>
         <source> selected: </source>
-        <translation> odabrani: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="154"/>
         <source>Export</source>
-        <translation>Izvoz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="170"/>
         <source>Search</source>
-        <translation>Pretraga</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="200"/>
         <source>Date from</source>
-        <translation>Datum od</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="223"/>
         <source>Date to</source>
-        <translation>Datum do</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="238"/>
         <source>Sort</source>
-        <translation>Sortiraj</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="245"/>
@@ -233,32 +233,32 @@
     <message>
         <location filename="../pages/History.qml" line="287"/>
         <source>No history...</source>
-        <translation>Nema istorije....</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="387"/>
         <source>Success</source>
-        <translation>Uspešno obavljeno</translation>
+        <translation type="unfinished">Uspešno obavljeno</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="388"/>
         <source>CSV file written to: %1</source>
-        <translation>CSV fajl upisan u: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="389"/>
         <source>Tip: Use your favorite spreadsheet software to sort on blockheight.</source>
-        <translation>Tip: Koristite vas omiljeni spredsit program da sortirate po visini bloka (blockheight).</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="393"/>
         <source>Error</source>
-        <translation>Greška</translation>
+        <translation type="unfinished">Greška</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="394"/>
         <source>Error exporting transaction data.</source>
-        <translation>Greska pri izvozu podataka transakcija.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -271,12 +271,12 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="51"/>
         <source>Address label:</source>
-        <translation>Oznaka adrese:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="52"/>
         <source>Address:</source>
-        <translation>Adresa:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="53"/>
@@ -321,12 +321,12 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="194"/>
         <source>Copied to clipboard</source>
-        <translation>Kopirano na klipbord</translation>
+        <translation type="unfinished">Kopirano na klipbord</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="239"/>
         <source>To </source>
-        <translation>Za </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="262"/>
@@ -336,7 +336,7 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="314"/>
         <source>Transaction ID</source>
-        <translation>Identifikacija/(ID) transakcije</translation>
+        <translation type="unfinished">Identifikacija/(ID) transakcije</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="361"/>
@@ -351,12 +351,12 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="397"/>
         <source>None</source>
-        <translation>Nista</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="475"/>
         <source>Primary address</source>
-        <translation>Primarna adresa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="365"/>
@@ -394,12 +394,12 @@
     <message>
         <location filename="../components/HistoryTableInnerColumn.qml" line="115"/>
         <source>Set description:</source>
-        <translation>Postavite opis:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../components/HistoryTableInnerColumn.qml" line="118"/>
         <source>Updated description.</source>
-        <translation>Azurirani opis.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -487,13 +487,13 @@
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="62"/>
-        <source>WARNING: Do not reuse your Superior keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
+        <source>WARNING: Do not reuse your SuperiorCoin keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
         <translation>UPOZORENJE: Ne koristite vaše ključeve na drugom forku, OSIM ako taj fork ima ugradjene mitigacije za ponovno korišćenje kljuca. Ovakvo korišćenje će oštetiti vašu priivatnost.</translation>
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="85"/>
-        <source>WARNING: Copying your seed to clipboard can expose you to malicious software, which may record your seed and steal your Superior. Please write down your seed manually.</source>
-        <translation>UPOZORENJE: Kopiranje vaseg sida u klipbord Vas moze izloziti virusima, koji mogu da snime vas sid i ukradu Vas Superior. Prepisite zato sid rucno.</translation>
+        <source>WARNING: Copying your seed to clipboard can expose you to malicious software, which may record your seed and steal your SuperiorCoin. Please write down your seed manually.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="159"/>
@@ -515,12 +515,12 @@
     <message>
         <location filename="../pages/Keys.qml" line="241"/>
         <source>(View Only Wallet - No mnemonic seed available)</source>
-        <translation>(Novcanik za pregled - Nema mnemonik sida na raspolaganju)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="242"/>
         <source>(View Only Wallet - No secret spend key available)</source>
-        <translation>(Novcanik samo za pregled - nema tajnog koda za trosenje na raspolaganju)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="120"/>
@@ -604,17 +604,17 @@
         <location filename="../LeftPanel.qml" line="226"/>
         <location filename="../LeftPanel.qml" line="264"/>
         <source>Copied to clipboard</source>
-        <translation>Kopirano na klipbord</translation>
+        <translation type="unfinished">Kopirano na klipbord</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="342"/>
         <source>Account</source>
-        <translation>Nalog</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="343"/>
         <source>T</source>
-        <translation>T</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="391"/>
@@ -629,12 +629,12 @@
     <message>
         <location filename="../LeftPanel.qml" line="441"/>
         <source>Merchant</source>
-        <translation>Prodavac</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="442"/>
         <source>U</source>
-        <translation>U</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="468"/>
@@ -684,7 +684,7 @@
     <message>
         <location filename="../LeftPanel.qml" line="696"/>
         <source>Daemon</source>
-        <translation>Demon</translation>
+        <translation>Daemon</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="590"/>
@@ -722,7 +722,7 @@
     <message>
         <location filename="../components/LineEdit.qml" line="128"/>
         <source>Copy</source>
-        <translation>Kopiraj</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../components/LineEdit.qml" line="134"/>
@@ -735,7 +735,7 @@
     <message>
         <location filename="../components/LineEditMulti.qml" line="137"/>
         <source>Copy</source>
-        <translation>Kopiraj</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../components/LineEditMulti.qml" line="142"/>
@@ -745,7 +745,7 @@
     <message>
         <location filename="../components/LineEditMulti.qml" line="150"/>
         <source>Paste</source>
-        <translation>Nalepi</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -753,74 +753,74 @@
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="136"/>
         <source>Sales</source>
-        <translation>Prodaje</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="161"/>
         <source>&lt;style&gt;p{font-size:14px;}&lt;/style&gt;&lt;p&gt;This page will automatically scan the blockchain and the tx pool for incoming transactions using the QR code.&lt;/p&gt;&lt;p&gt;It&apos;s up to you whether to accept unconfirmed transactions or not. It is likely they&apos;ll be confirmed in short order, but there is still a possibility they might not, so for larger values you may want to wait for one or more confirmation(s).&lt;/p&gt;</source>
-        <translation>&lt;style&gt;p{font-size:14px;}&lt;/style&gt;&lt;p&gt; Ove stranica ce automatski skenirati blockchain i tx pool za bilo koje nove transakcije koriscenjem QR koda. &lt;/p&gt;&lt;p&gt; Vi odlucite da li zelite da prihvatite nepotvrdjene transakcije ili ne. Vrlo je verovatno da ce biti potvrdjene vrlo brzo, ali postoji i mala sansa da nece biti. Zbog toga je bolje sacekati jednu ili vise potvrda za vece iznose. &lt;/p&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="172"/>
         <location filename="../pages/merchant/Merchant.qml" line="646"/>
         <source>Currently monitoring incoming transactions, none found yet.</source>
-        <translation>Trenutno se prate dolazne transakcije - ni jedna nije jos pronadjena.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="242"/>
         <source>Save As</source>
-        <translation>Sačuvaj kao</translation>
+        <translation type="unfinished">Sačuvaj kao</translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="300"/>
         <source>(right-click, save as)</source>
-        <translation>(desni-klik, snimi kao)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="343"/>
         <source>Payment URL</source>
-        <translation>URL placanja</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="420"/>
         <source>Copied to clipboard</source>
-        <translation>Kopirano na klipbord</translation>
+        <translation type="unfinished">Kopirano na klipbord</translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="453"/>
         <location filename="../pages/merchant/Merchant.qml" line="504"/>
         <source>Amount to receive</source>
-        <translation>Suma za primanje</translation>
+        <translation type="unfinished">Suma za primanje</translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="531"/>
         <source>Enable sales tracker</source>
-        <translation>Omogucite pracenje prodaja</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="543"/>
         <source>Leave this page</source>
-        <translation>Napusti ovu stranicu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="572"/>
         <source>The merchant page requires a larger window</source>
-        <translation>Stranica prodavca zahteva veci prozor</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="586"/>
         <source>WARNING: no connection to daemon</source>
-        <translation>UPOZORENJE: nema konekcije sa daemon-om</translation>
+        <translation type="unfinished">UPOZORENJE: nema konekcije sa daemon-om</translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="690"/>
         <source>Save QrCode</source>
-        <translation>Sačuvaj QR kod</translation>
+        <translation type="unfinished">Sačuvaj QR kod</translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="691"/>
         <source>Failed to save QrCode to </source>
-        <translation>Neuspeh da se QR kod sačuva na </translation>
+        <translation type="unfinished">Neuspeh da se QR kod sačuva na </translation>
     </message>
 </context>
 <context>
@@ -828,28 +828,28 @@
     <message>
         <location filename="../pages/merchant/MerchantTrackingList.qml" line="103"/>
         <source>show</source>
-        <translation>pokazi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/merchant/MerchantTrackingList.qml" line="103"/>
         <source>hide</source>
-        <translation>sakrij</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/merchant/MerchantTrackingList.qml" line="163"/>
         <source>Awaiting in txpool</source>
-        <translation>Ceka u txpool-u</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/merchant/MerchantTrackingList.qml" line="167"/>
         <location filename="../pages/merchant/MerchantTrackingList.qml" line="169"/>
         <source>confirmations</source>
-        <translation>potvrde</translation>
+        <translation type="unfinished">potvrde</translation>
     </message>
     <message>
         <location filename="../pages/merchant/MerchantTrackingList.qml" line="172"/>
         <source>confirmation</source>
-        <translation>potvrda</translation>
+        <translation type="unfinished">potvrda</translation>
     </message>
 </context>
 <context>
@@ -879,8 +879,8 @@
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="72"/>
-        <source>Mining with your computer helps strengthen the Superior network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Superior. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
-        <translation>Rudareći svojim računarom ojačavate Superior mrežu. Što je veći broj rudara, utoliko je teže napasti mrežu, upravo zbog toga i najmanji doprinos u rudarenju pomaže.&lt;br&gt; &lt;br&gt;Rudarenje takođe pruža malu šansu da zaradite nešto Monera. Vaš računar će generišući haševe tražiti odgovarajuće rešenje za naredni blok. Ukoliko uspete da nađete blok, dobićete nagradu vezanu za taj blok u vidu Monera. Srećno!</translation>
+        <source>Mining with your computer helps strengthen the SuperiorCoin network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some SuperiorCoin. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
+        <translation>Rudareći svojim računarom ojačavate SuperiorCoin mrežu. Što je veći broj rudara, utoliko je teže napasti mrežu, upravo zbog toga i najmanji doprinos u rudarenju pomaže.&lt;br&gt; &lt;br&gt;Rudarenje takođe pruža malu šansu da zaradite nešto Monera. Vaš računar će generišući haševe tražiti odgovarajuće rešenje za naredni blok. Ukoliko uspete da nađete blok, dobićete nagradu vezanu za taj blok u vidu Monera. Srećno!</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="93"/>
@@ -905,22 +905,22 @@
     <message>
         <location filename="../pages/Mining.qml" line="122"/>
         <source>Use recommended # of threads</source>
-        <translation>Koristi preopruceni broj tredova</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="126"/>
         <source>Set to use recommended # of threads</source>
-        <translation>Postavi da koristis preporuceni broj tredova</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="133"/>
         <source>Use all threads</source>
-        <translation>Koristi sve tredove</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="137"/>
         <source>Set to use all threads</source>
-        <translation>Podesi da se koriste svi tredovi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="149"/>
@@ -965,7 +965,7 @@
     <message>
         <location filename="../pages/Mining.qml" line="215"/>
         <source>Status</source>
-        <translation>Status</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="232"/>
@@ -997,22 +997,22 @@
     <message>
         <location filename="../pages/settings/Navbar.qml" line="158"/>
         <source>Layout</source>
-        <translation>Raspored</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/Navbar.qml" line="209"/>
         <source>Node</source>
-        <translation>Nod</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/Navbar.qml" line="261"/>
         <source>Log</source>
-        <translation>Log</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/Navbar.qml" line="312"/>
         <source>Info</source>
-        <translation>Informacije</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1035,7 +1035,7 @@
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="46"/>
         <source>Mining</source>
-        <translation>Rudarenje</translation>
+        <translation type="unfinished">Rudarenje</translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="49"/>
@@ -1045,7 +1045,7 @@
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="52"/>
         <source>Searching node</source>
-        <translation>Pretrazujem (trazim) nod</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="54"/>
@@ -1106,7 +1106,7 @@
     <message>
         <location filename="../components/PasswordDialog.qml" line="194"/>
         <source>Change wallet</source>
-        <translation>Promeni novcanik</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../components/PasswordDialog.qml" line="205"/>
@@ -1168,12 +1168,12 @@
     <message>
         <location filename="../pages/Receive.qml" line="287"/>
         <source>Copied to clipboard</source>
-        <translation>Kopirano na klipbord</translation>
+        <translation type="unfinished">Kopirano na klipbord</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="300"/>
         <source>Please choose a name</source>
-        <translation>Molim vas izaberite ime</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="233"/>
@@ -1225,12 +1225,12 @@
         <location filename="../pages/settings/SettingsInfo.qml" line="44"/>
         <location filename="../pages/settings/SettingsInfo.qml" line="46"/>
         <source>Simple mode</source>
-        <translation>Jednostavni rezim</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="48"/>
         <source>Advanced mode</source>
-        <translation>Napredni rezim</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="68"/>
@@ -1239,7 +1239,7 @@
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="97"/>
-        <source>Embedded Superior version: </source>
+        <source>Embedded SuperiorCoin version: </source>
         <translation>Ugrađena verzija Monera: </translation>
     </message>
     <message>
@@ -1303,7 +1303,7 @@ Stari fajl keša novčanika će biti preimenovan i može se povratiti kasnije.</
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="273"/>
         <source>Wallet mode: </source>
-        <translation>Rezim novcanika: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="286"/>
@@ -1326,32 +1326,32 @@ Stari fajl keša novčanika će biti preimenovan i može se povratiti kasnije.</
     <message>
         <location filename="../pages/settings/SettingsLayout.qml" line="78"/>
         <source>Hide balance</source>
-        <translation>Sakrij balans</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsLayout.qml" line="88"/>
         <source>Enable transfer with payment ID (OBSOLETE)</source>
-        <translation>Omoguci transfer sa koriscenjem payment ID-a (ZASTARELA OPCIJA)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsLayout.qml" line="96"/>
         <source>Lock wallet on inactivity</source>
-        <translation>Zakljucaj novcanik nakon neaktivnosti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsLayout.qml" line="111"/>
         <source>minutes</source>
-        <translation>minuti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsLayout.qml" line="111"/>
         <source>minute</source>
-        <translation>minut</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsLayout.qml" line="113"/>
         <source>After </source>
-        <translation>Posle</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsLayout.qml" line="171"/>
@@ -1401,13 +1401,13 @@ Stari fajl keša novčanika će biti preimenovan i može se povratiti kasnije.</
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="233"/>
-        <source>Uses a third-party server to connect to the Superior network. Less secure, but easier on your computer.</source>
-        <translation>Koristi server trećeg lica za povezivanje na Superior mrežu. Manje bezbedno, ali lakše za vaš računar.</translation>
+        <source>Uses a third-party server to connect to the SuperiorCoin network. Less secure, but easier on your computer.</source>
+        <translation>Koristi server trećeg lica za povezivanje na SuperiorCoin mrežu. Manje bezbedno, ali lakše za vaš računar.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="279"/>
-        <source>To find a remote node, type &apos;Superior remote node&apos; into your favorite search engine. Please ensure the node is run by a trusted third-party.</source>
-        <translation>Da nađete udaljenu nodu, ukucajte &apos;Superior remote node&apos; u vaš omiljeni pretraživač. Molimo proverite da nodom upravlja lice od poverenja.</translation>
+        <source>To find a remote node, type &apos;SuperiorCoin remote node&apos; into your favorite search engine. Please ensure the node is run by a trusted third-party.</source>
+        <translation>Da nađete udaljenu nodu, ukucajte &apos;SuperiorCoin remote node&apos; u vaš omiljeni pretraživač. Molimo proverite da nodom upravlja lice od poverenja.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="293"/>
@@ -1422,7 +1422,7 @@ Stari fajl keša novčanika će biti preimenovan i može se povratiti kasnije.</
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="305"/>
         <source>Remote node updated. Trusted daemon has been reset. Mark again, if desired.</source>
-        <translation>Udaljeni nod je azuriran. Demon je resetovan. Ponovo obelezite ako zelite.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="319"/>
@@ -1438,7 +1438,7 @@ Stari fajl keša novčanika će biti preimenovan i može se povratiti kasnije.</
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="345"/>
         <source>Mark as Trusted Daemon</source>
-        <translation>Obelezite kao Demon od poverenja</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="352"/>
@@ -1453,7 +1453,7 @@ Stari fajl keša novčanika će biti preimenovan i može se povratiti kasnije.</
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="375"/>
         <source>Start daemon</source>
-        <translation>Pocnite demon</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="394"/>
@@ -1511,7 +1511,7 @@ Stari fajl keša novčanika će biti preimenovan i može se povratiti kasnije.</
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="163"/>
         <source>Creates a new wallet that can only view and initiate transactions, but requires a spendable wallet to sign transactions before sending.</source>
-        <translation>Pravi novi novcanik koji samo moze da proverava i kreira transakcije, ali zahteva novcanik za trosenje da potpise transakcije pre slanja.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="178"/>
@@ -1521,7 +1521,7 @@ Stari fajl keša novčanika će biti preimenovan i može se povratiti kasnije.</
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="183"/>
         <source>Success</source>
-        <translation>Uspešno obavljeno</translation>
+        <translation type="unfinished">Uspešno obavljeno</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="184"/>
@@ -1585,22 +1585,22 @@ You can change the password in the wallet settings.</source>
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="370"/>
         <source>Change wallet password</source>
-        <translation>Promeni sifru novcanika</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="384"/>
         <source>Change the password of your wallet.</source>
-        <translation>Promeni lozinku vaseg novcanika.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="399"/>
         <source>Change password</source>
-        <translation>Promeni lozinku</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="406"/>
         <source>Wrong password</source>
-        <translation>Pogrešna lozinka</translation>
+        <translation type="unfinished">Pogrešna lozinka</translation>
     </message>
 </context>
 <context>
@@ -1612,8 +1612,8 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="104"/>
-        <source>This page allows you to interact with the shared ring database. This database is meant for use by Superior wallets as well as wallets from Superior clones which reuse the Superior keys.</source>
-        <translation>Ova stranica vam omogućava interakciju sa deljenom prsten bazom podataka. Ova baza podataka je namenjena za upotrebu od strane Superior novčanika kao i novčanika od Superior klonova koji koriste Superior ključeve.</translation>
+        <source>This page allows you to interact with the shared ring database. This database is meant for use by SuperiorCoin wallets as well as wallets from SuperiorCoin clones which reuse the SuperiorCoin keys.</source>
+        <translation>Ova stranica vam omogućava interakciju sa deljenom prsten bazom podataka. Ova baza podataka je namenjena za upotrebu od strane SuperiorCoin novčanika kao i novčanika od SuperiorCoin klonova koji koriste SuperiorCoin ključeve.</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="117"/>
@@ -1629,8 +1629,8 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="120"/>
-        <source>In order to obscure which inputs in a Superior transaction are being spent, a third party should not be able to tell which inputs in a ring are already known to be spent. Being able to do so would weaken the protection afforded by ring signatures. If all but one of the inputs are known to be already spent, then the input being actually spent becomes apparent, thereby nullifying the effect of ring signatures, one of the three main layers of privacy protection Superior uses.&lt;br&gt;To help transactions avoid those inputs, a list of known spent ones can be used to avoid using them in new transactions. Such a list is maintained by the Superior project and is available on the getsuperior.org website, and you can import this list here.&lt;br&gt;Alternatively, you can scan the blockchain (and the blockchain of key-reusing Superior clones) yourself using the superior-blockchain-mark-spent-outputs tool to create a list of known spent outputs.&lt;br&gt;</source>
-        <translation>Da bi bilo nejasnije koji ulazi u Superior transakciji se troše, treća strana ne treba da bude u mogućnosti da zaključi koji ulazi u prstenu su već poznati kao potrošeni. To bi oslabilo zaštitu priuštenu prsten potpisima. Ako za sve osim jednog ulaza je poznato da su potrošeni, onda ulaz koji biva potrošen postaje očigledan, time poništavajući dejstvo prsten potpisa, koji čine jedan od tri glavna sloja privatnosti koje Superior koristi.&lt;br&gt;Da bi pomogli da se izbegnu takvi ulazi, lista poznatih potrošenih ulaza se može koristiti kako se ne bi koristili u novim transakcijama. Takva lista se održava od strane Superior projekta i dostupna na getsuperior.org veb sajtu, i možete je uneti tu listu ovde.&lt;br&gt;Alternatnivno, možete skenirati blokčejn (i blokčejn Menoro klonova koji koriste iste ključeve) samostalno korišćenjem superior-blockchain-mark-spent-outputs alatke da napravite listu izlaza za koje je poznato da su potrošeni.&lt;br&gt;</translation>
+        <source>In order to obscure which inputs in a SuperiorCoin transaction are being spent, a third party should not be able to tell which inputs in a ring are already known to be spent. Being able to do so would weaken the protection afforded by ring signatures. If all but one of the inputs are known to be already spent, then the input being actually spent becomes apparent, thereby nullifying the effect of ring signatures, one of the three main layers of privacy protection SuperiorCoin uses.&lt;br&gt;To help transactions avoid those inputs, a list of known spent ones can be used to avoid using them in new transactions. Such a list is maintained by the SuperiorCoin project and is available on the superior-coin.com website, and you can import this list here.&lt;br&gt;Alternatively, you can scan the blockchain (and the blockchain of key-reusing SuperiorCoin clones) yourself using the superior-blockchain-mark-spent-outputs tool to create a list of known spent outputs.&lt;br&gt;</source>
+        <translation>Da bi bilo nejasnije koji ulazi u SuperiorCoin transakciji se troše, treća strana ne treba da bude u mogućnosti da zaključi koji ulazi u prstenu su već poznati kao potrošeni. To bi oslabilo zaštitu priuštenu prsten potpisima. Ako za sve osim jednog ulaza je poznato da su potrošeni, onda ulaz koji biva potrošen postaje očigledan, time poništavajući dejstvo prsten potpisa, koji čine jedan od tri glavna sloja privatnosti koje SuperiorCoin koristi.&lt;br&gt;Da bi pomogli da se izbegnu takvi ulazi, lista poznatih potrošenih ulaza se može koristiti kako se ne bi koristili u novim transakcijama. Takva lista se održava od strane SuperiorCoin projekta i dostupna na superior-coin.com veb sajtu, i možete je uneti tu listu ovde.&lt;br&gt;Alternatnivno, možete skenirati blokčejn (i blokčejn Menoro klonova koji koriste iste ključeve) samostalno korišćenjem superior-blockchain-mark-spent-outputs alatke da napravite listu izlaza za koje je poznato da su potrošeni.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="141"/>
@@ -1675,12 +1675,12 @@ You can change the password in the wallet settings.</source>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="210"/>
         <source>Paste output amount</source>
-        <translation>Nalepi iznos izlaza</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="222"/>
         <source>Paste output offset</source>
-        <translation>Nalepi ofset izlaza</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="234"/>
@@ -1700,12 +1700,12 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="257"/>
-        <source>In order to avoid nullifying the protection afforded by Superior&apos;s ring signatures, an output should not be spent with different rings on different blockchains. While this is normally not a concern, it can become one when a key-reusing Superior clone allows you to spend existing outputs. In this case, you need to ensure this existing outputs uses the same ring on both chains.&lt;br&gt;This will be done automatically by Superior and any key-reusing software which is not trying to actively strip you of your privacy.&lt;br&gt;If you are using a key-reusing Superior clone too, and this clone does not include this protection, you can still ensure your transactions are protected by spending on the clone first, then manually adding the ring on this page, which allows you to then spend your Superior safely.&lt;br&gt;If you do not use a key-reusing Superior clone without these safety features, then you do not need to do anything as it is all automated.&lt;br&gt;</source>
-        <translation>Da bi se izbeglo poništavanje zaštite koju pružaju Superiorvi prsten potpisi, izlaz ne bi trebalo trošiti sa različitim prstenovima na različitim blokčejnima. Dok ovo obično nije problem, može postati problem kada Superior klon koji ponovo koristi ključeve vam dozvoljava da potrošite postojeće izlaze. U ovom slučaju, potrebno je da obezbedite da ovi postojeći izlazi koriste isti prsten na oba blokčejna.&lt;br&gt;Ovo će automatski biti urađeno od Monera i drugog softvera koji ponovo koristi ključeve koji ne pokušava da vam namerno oduzme vašu privatnost.&lt;br&gt;Ako takođe koristite Superior klon koji ponovo koristi ključeve, i ovaj klon ne sadrži ovu zaštitu, idalje možete da obezbedite da su vaše transakcije zaštićene trošenjem prvo na klonu, a onda ručno dodavanjem prstena na ovoj stranici koja vam omogućava da potom bezbedno potrošite vaš Superior.&lt;br&gt;Ako ne koristite Superior klon koji ponovo koristi ključeve bez ovih bezbednosnih odlika, onda ne morate ništa da radite pošto će sve biti automatizovano.&lt;br&gt;</translation>
+        <source>In order to avoid nullifying the protection afforded by SuperiorCoin&apos;s ring signatures, an output should not be spent with different rings on different blockchains. While this is normally not a concern, it can become one when a key-reusing SuperiorCoin clone allows you to spend existing outputs. In this case, you need to ensure this existing outputs uses the same ring on both chains.&lt;br&gt;This will be done automatically by SuperiorCoin and any key-reusing software which is not trying to actively strip you of your privacy.&lt;br&gt;If you are using a key-reusing SuperiorCoin clone too, and this clone does not include this protection, you can still ensure your transactions are protected by spending on the clone first, then manually adding the ring on this page, which allows you to then spend your SuperiorCoin safely.&lt;br&gt;If you do not use a key-reusing SuperiorCoin clone without these safety features, then you do not need to do anything as it is all automated.&lt;br&gt;</source>
+        <translation>Da bi se izbeglo poništavanje zaštite koju pružaju SuperiorCoinvi prsten potpisi, izlaz ne bi trebalo trošiti sa različitim prstenovima na različitim blokčejnima. Dok ovo obično nije problem, može postati problem kada SuperiorCoin klon koji ponovo koristi ključeve vam dozvoljava da potrošite postojeće izlaze. U ovom slučaju, potrebno je da obezbedite da ovi postojeći izlazi koriste isti prsten na oba blokčejna.&lt;br&gt;Ovo će automatski biti urađeno od Monera i drugog softvera koji ponovo koristi ključeve koji ne pokušava da vam namerno oduzme vašu privatnost.&lt;br&gt;Ako takođe koristite SuperiorCoin klon koji ponovo koristi ključeve, i ovaj klon ne sadrži ovu zaštitu, idalje možete da obezbedite da su vaše transakcije zaštićene trošenjem prvo na klonu, a onda ručno dodavanjem prstena na ovoj stranici koja vam omogućava da potom bezbedno potrošite vaš SuperiorCoin.&lt;br&gt;Ako ne koristite SuperiorCoin klon koji ponovo koristi ključeve bez ovih bezbednosnih odlika, onda ne morate ništa da radite pošto će sve biti automatizovano.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="279"/>
-        <source>This records rings used by outputs spent on Superior on a key reusing chain, so that the same ring may be reused to avoid privacy issues.</source>
+        <source>This records rings used by outputs spent on SuperiorCoin on a key reusing chain, so that the same ring may be reused to avoid privacy issues.</source>
         <translation>Ovo zapisuje prestenove korišćene od strane izlaza potrošenih na Moneru na lancu koji ponovo koristi ključeve, da bi se isti prsten mogao koristi kako bi se izbegli problemi privatnosti.</translation>
     </message>
     <message>
@@ -1801,40 +1801,40 @@ You can change the password in the wallet settings.</source>
     <message>
         <location filename="../pages/Sign.qml" line="101"/>
         <source>Sign/verify</source>
-        <translation>Potpiši/verifikuj</translation>
+        <translation type="unfinished">Potpiši/verifikuj</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="121"/>
         <source>Mode</source>
-        <translation>Mod</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="145"/>
         <location filename="../pages/Sign.qml" line="195"/>
         <location filename="../pages/Sign.qml" line="309"/>
         <source>File</source>
-        <translation>Fajl</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="164"/>
         <source>Sign file</source>
-        <translation>Potpisi fajl</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="164"/>
         <source>Sign message</source>
-        <translation>Potpisi poruku</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="179"/>
         <source>Enter a message to sign</source>
-        <translation>Unesi poruku za potpisivanje</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="197"/>
         <location filename="../pages/Sign.qml" line="311"/>
         <source>Enter path to file</source>
-        <translation>Unesi adresu fajla</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="209"/>
@@ -1845,28 +1845,28 @@ You can change the password in the wallet settings.</source>
     <message>
         <location filename="../pages/Sign.qml" line="225"/>
         <source>Click [Sign Message] to generate signature</source>
-        <translation>Klik [Potpisi Poruku] da generises potpis</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="225"/>
         <source>Click [Sign File] to generate signature</source>
-        <translation>Klikni na [Potpisi Fajl] da generises potpis</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="239"/>
         <location filename="../pages/Sign.qml" line="362"/>
         <source>Clear</source>
-        <translation>Obrisi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="252"/>
         <source>Sign Message</source>
-        <translation>Potpisi Poruku</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="266"/>
         <source>Sign File</source>
-        <translation>Potpisi Fajl</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="284"/>
@@ -1881,7 +1881,7 @@ You can change the password in the wallet settings.</source>
     <message>
         <location filename="../pages/Sign.qml" line="294"/>
         <source>Enter the message to verify</source>
-        <translation>Unesi poruku za proveru</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="334"/>
@@ -1890,23 +1890,23 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="337"/>
-        <source>Enter the Superior Address (example: 44AFFq5kSiGBoZ...)</source>
-        <translation>Unesi Superior Adresu (na primer 44AFFq5kSiGBoZ...)</translation>
+        <source>Enter the SuperiorCoin Address (example: 44AFFq5kSiGBoZ...)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="348"/>
         <source>Enter the signature to verify</source>
-        <translation>Unesi potpis za proveru</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="377"/>
         <source>Verify File</source>
-        <translation>Unesi fajl</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="389"/>
         <source>Verify Message</source>
-        <translation>Proveri Poruku</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="401"/>
@@ -2133,13 +2133,13 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="51"/>
-        <source>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #B79B0F; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Start daemon&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</source>
-        <translation>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #B79B0F; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Pokreni daemon&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</translation>
+        <source>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FF6C3C; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Start daemon&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</source>
+        <translation>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FF6C3C; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Pokreni daemon&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="141"/>
         <source>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #858585; font-size: 14px;}&lt;/style&gt;                                   Amount &lt;font size=&apos;2&apos;&gt;  ( &lt;/font&gt; &lt;a href=&apos;#&apos;&gt;Change account&lt;/a&gt;&lt;font size=&apos;2&apos;&gt; )&lt;/font&gt;</source>
-        <translation>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #858585; font-size: 14px;}&lt;/style&gt;                                   Iznos &lt;font size=&apos;2&apos;&gt;  ( &lt;/font&gt; &lt;a href=&apos;#&apos;&gt;Promeni nalog&lt;/a&gt;&lt;font size=&apos;2&apos;&gt; )&lt;/font&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="187"/>
@@ -2154,7 +2154,7 @@ You can change the password in the wallet settings.</source>
     <message>
         <location filename="../pages/Transfer.qml" line="326"/>
         <source>64 hexadecimal characters</source>
-        <translation>64 heksodecimalnih karaktera</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="453"/>
@@ -2237,8 +2237,8 @@ Ringsize: </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="616"/>
-        <source>Superior sent successfully</source>
-        <translation>Superior uspešno poslat</translation>
+        <source>SuperiorCoin sent successfully</source>
+        <translation>SuperiorCoin uspešno poslat</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="680"/>
@@ -2255,7 +2255,7 @@ Molimo nadogradite softver na najnoviju verziju ili se povežite sa drugim daemo
     <message>
         <location filename="../pages/Transfer.qml" line="704"/>
         <source>Waiting on daemon synchronization to finish.</source>
-        <translation>Sacekati da se zavrsi sinhronizacija demona.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="91"/>
@@ -2282,8 +2282,7 @@ Molimo nadogradite softver na najnoviju verziju ili se povežite sa drugim daemo
         <source>Fastest (x41.5 fee)</source>
         <translation>Najbrže (x41.5 provizija)</translation>
     </message>
-<message><source></source><translation></translation>
-    <location filename="../pages/Transfer.qml" line="91"/></message></context>
+</context>
 <context>
     <name>TxKey</name>
     <message>
@@ -2373,116 +2372,52 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     </message>
 </context>
 <context>
-    <name>Utils</name>
-    <message>
-        <location filename="../js/Utils.js" line="42"/>
-        <source>Wrong password</source>
-        <translation>Pogrešna lozinka</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="61"/>
-        <source>second ago</source>
-        <translation>pre sekund</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="63"/>
-        <source>seconds ago</source>
-        <translation>pre nekoliko sekundi</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="67"/>
-        <source>minute ago</source>
-        <translation>pre minut</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="69"/>
-        <source>minutes ago</source>
-        <translation>pre nekoliko minuta</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="73"/>
-        <source>hour ago</source>
-        <translation>pre sat</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="75"/>
-        <source>hours ago</source>
-        <translation>pre nekoliko sati</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="79"/>
-        <location filename="../js/Utils.js" line="83"/>
-        <source>day ago</source>
-        <translation>pre dana</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="85"/>
-        <source>days ago</source>
-        <translation>pre nekoliko dana</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="94"/>
-        <source>Testnet</source>
-        <translation>Testnet</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="94"/>
-        <source>Stagenet</source>
-        <translation>Stagenet</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="94"/>
-        <source>Mainnet</source>
-        <translation>Mainnet (glavna mreza)</translation>
-    </message>
-</context>
-<context>
     <name>WizardAskPassword</name>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="41"/>
         <source>Strength: </source>
-        <translation>Jacina: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="52"/>
         <location filename="../wizard/WizardAskPassword.qml" line="71"/>
         <source>Low</source>
-        <translation>Nizak</translation>
+        <translation type="unfinished">Nizak</translation>
     </message>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="73"/>
         <source>Medium</source>
-        <translation>Srednji</translation>
+        <translation type="unfinished">Srednji</translation>
     </message>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="75"/>
         <source>High</source>
-        <translation>Visok</translation>
+        <translation type="unfinished">Visok</translation>
     </message>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="84"/>
         <source>Give your wallet a password</source>
-        <translation>Sastavite lozinku za novčanik</translation>
+        <translation type="unfinished">Sastavite lozinku za novčanik</translation>
     </message>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="85"/>
         <source>This password cannot be recovered. If you forget it then the wallet will have to be restored from its 25 word mnemonic seed.</source>
-        <translation>Nije moguce obnoviti ovu sifru. Ako ste zaboravili sifru, novcanik se mora obnoviti korsicenjem mnemonik sida od 25 reci.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="89"/>
         <source>&lt;b&gt;Enter a strong password&lt;/b&gt; (Using letters, numbers, and/or symbols).</source>
-        <translation>&lt;b&gt;Uneti jaku sifru&lt;/b&gt; (Koriscenjem slova, brojeva i/ili simbola).</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="155"/>
         <source>Password</source>
-        <translation>Lozinka</translation>
+        <translation type="unfinished">Lozinka</translation>
     </message>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="210"/>
         <source>Password (confirm)</source>
-        <translation>Lozinka (potvrda)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2490,7 +2425,7 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <message>
         <location filename="../wizard/WizardController.qml" line="260"/>
         <source>Please choose a file</source>
-        <translation>Molimo odaberite fajl</translation>
+        <translation type="unfinished">Molimo odaberite fajl</translation>
     </message>
 </context>
 <context>
@@ -2498,17 +2433,17 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="49"/>
         <source>Ledger</source>
-        <translation>Ledžer</translation>
+        <translation type="unfinished">Ledžer</translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="74"/>
         <source>Create a new wallet</source>
-        <translation>Napravi novi novčanik</translation>
+        <translation type="unfinished">Napravi novi novčanik</translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="75"/>
         <source>Using a hardware device.</source>
-        <translation>Koristiti hardverski uredjaj.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="90"/>
@@ -2533,23 +2468,23 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="139"/>
         <source>Subaddress lookahead (optional)</source>
-        <translation>Pregled podadrese (opciono)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="167"/>
         <location filename="../wizard/WizardCreateDevice1.qml" line="216"/>
         <source>Error writing wallet from hardware device. Check application logs.</source>
-        <translation>Greska pri upisivanju novcanika sa hardverskog uredjaja. Proverite log aplikacije.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="190"/>
         <source>Back to menu</source>
-        <translation>Nazad na meni</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="191"/>
         <source>Create wallet</source>
-        <translation>Napravi novčanik</translation>
+        <translation type="unfinished">Napravi novčanik</translation>
     </message>
 </context>
 <context>
@@ -2557,32 +2492,32 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <message>
         <location filename="../wizard/WizardCreateWallet1.qml" line="60"/>
         <source>Create a new wallet</source>
-        <translation>Napravi novi novčanik</translation>
+        <translation type="unfinished">Napravi novi novčanik</translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateWallet1.qml" line="61"/>
         <source>Creates a new wallet on this computer.</source>
-        <translation>Napraviti novi novcanik na ovom kompjuteru.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateWallet1.qml" line="89"/>
         <source>Mnemonic seed</source>
-        <translation>Mnemoničke reči</translation>
+        <translation type="unfinished">Mnemoničke reči</translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateWallet1.qml" line="94"/>
         <source>-</source>
-        <translation>-</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateWallet1.qml" line="127"/>
         <source>This seed is &lt;b&gt;very&lt;/b&gt; important to write down and keep secret. It is all you need to backup and restore your wallet.</source>
-        <translation>Ove reči su &lt;b&gt;vrlo bitne&lt;/b&gt; i važno je da ih zapišete i držite u tajnosti. To je sve što Vam je potrebno za povraćaj novčanika.</translation>
+        <translation type="unfinished">Ove reči su &lt;b&gt;vrlo bitne&lt;/b&gt; i važno je da ih zapišete i držite u tajnosti. To je sve što Vam je potrebno za povraćaj novčanika.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateWallet1.qml" line="135"/>
         <source>Back to menu</source>
-        <translation>Nazad na meni</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2602,7 +2537,7 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateWallet3.qml" line="58"/>
-        <source>To be able to communicate with the Superior network your wallet needs to be connected to a Superior node. For best privacy it&apos;s recommended to run your own node.</source>
+        <source>To be able to communicate with the SuperiorCoin network your wallet needs to be connected to a SuperiorCoin node. For best privacy it&apos;s recommended to run your own node.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2616,12 +2551,12 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <message>
         <location filename="../wizard/WizardCreateWallet4.qml" line="59"/>
         <source>New wallet details:</source>
-        <translation>Detalji novog novčanika:</translation>
+        <translation type="unfinished">Detalji novog novčanika:</translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateWallet4.qml" line="66"/>
         <source>Open wallet</source>
-        <translation>Otvori novcanik</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2634,27 +2569,27 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="74"/>
         <source>Blockchain location (optional)</source>
-        <translation>Lokacija blockchain-a (opciono)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="76"/>
         <source>Default</source>
-        <translation>Podrazumevano</translation>
+        <translation type="unfinished">Podrazumevano</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="80"/>
         <source>Browse</source>
-        <translation>Pretraži</translation>
+        <translation type="unfinished">Pretraži</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="94"/>
         <source>Bootstrap node</source>
-        <translation>Bootstrap nod</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="120"/>
-        <source>Additionally, you may specify a bootstrap node to use Superior immediately.</source>
-        <translation>Takodje, mozete zadati i pomocni nod da biste koristili Superior domah.</translation>
+        <source>Additionally, you may specify a bootstrap node to use SuperiorCoin immediately.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="183"/>
@@ -2666,68 +2601,68 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <name>WizardHome</name>
     <message>
         <location filename="../wizard/WizardHome.qml" line="60"/>
-        <source>Welcome to Superior.</source>
-        <translation>Dobrodosli u Superior.</translation>
+        <source>Welcome to SuperiorCoin.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="65"/>
         <source>Create a new wallet</source>
-        <translation>Napravi novi novčanik</translation>
+        <translation type="unfinished">Napravi novi novčanik</translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="66"/>
-        <source>Choose this option if this is your first time using Superior.</source>
-        <translation>Izaberite ovu opciju ako koristite Superior po prvi put.</translation>
+        <source>Choose this option if this is your first time using SuperiorCoin.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="86"/>
         <source>Create a new wallet from hardware</source>
-        <translation>Napravite novcanik koriscenjem hardverskog uredjaja</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="87"/>
-        <source>Connect your hardware wallet to create a new Superior wallet.</source>
-        <translation>Poverzite vas hardverski novcanik da biste kreirali novi Superior novcanik.</translation>
+        <source>Connect your hardware wallet to create a new SuperiorCoin wallet.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="106"/>
         <source>Open a wallet from file</source>
-        <translation>Otvori novčanik iz fajla</translation>
+        <translation type="unfinished">Otvori novčanik iz fajla</translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="107"/>
         <source>Import an existing .keys wallet file from your computer.</source>
-        <translation>Uvezite postojeci .keys novcanik fajl sa Vaseg racunara.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="125"/>
         <source>Restore wallet from keys or mnemonic seed</source>
-        <translation>Povrati novčanik uz pomoć ključeva ili mnemoričkih reči</translation>
+        <translation type="unfinished">Povrati novčanik uz pomoć ključeva ili mnemoričkih reči</translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="126"/>
         <source>Enter your private keys or 25-word mnemonic seed to restore your wallet.</source>
-        <translation>Unesite Vase privatne kljuceve ili mnenomicki sid od 25 reci da biste obnovili Vas novcanik.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="142"/>
         <source>Change wallet mode</source>
-        <translation>Promenite rezim novcanika</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="152"/>
         <source>Change language</source>
-        <translation>Promenite jezik</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="166"/>
         <source>Advanced options</source>
-        <translation>Napredne opcije</translation>
+        <translation type="unfinished">Napredne opcije</translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="209"/>
         <source>Number of KDF rounds:</source>
-        <translation>Broj KDF rundi: </translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2739,7 +2674,7 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardLang.qml" line="93"/>
-        <source>Change the language of the Superior GUI.</source>
+        <source>Change the language of the SuperiorCoin GUI.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2758,32 +2693,32 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <message>
         <location filename="../wizard/WizardModeBootstrap.qml" line="59"/>
         <source>About the bootstrap mode</source>
-        <translation>O pomocnom (bootstrap) rezimu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeBootstrap.qml" line="70"/>
         <source>This mode will use a remote node whilst also syncing the blockchain. This is different from the first menu option (Simple mode), since it will only use the remote node until the blockchain is fully synced locally. It is a reasonable tradeoff for most people who care about privacy but also want the convenience of an automatic fallback option.</source>
-        <translation>Ovaj rezim ce korsititi udaljeni nod dok sinhronizuje blockchain. Ovo se razlikue od prve opcije menija (Jednostavni rezim), jer ce samo koristiti udaljeni nod dok blockchain ne bude u potpunosti sinhronizovan na Vas racunar. Ovo je kompromis za vecinu ljudi koji cene privatnost sinhronizovanog blockchaina ali takodje zele i da imaju automatsko rezervno resenje do tada.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeBootstrap.qml" line="81"/>
-        <source>Temporary use of remote nodes is useful in order to use Superior immediately (hence the name &lt;i&gt;bootstrap&lt;/i&gt;), however be aware that when using remote nodes (including with the bootstrap setting), nodes could track your IP address, track your &quot;restore height&quot; and associated block request data, and send you inaccurate information to learn more about transactions you make.</source>
-        <translation>Privremena opcija udaljenog noda je korisna da biste mogli da koristite Superior domah (zato se zove &lt;i&gt;pomocni/bootstrap&lt;/i&gt;), ali uzmite u obzir da kada koristite udaljeni nod (koji je ukljucen u pomocni/bootstrap podesavanju), taj udaljeni nod moze da prati i pamti vasu IP adresu, visinu bloka kojem pristupate i druge podatke vezane za blok koji zahtevate. Takodje Vam moze i poslati pogresne podatke da bi vise saznao o transakciji koju zelite da napravite.</translation>
+        <source>Temporary use of remote nodes is useful in order to use SuperiorCoin immediately (hence the name &lt;i&gt;bootstrap&lt;/i&gt;), however be aware that when using remote nodes (including with the bootstrap setting), nodes could track your IP address, track your &quot;restore height&quot; and associated block request data, and send you inaccurate information to learn more about transactions you make.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeBootstrap.qml" line="94"/>
         <source>Remain aware of these limitations. &lt;b&gt;Users who prioritize privacy and decentralization must use a full node instead&lt;/b&gt;.</source>
-        <translation>Uzmite u obzir ova ogranicenja. &lt;b&gt;Korisnici kojima je prioritet privatnost i decentralizacija moraju da koriste pun nod!&lt;/b&gt;.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeBootstrap.qml" line="98"/>
         <source>For enhanced node performance you may specify your region:</source>
-        <translation>Za bolje performanse, mozete zatati Vas region:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeBootstrap.qml" line="148"/>
         <source>I understand the privacy implications of using a third-party server.</source>
-        <translation>Razumem implikacije privatnosti u vezi sa koriscenjem drugog servera.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2791,32 +2726,32 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <message>
         <location filename="../wizard/WizardModeRemoteNodeWarning.qml" line="59"/>
         <source>About the simple mode</source>
-        <translation>O jednostavnom rezimu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeRemoteNodeWarning.qml" line="70"/>
-        <source>This mode is ideal for managing small amounts of Superior. You have access to basic features for making and managing transactions. It will automatically connect to the Superior network so you can start using Superior immediately.</source>
-        <translation>Ovaj rezim je odlican za koriscenje malog iznosa Monera. Imate pristup osnovnim funkcijama za kreiranje i pracenje transakcija. Automatski ce se povezati na Superior mrezu tako da mozete odmah da pocnete da koristite Superior.</translation>
+        <source>This mode is ideal for managing small amounts of SuperiorCoin. You have access to basic features for making and managing transactions. It will automatically connect to the SuperiorCoin network so you can start using SuperiorCoin immediately.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeRemoteNodeWarning.qml" line="81"/>
         <source>Remote nodes are useful if you are not able/don&apos;t want to download the whole blockchain, but be advised that malicious remote nodes could compromise some privacy. They could track your IP address, track your &quot;restore height&quot; and associated block request data, and send you inaccurate information to learn more about transactions you make.</source>
-        <translation>Udaljeni nod je koristan ako ne mozete / ne zelite da preuzmete ceo Blockchain, ali molim Vas uzmite u obzir da udaljeni nod moze da delimicno kompromituje Vasu privatnost. Oni mogu da prate koje blokove potrazujete kao i druge podatke o tim blokovima, i mogu da Vam posalju pogresne iformacije da bi saznali vise o transakcijama koje zelite da napravite.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeRemoteNodeWarning.qml" line="94"/>
         <source>Remain aware of these limitations. &lt;b&gt;Users who prioritize privacy and decentralization must use a full node instead&lt;/b&gt;.</source>
-        <translation>Molim Vas uzmite u obzir ova ogranicenja. &lt;b&gt; Korisnici kojima je prioritet privatnost i decentralizacija moraju da koriste pun nod&lt;/b&gt;.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeRemoteNodeWarning.qml" line="98"/>
         <source>For enhanced node performance you may specify your region:</source>
-        <translation>Za bolje performanse noda, mozete da unesete Vas region:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeRemoteNodeWarning.qml" line="148"/>
         <source>I understand the privacy implications of using a third-party server.</source>
-        <translation>Razumem implikacije na privatnost pri koriscenju drugog servera.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2824,43 +2759,43 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <message>
         <location filename="../wizard/WizardModeSelection.qml" line="59"/>
         <source>Mode selection.</source>
-        <translation>Odabir rezima.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeSelection.qml" line="60"/>
         <source>Please select the statement that best matches you.</source>
-        <translation>Molim Vas izaberite koji Vas opis najbolje karakterise.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeSelection.qml" line="66"/>
         <location filename="../wizard/WizardModeSelection.qml" line="96"/>
         <source>Simple mode</source>
-        <translation>Jednostavan rezim</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeSelection.qml" line="69"/>
         <source>Easy access to sending, receiving and basic functionality.</source>
-        <translation>Jednostavan pristup za slanje, prijem i osnovnu funkcionalnost.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeSelection.qml" line="99"/>
         <source>Easy access to sending, receiving and basic functionality. The blockchain is downloaded to your computer.</source>
-        <translation>Jednostavan pristup za slanje, prijem i osnovnu funkcionalnost. Blockchain ce biti preuzet na Vas racunar.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeSelection.qml" line="124"/>
         <source>Advanced mode</source>
-        <translation>Napredni rezim</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeSelection.qml" line="125"/>
         <source>Includes extra features like mining and message verification. The blockchain is downloaded to your computer.</source>
-        <translation>Ukljucuje dodatne funkcije kao sto je rudarenje i verifikacija poruka. Blockchain ce biti preuzet na Vas racunar.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeSelection.qml" line="136"/>
         <source>Change language</source>
-        <translation>Promeni jezik</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2868,12 +2803,12 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <message>
         <location filename="../wizard/WizardNav.qml" line="43"/>
         <source>Previous</source>
-        <translation>Prethodni</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardNav.qml" line="44"/>
         <source>Next</source>
-        <translation>Sledeci</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2881,32 +2816,32 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <message>
         <location filename="../wizard/WizardOpenWallet1.qml" line="73"/>
         <source>Open a wallet from file</source>
-        <translation>Otvori novčanik iz fajla</translation>
+        <translation type="unfinished">Otvori novčanik iz fajla</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOpenWallet1.qml" line="74"/>
         <source>Import an existing .keys wallet file from your computer.</source>
-        <translation>Uvesti postojeci .keys novcanik fajl sa Vaseg racunara.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardOpenWallet1.qml" line="81"/>
         <source>Browse filesystem</source>
-        <translation>Pretraga direktorijuma</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardOpenWallet1.qml" line="96"/>
         <source>Most recent wallets</source>
-        <translation>Najnoviji novcanici</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardOpenWallet1.qml" line="201"/>
         <source>Failed to fetch remote nodes from third-party server.</source>
-        <translation>Neuspesno preuzimanje udaljenog noda sa drugog servera.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardOpenWallet1.qml" line="228"/>
         <source>Back to menu</source>
-        <translation>Nazad na meni</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2914,62 +2849,62 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="101"/>
         <source>Restore wallet</source>
-        <translation>Povrati novčanik</translation>
+        <translation type="unfinished">Povrati novčanik</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="102"/>
         <source>Restore wallet from keys or mnemonic seed.</source>
-        <translation>Obnovi novcanik iz kljuca ili menmonik sida.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="113"/>
         <source>Restore from seed</source>
-        <translation>Povrati novčanik uz pomoć mnemoničkih reči</translation>
+        <translation type="unfinished">Povrati novčanik uz pomoć mnemoničkih reči</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="123"/>
         <source>Restore from keys</source>
-        <translation>Povrati novčanik uz pomoć ključeva</translation>
+        <translation type="unfinished">Povrati novčanik uz pomoć ključeva</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="133"/>
         <source>From QR Code</source>
-        <translation>Iz QR koda</translation>
+        <translation type="unfinished">Iz QR koda</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="196"/>
         <source>Enter your 25 (or 24) word mnemonic seed</source>
-        <translation>Unesite vaše 25 (ili 24) mnemoričke reči</translation>
+        <translation type="unfinished">Unesite vaše 25 (ili 24) mnemoričke reči</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="209"/>
         <source>Account address (public)</source>
-        <translation>Javna adresa novčanika</translation>
+        <translation type="unfinished">Javna adresa novčanika</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="221"/>
         <source>View key (private)</source>
-        <translation>Privatni ključ novčanika u režimu gledanja</translation>
+        <translation type="unfinished">Privatni ključ novčanika u režimu gledanja</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="233"/>
         <source>Spend key (private)</source>
-        <translation>Privatni ključ novčanika u režimu potrošnje</translation>
+        <translation type="unfinished">Privatni ključ novčanika u režimu potrošnje</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="244"/>
         <source>Wallet creation date as `YYYY-MM-DD` or restore height</source>
-        <translation>Datum kreiranja novcanika u formatu &apos;GGGG-MM-DD&apos; ili visina bloka</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="247"/>
         <source>Restore height</source>
-        <translation>Odaberi početnu tačku sinhronizacije blokčejna</translation>
+        <translation type="unfinished">Odaberi početnu tačku sinhronizacije blokčejna</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="268"/>
         <source>Back to menu</source>
-        <translation>Nazad na meni</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2977,7 +2912,7 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <message>
         <location filename="../wizard/WizardRestoreWallet2.qml" line="77"/>
         <source>Failed to fetch remote nodes from third-party server.</source>
-        <translation>Neuspesno preuzimanje udaljenog noda sa drugog servera.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2985,16 +2920,14 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <message>
         <location filename="../wizard/WizardRestoreWallet3.qml" line="65"/>
         <source>Daemon settings</source>
-        <translation>Podesavanje demona</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet3.qml" line="66"/>
-        <source>To be able to communicate with the Superior network your wallet needs to be connected to a Superior node. For best privacy it&apos;s recommended to run your own node.
+        <source>To be able to communicate with the SuperiorCoin network your wallet needs to be connected to a SuperiorCoin node. For best privacy it&apos;s recommended to run your own node.
 
 If you don&apos;t have the option to run your own node, there&apos;s an option to connect to a remote node.</source>
-        <translation>Da biste mogli da komunicirate sa Superior mrezom Vas novcanik mora da bude povezan sa Superior nodom. Za najbolju privatnost preporuceno je da kreirate svoj nod.
-
-Ako nemate mogicnosti da kreirate svoj nod, moguce je i konektovati se na udaljeni nod (ali to za sada nije preporucljivo).</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3002,12 +2935,12 @@ Ako nemate mogicnosti da kreirate svoj nod, moguce je i konektovati se na udalje
     <message>
         <location filename="../wizard/WizardRestoreWallet4.qml" line="58"/>
         <source>You&apos;re all set up!</source>
-        <translation>Sve je podeseno!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet4.qml" line="59"/>
         <source>New wallet details:</source>
-        <translation>Detalji novog novčanika:</translation>
+        <translation type="unfinished">Detalji novog novčanika:</translation>
     </message>
 </context>
 <context>
@@ -3016,37 +2949,37 @@ Ako nemate mogicnosti da kreirate svoj nod, moguce je i konektovati se na udalje
         <location filename="../wizard/WizardSummary.qml" line="44"/>
         <location filename="../wizard/WizardSummary.qml" line="62"/>
         <source>Wallet name</source>
-        <translation>Naziv novčanika</translation>
+        <translation type="unfinished">Naziv novčanika</translation>
     </message>
     <message>
         <location filename="../wizard/WizardSummary.qml" line="50"/>
         <source>Wallet path</source>
-        <translation>Lokacija novčanika</translation>
+        <translation type="unfinished">Lokacija novčanika</translation>
     </message>
     <message>
         <location filename="../wizard/WizardSummary.qml" line="56"/>
         <source>Language</source>
-        <translation>Jezik</translation>
+        <translation type="unfinished">Jezik</translation>
     </message>
     <message>
         <location filename="../wizard/WizardSummary.qml" line="68"/>
         <source>Restore height</source>
-        <translation>Odaberi početnu tačku sinhronizacije blokčejna</translation>
+        <translation type="unfinished">Odaberi početnu tačku sinhronizacije blokčejna</translation>
     </message>
     <message>
         <location filename="../wizard/WizardSummary.qml" line="82"/>
         <source>Daemon address</source>
-        <translation>Daemon adresa</translation>
+        <translation type="unfinished">Daemon adresa</translation>
     </message>
     <message>
         <location filename="../wizard/WizardSummary.qml" line="89"/>
         <source>Bootstrap address</source>
-        <translation>Rezervna/bootstrap adresa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardSummary.qml" line="95"/>
         <source>Network Type</source>
-        <translation>Tip Mreže</translation>
+        <translation type="unfinished">Tip Mreže</translation>
     </message>
 </context>
 <context>
@@ -3054,22 +2987,22 @@ Ako nemate mogicnosti da kreirate svoj nod, moguce je i konektovati se na udalje
     <message>
         <location filename="../wizard/WizardWalletInput.qml" line="71"/>
         <source>Wallet name</source>
-        <translation>Naziv novčanika</translation>
+        <translation type="unfinished">Naziv novčanika</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWalletInput.qml" line="85"/>
         <source>Wallet location</source>
-        <translation>Lokacija novcanika</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardWalletInput.qml" line="91"/>
         <source>Browse</source>
-        <translation>Pretraži</translation>
+        <translation type="unfinished">Pretraži</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWalletInput.qml" line="106"/>
         <source>Please choose a directory</source>
-        <translation>Odaberite direktorijum</translation>
+        <translation type="unfinished">Odaberite direktorijum</translation>
     </message>
 </context>
 <context>
@@ -3199,7 +3132,7 @@ Provizija: </translation>
     <message>
         <location filename="../main.qml" line="396"/>
         <source>Balance (#%1%2)</source>
-        <translation>Balans (#%1%2)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.qml" line="513"/>
@@ -3253,8 +3186,8 @@ Indeks adrese za potrošnju: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="840"/>
-        <source>Superior sent successfully: %1 transaction(s) </source>
-        <translation>Superior uspešno poslat: %1 transakcija </translation>
+        <source>SuperiorCoin sent successfully: %1 transaction(s) </source>
+        <translation>SuperiorCoin uspešno poslat: %1 transakcija </translation>
     </message>
     <message>
         <location filename="../main.qml" line="870"/>
@@ -3299,7 +3232,7 @@ Indeks adrese za potrošnju: </translation>
     <message>
         <location filename="../main.qml" line="1153"/>
         <source>Please choose a file</source>
-        <translation>Molimo odaberite fajl</translation>
+        <translation type="unfinished">Molimo odaberite fajl</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1202"/>
@@ -3344,7 +3277,7 @@ Indeks adrese za potrošnju: </translation>
     <message>
         <location filename="../main.qml" line="1803"/>
         <source>Failed to fetch remote nodes from third-party server.</source>
-        <translation>Neuspelo preuzimanje udaljenih nodova sa drugog servera.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.qml" line="1858"/>
@@ -3431,8 +3364,8 @@ Indeks adrese za potrošnju: </translation>
     <message>
         <location filename="../main.qml" line="1328"/>
         <location filename="../main.qml" line="1343"/>
-        <source>Superior</source>
-        <translation>Superior</translation>
+        <source>SuperiorCoin</source>
+        <translation>SuperiorCoin</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1503"/>

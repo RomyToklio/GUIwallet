@@ -22,7 +22,7 @@
         <location filename="../pages/Account.qml" line="112"/>
         <location filename="../pages/Account.qml" line="145"/>
         <source>Copied to clipboard</source>
-        <translation>Copiat al porta-retalls</translation>
+        <translation type="unfinished">Copiat al porta-retalls</translation>
     </message>
     <message>
         <location filename="../pages/Account.qml" line="121"/>
@@ -42,7 +42,7 @@
     <message>
         <location filename="../pages/Account.qml" line="285"/>
         <source>Address copied to clipboard</source>
-        <translation>Adreça copiada al porta-retalls</translation>
+        <translation type="unfinished">Adreça copiada al porta-retalls</translation>
     </message>
     <message>
         <location filename="../pages/Account.qml" line="320"/>
@@ -57,7 +57,7 @@
     <message>
         <location filename="../pages/Account.qml" line="323"/>
         <source>(Untitled)</source>
-        <translation>(Sense nom)</translation>
+        <translation type="unfinished">(Sense nom)</translation>
     </message>
 </context>
 <context>
@@ -75,33 +75,33 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="93"/>
         <source>Resolve</source>
-        <translation>Resoldre</translation>
+        <translation type="unfinished">Resoldre</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="109"/>
         <source>No valid address found at this OpenAlias address</source>
-        <translation>No s&apos;ha trobat una adreça OpenAlias vàlida</translation>
+        <translation type="unfinished">No s&apos;ha trobat una adreça OpenAlias vàlida</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="114"/>
         <source>Address found, but the DNSSEC signatures could not be verified, so this address may be spoofed</source>
-        <translation>Adreça trobada, però les firmes DNSSEC no han pogut ser verificades, l&apos;adreça pot haver estat suplantada</translation>
+        <translation type="unfinished">Adreça trobada, però les firmes DNSSEC no han pogut ser verificades, l&apos;adreça pot haver estat suplantada</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="118"/>
         <source>No valid address found at this OpenAlias address, but the DNSSEC signatures could not be verified, so this may be spoofed</source>
-        <translation>Adreça no vàlida i les firmes DNSSEC no han pogut ser verificades, l&apos;adreça haver estat suplantada</translation>
+        <translation type="unfinished">Adreça no vàlida i les firmes DNSSEC no han pogut ser verificades, l&apos;adreça haver estat suplantada</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="122"/>
         <location filename="../pages/AddressBook.qml" line="126"/>
         <source>Internal error</source>
-        <translation>Error intern</translation>
+        <translation type="unfinished">Error intern</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="130"/>
         <source>No address found</source>
-        <translation>Adreça no trobada</translation>
+        <translation type="unfinished">Adreça no trobada</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="140"/>
@@ -136,7 +136,7 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="264"/>
         <source>OpenAlias error</source>
-        <translation>Error d&apos;OpenAlias</translation>
+        <translation type="unfinished">Error d&apos;OpenAlias</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="150"/>
@@ -238,7 +238,7 @@
     <message>
         <location filename="../pages/History.qml" line="387"/>
         <source>Success</source>
-        <translation>Èxit</translation>
+        <translation type="unfinished">Èxit</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="388"/>
@@ -253,7 +253,7 @@
     <message>
         <location filename="../pages/History.qml" line="393"/>
         <source>Error</source>
-        <translation>Error</translation>
+        <translation type="unfinished">Error</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="394"/>
@@ -321,7 +321,7 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="194"/>
         <source>Copied to clipboard</source>
-        <translation>Copiat al porta-retalls</translation>
+        <translation type="unfinished">Copiat al porta-retalls</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="239"/>
@@ -336,7 +336,7 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="314"/>
         <source>Transaction ID</source>
-        <translation>ID de pagament</translation>
+        <translation type="unfinished">ID de pagament</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="361"/>
@@ -488,12 +488,12 @@
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="62"/>
-        <source>WARNING: Do not reuse your Superior keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
-        <translation>AVÍS: No reutilitzis les claus de Superior en una altra bifurcació, A MENYS que aquesta bifurcació incorpori mitigacions en la reutilització de claus. Fer-ho, perjudicarà la teva privacitat.</translation>
+        <source>WARNING: Do not reuse your SuperiorCoin keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
+        <translation>AVÍS: No reutilitzis les claus de SuperiorCoin en una altra bifurcació, A MENYS que aquesta bifurcació incorpori mitigacions en la reutilització de claus. Fer-ho, perjudicarà la teva privacitat.</translation>
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="85"/>
-        <source>WARNING: Copying your seed to clipboard can expose you to malicious software, which may record your seed and steal your Superior. Please write down your seed manually.</source>
+        <source>WARNING: Copying your seed to clipboard can expose you to malicious software, which may record your seed and steal your SuperiorCoin. Please write down your seed manually.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -605,7 +605,7 @@
         <location filename="../LeftPanel.qml" line="226"/>
         <location filename="../LeftPanel.qml" line="264"/>
         <source>Copied to clipboard</source>
-        <translation>Copiat al porta-retalls</translation>
+        <translation type="unfinished">Copiat al porta-retalls</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="342"/>
@@ -770,7 +770,7 @@
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="242"/>
         <source>Save As</source>
-        <translation>Desa com</translation>
+        <translation type="unfinished">Desa com</translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="300"/>
@@ -785,13 +785,13 @@
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="420"/>
         <source>Copied to clipboard</source>
-        <translation>Copiat al porta-retalls</translation>
+        <translation type="unfinished">Copiat al porta-retalls</translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="453"/>
         <location filename="../pages/merchant/Merchant.qml" line="504"/>
         <source>Amount to receive</source>
-        <translation>Quantitat a rebre</translation>
+        <translation type="unfinished">Quantitat a rebre</translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="531"/>
@@ -811,17 +811,17 @@
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="586"/>
         <source>WARNING: no connection to daemon</source>
-        <translation>AVÍS: Sense connexió al dimoni</translation>
+        <translation type="unfinished">AVÍS: Sense connexió al dimoni</translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="690"/>
         <source>Save QrCode</source>
-        <translation>Desa codi QR</translation>
+        <translation type="unfinished">Desa codi QR</translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="691"/>
         <source>Failed to save QrCode to </source>
-        <translation>Error al desar el codi QR a</translation>
+        <translation type="unfinished">Error al desar el codi QR a</translation>
     </message>
 </context>
 <context>
@@ -845,12 +845,12 @@
         <location filename="../pages/merchant/MerchantTrackingList.qml" line="167"/>
         <location filename="../pages/merchant/MerchantTrackingList.qml" line="169"/>
         <source>confirmations</source>
-        <translation>confirmacions</translation>
+        <translation type="unfinished">confirmacions</translation>
     </message>
     <message>
         <location filename="../pages/merchant/MerchantTrackingList.qml" line="172"/>
         <source>confirmation</source>
-        <translation>confirmacions</translation>
+        <translation type="unfinished">confirmacions</translation>
     </message>
 </context>
 <context>
@@ -880,8 +880,8 @@
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="72"/>
-        <source>Mining with your computer helps strengthen the Superior network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Superior. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
-        <translation>El minat amb el teu ordinador ajuda a enfortir la xarxa Superior. Com més gent minant, més difícil és atacar la xarxa, i cada petit esforç ajuda.&lt;br&gt; &lt;br&gt;Minar també dóna la petita oportunitat de guanyar algún Superior. La teva màquina crearà hashes buscant solucions a blocs. Si troba un bloc, obtindrà la recompensa associada. Bona sort!</translation>
+        <source>Mining with your computer helps strengthen the SuperiorCoin network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some SuperiorCoin. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
+        <translation>El minat amb el teu ordinador ajuda a enfortir la xarxa SuperiorCoin. Com més gent minant, més difícil és atacar la xarxa, i cada petit esforç ajuda.&lt;br&gt; &lt;br&gt;Minar també dóna la petita oportunitat de guanyar algún SuperiorCoin. La teva màquina crearà hashes buscant solucions a blocs. Si troba un bloc, obtindrà la recompensa associada. Bona sort!</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="93"/>
@@ -1036,7 +1036,7 @@
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="46"/>
         <source>Mining</source>
-        <translation>Mineria</translation>
+        <translation type="unfinished">Mineria</translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="49"/>
@@ -1174,7 +1174,7 @@
     <message>
         <location filename="../pages/Receive.qml" line="287"/>
         <source>Copied to clipboard</source>
-        <translation>Copiat al porta-retalls</translation>
+        <translation type="unfinished">Copiat al porta-retalls</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="300"/>
@@ -1240,8 +1240,8 @@
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="97"/>
-        <source>Embedded Superior version: </source>
-        <translation>Versió integrada de Superior: </translation>
+        <source>Embedded SuperiorCoin version: </source>
+        <translation>Versió integrada de SuperiorCoin: </translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="126"/>
@@ -1402,13 +1402,13 @@ El fitxer antic de la memòria cau del moneder serà renombrat i es podrà recup
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="233"/>
-        <source>Uses a third-party server to connect to the Superior network. Less secure, but easier on your computer.</source>
-        <translation>Utilitza un servidor de tercers per connectar-se a la xarxa de Superior. Menys segur, però més fàcil pel teu ordinador.</translation>
+        <source>Uses a third-party server to connect to the SuperiorCoin network. Less secure, but easier on your computer.</source>
+        <translation>Utilitza un servidor de tercers per connectar-se a la xarxa de SuperiorCoin. Menys segur, però més fàcil pel teu ordinador.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="279"/>
-        <source>To find a remote node, type &apos;Superior remote node&apos; into your favorite search engine. Please ensure the node is run by a trusted third-party.</source>
-        <translation>Per trobar un node remot, escriviu &apos;Superior node remot&apos; al vostre cercador favorit. Assegureu-vos que el node és gestionat per un tercer de confiança.</translation>
+        <source>To find a remote node, type &apos;SuperiorCoin remote node&apos; into your favorite search engine. Please ensure the node is run by a trusted third-party.</source>
+        <translation>Per trobar un node remot, escriviu &apos;SuperiorCoin node remot&apos; al vostre cercador favorit. Assegureu-vos que el node és gestionat per un tercer de confiança.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="293"/>
@@ -1522,7 +1522,7 @@ El fitxer antic de la memòria cau del moneder serà renombrat i es podrà recup
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="183"/>
         <source>Success</source>
-        <translation>Èxit</translation>
+        <translation type="unfinished">Èxit</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="184"/>
@@ -1613,8 +1613,8 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="104"/>
-        <source>This page allows you to interact with the shared ring database. This database is meant for use by Superior wallets as well as wallets from Superior clones which reuse the Superior keys.</source>
-        <translation>Aquesta pàgina et permet interactuar amb la base de dades de signatures d&apos;anell compartida. Aquesta base de dades està pensada per a les monedes de Superior i també per a moneders de clons de Superior que reutilitzen les claus de Superior</translation>
+        <source>This page allows you to interact with the shared ring database. This database is meant for use by SuperiorCoin wallets as well as wallets from SuperiorCoin clones which reuse the SuperiorCoin keys.</source>
+        <translation>Aquesta pàgina et permet interactuar amb la base de dades de signatures d&apos;anell compartida. Aquesta base de dades està pensada per a les monedes de SuperiorCoin i també per a moneders de clons de SuperiorCoin que reutilitzen les claus de SuperiorCoin</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="117"/>
@@ -1630,8 +1630,8 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="120"/>
-        <source>In order to obscure which inputs in a Superior transaction are being spent, a third party should not be able to tell which inputs in a ring are already known to be spent. Being able to do so would weaken the protection afforded by ring signatures. If all but one of the inputs are known to be already spent, then the input being actually spent becomes apparent, thereby nullifying the effect of ring signatures, one of the three main layers of privacy protection Superior uses.&lt;br&gt;To help transactions avoid those inputs, a list of known spent ones can be used to avoid using them in new transactions. Such a list is maintained by the Superior project and is available on the getsuperior.org website, and you can import this list here.&lt;br&gt;Alternatively, you can scan the blockchain (and the blockchain of key-reusing Superior clones) yourself using the superior-blockchain-mark-spent-outputs tool to create a list of known spent outputs.&lt;br&gt;</source>
-        <translation>Per ofuscar quins ingressos s&apos;estan gastant en una transacció de Superior, un tercer no hauria de poder dir quines entrades de les signatures d&apos;anell han estat gastades. Fer-ho debilitaria la protecció que ofereixen les signatures d&apos;anell. Si es coneixen tots menys un dels ingressos que es gasten, llavors l&apos;entrada es fa patent i, per tant, anul·la l&apos;efecte de les signatures d&apos;anell, una de les tres capes principals de protecció de la privacitat que utilitza Superior. &lt;br&gt;Per ajudar a evitar aquestes entrades en les transaccions, es pot utilitzar una llista de d&apos;entrades conegudes per evitar-ne l&apos;ús en noves operacions. Aquesta llista és mantinguda pel projecte Superior i està disponible al lloc web de getsuperior.org, aquí podeu importar aquesta llista.&lt;br&gt;Alternativament, podeu escanejar la cadena de blocs (i la cadena de blocs dels clons que reutilitzen les claus de Superior) utilitzant l&apos;eina superior-blockchain-mark-spent-outputs per crear una llista de sortides gastades conegudes. &lt;br&gt;</translation>
+        <source>In order to obscure which inputs in a SuperiorCoin transaction are being spent, a third party should not be able to tell which inputs in a ring are already known to be spent. Being able to do so would weaken the protection afforded by ring signatures. If all but one of the inputs are known to be already spent, then the input being actually spent becomes apparent, thereby nullifying the effect of ring signatures, one of the three main layers of privacy protection SuperiorCoin uses.&lt;br&gt;To help transactions avoid those inputs, a list of known spent ones can be used to avoid using them in new transactions. Such a list is maintained by the SuperiorCoin project and is available on the superior-coin.com website, and you can import this list here.&lt;br&gt;Alternatively, you can scan the blockchain (and the blockchain of key-reusing SuperiorCoin clones) yourself using the superior-blockchain-mark-spent-outputs tool to create a list of known spent outputs.&lt;br&gt;</source>
+        <translation>Per ofuscar quins ingressos s&apos;estan gastant en una transacció de SuperiorCoin, un tercer no hauria de poder dir quines entrades de les signatures d&apos;anell han estat gastades. Fer-ho debilitaria la protecció que ofereixen les signatures d&apos;anell. Si es coneixen tots menys un dels ingressos que es gasten, llavors l&apos;entrada es fa patent i, per tant, anul·la l&apos;efecte de les signatures d&apos;anell, una de les tres capes principals de protecció de la privacitat que utilitza SuperiorCoin. &lt;br&gt;Per ajudar a evitar aquestes entrades en les transaccions, es pot utilitzar una llista de d&apos;entrades conegudes per evitar-ne l&apos;ús en noves operacions. Aquesta llista és mantinguda pel projecte SuperiorCoin i està disponible al lloc web de superior-coin.com, aquí podeu importar aquesta llista.&lt;br&gt;Alternativament, podeu escanejar la cadena de blocs (i la cadena de blocs dels clons que reutilitzen les claus de SuperiorCoin) utilitzant l&apos;eina superior-blockchain-mark-spent-outputs per crear una llista de sortides gastades conegudes. &lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="141"/>
@@ -1701,13 +1701,13 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="257"/>
-        <source>In order to avoid nullifying the protection afforded by Superior&apos;s ring signatures, an output should not be spent with different rings on different blockchains. While this is normally not a concern, it can become one when a key-reusing Superior clone allows you to spend existing outputs. In this case, you need to ensure this existing outputs uses the same ring on both chains.&lt;br&gt;This will be done automatically by Superior and any key-reusing software which is not trying to actively strip you of your privacy.&lt;br&gt;If you are using a key-reusing Superior clone too, and this clone does not include this protection, you can still ensure your transactions are protected by spending on the clone first, then manually adding the ring on this page, which allows you to then spend your Superior safely.&lt;br&gt;If you do not use a key-reusing Superior clone without these safety features, then you do not need to do anything as it is all automated.&lt;br&gt;</source>
-        <translation>Per evitar anul·lar la protecció que ofereixen les signatures d&apos;anell de Superior, una sortida no s&apos;ha de gastar amb diferents anells en diferents cadenes de bloc. Tot i que això normalment no és preocupant, pot esdevenir-ho quan un clon de Superior que reutilitzi la clau us permet gastar els saldos existents. En aquest cas, has d&apos;assegurar-te que aquests saldos utilitzen el mateix anell en ambdós cadenes.&lt;br&gt;Superior ho farà automaticament i també qualsevol programari de reutilització de claus que no intenti activament mermar la teva privacitat.&lt;br&gt;Si utilitzes un clon del reutilitzador de claus de Superior, i aquest clon no inclou aquesta protecció, encara pots assegurar la protecció de les teves transaccions si ho gastes primer en el clon i després afegir l&apos;anell manualment en aquesta pàgina, la qual permet gastar els teus Superior de forma segura.&lt;br&gt;Si no utilitzes un clon del reutilitzador de claus de Superior sense aquestes característiques, llavors no cal que facis res, tot està automatitzat.</translation>
+        <source>In order to avoid nullifying the protection afforded by SuperiorCoin&apos;s ring signatures, an output should not be spent with different rings on different blockchains. While this is normally not a concern, it can become one when a key-reusing SuperiorCoin clone allows you to spend existing outputs. In this case, you need to ensure this existing outputs uses the same ring on both chains.&lt;br&gt;This will be done automatically by SuperiorCoin and any key-reusing software which is not trying to actively strip you of your privacy.&lt;br&gt;If you are using a key-reusing SuperiorCoin clone too, and this clone does not include this protection, you can still ensure your transactions are protected by spending on the clone first, then manually adding the ring on this page, which allows you to then spend your SuperiorCoin safely.&lt;br&gt;If you do not use a key-reusing SuperiorCoin clone without these safety features, then you do not need to do anything as it is all automated.&lt;br&gt;</source>
+        <translation>Per evitar anul·lar la protecció que ofereixen les signatures d&apos;anell de SuperiorCoin, una sortida no s&apos;ha de gastar amb diferents anells en diferents cadenes de bloc. Tot i que això normalment no és preocupant, pot esdevenir-ho quan un clon de SuperiorCoin que reutilitzi la clau us permet gastar els saldos existents. En aquest cas, has d&apos;assegurar-te que aquests saldos utilitzen el mateix anell en ambdós cadenes.&lt;br&gt;SuperiorCoin ho farà automaticament i també qualsevol programari de reutilització de claus que no intenti activament mermar la teva privacitat.&lt;br&gt;Si utilitzes un clon del reutilitzador de claus de SuperiorCoin, i aquest clon no inclou aquesta protecció, encara pots assegurar la protecció de les teves transaccions si ho gastes primer en el clon i després afegir l&apos;anell manualment en aquesta pàgina, la qual permet gastar els teus SuperiorCoin de forma segura.&lt;br&gt;Si no utilitzes un clon del reutilitzador de claus de SuperiorCoin sense aquestes característiques, llavors no cal que facis res, tot està automatitzat.</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="279"/>
-        <source>This records rings used by outputs spent on Superior on a key reusing chain, so that the same ring may be reused to avoid privacy issues.</source>
-        <translation>Això registra anells utilitzats en les sortides de Superior en una cadena de reutilització de claus, de manera que es pugui reutilitzar el mateix anell evitant minvar la privacitat.</translation>
+        <source>This records rings used by outputs spent on SuperiorCoin on a key reusing chain, so that the same ring may be reused to avoid privacy issues.</source>
+        <translation>Això registra anells utilitzats en les sortides de SuperiorCoin en una cadena de reutilització de claus, de manera que es pugui reutilitzar el mateix anell evitant minvar la privacitat.</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="290"/>
@@ -1802,7 +1802,7 @@ You can change the password in the wallet settings.</source>
     <message>
         <location filename="../pages/Sign.qml" line="101"/>
         <source>Sign/verify</source>
-        <translation>Signa/Verifica</translation>
+        <translation type="unfinished">Signa/Verifica</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="121"/>
@@ -1891,7 +1891,7 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="337"/>
-        <source>Enter the Superior Address (example: 44AFFq5kSiGBoZ...)</source>
+        <source>Enter the SuperiorCoin Address (example: 44AFFq5kSiGBoZ...)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2128,8 +2128,8 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="51"/>
-        <source>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #B79B0F; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Start daemon&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</source>
-        <translation>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #B79B0F; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Inicia dimoni&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</translation>
+        <source>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FF6C3C; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Start daemon&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</source>
+        <translation>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FF6C3C; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Inicia dimoni&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="141"/>
@@ -2232,8 +2232,8 @@ Mida d&apos;anell: </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="616"/>
-        <source>Superior sent successfully</source>
-        <translation>Superior enviat amb èxit</translation>
+        <source>SuperiorCoin sent successfully</source>
+        <translation>SuperiorCoin enviat amb èxit</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="680"/>
@@ -2283,8 +2283,7 @@ Actualitza o connectat a un altre dimoni</translation>
         <source>Resolve</source>
         <translation>Resoldre</translation>
     </message>
-<message><source></source><translation></translation>
-    <location filename="../pages/Transfer.qml" line="91"/></message></context>
+</context>
 <context>
     <name>TxKey</name>
     <message>
@@ -2373,70 +2372,6 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     </message>
 </context>
 <context>
-    <name>Utils</name>
-    <message>
-        <location filename="../js/Utils.js" line="42"/>
-        <source>Wrong password</source>
-        <translation>Contraseña incorrecta</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="61"/>
-        <source>second ago</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="63"/>
-        <source>seconds ago</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="67"/>
-        <source>minute ago</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="69"/>
-        <source>minutes ago</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="73"/>
-        <source>hour ago</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="75"/>
-        <source>hours ago</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="79"/>
-        <location filename="../js/Utils.js" line="83"/>
-        <source>day ago</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="85"/>
-        <source>days ago</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="94"/>
-        <source>Testnet</source>
-        <translation>Xarxa de proves</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="94"/>
-        <source>Stagenet</source>
-        <translation>Xarxa de fase</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="94"/>
-        <source>Mainnet</source>
-        <translation>Xarxa principal</translation>
-    </message>
-</context>
-<context>
     <name>WizardAskPassword</name>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="41"/>
@@ -2447,22 +2382,22 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
         <location filename="../wizard/WizardAskPassword.qml" line="52"/>
         <location filename="../wizard/WizardAskPassword.qml" line="71"/>
         <source>Low</source>
-        <translation>Baixa</translation>
+        <translation type="unfinished">Baixa</translation>
     </message>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="73"/>
         <source>Medium</source>
-        <translation>Mitjana</translation>
+        <translation type="unfinished">Mitjana</translation>
     </message>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="75"/>
         <source>High</source>
-        <translation>Alta</translation>
+        <translation type="unfinished">Alta</translation>
     </message>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="84"/>
         <source>Give your wallet a password</source>
-        <translation>Posa contrasenya al moneder</translation>
+        <translation type="unfinished">Posa contrasenya al moneder</translation>
     </message>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="85"/>
@@ -2477,7 +2412,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="155"/>
         <source>Password</source>
-        <translation>Contrasenya</translation>
+        <translation type="unfinished">Contrasenya</translation>
     </message>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="210"/>
@@ -2490,7 +2425,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardController.qml" line="260"/>
         <source>Please choose a file</source>
-        <translation>Tria un fitxer</translation>
+        <translation type="unfinished">Tria un fitxer</translation>
     </message>
 </context>
 <context>
@@ -2498,7 +2433,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="49"/>
         <source>Ledger</source>
-        <translation>Ledger</translation>
+        <translation type="unfinished">Ledger</translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="74"/>
@@ -2528,7 +2463,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="128"/>
         <source>Restore height</source>
-        <translation>Restaurar alçada</translation>
+        <translation type="unfinished">Restaurar alçada</translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="139"/>
@@ -2549,7 +2484,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="191"/>
         <source>Create wallet</source>
-        <translation>Crea moneder</translation>
+        <translation type="unfinished">Crea moneder</translation>
     </message>
 </context>
 <context>
@@ -2567,7 +2502,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardCreateWallet1.qml" line="89"/>
         <source>Mnemonic seed</source>
-        <translation>Llavor mnemònica</translation>
+        <translation type="unfinished">Llavor mnemònica</translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateWallet1.qml" line="94"/>
@@ -2577,7 +2512,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardCreateWallet1.qml" line="127"/>
         <source>This seed is &lt;b&gt;very&lt;/b&gt; important to write down and keep secret. It is all you need to backup and restore your wallet.</source>
-        <translation>És &lt;b&gt;molt&lt;/b&gt; important escriure i guardar aquesta llavor en secret. És tot el que cal per restaurar el moneder.</translation>
+        <translation type="unfinished">És &lt;b&gt;molt&lt;/b&gt; important escriure i guardar aquesta llavor en secret. És tot el que cal per restaurar el moneder.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateWallet1.qml" line="135"/>
@@ -2602,7 +2537,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     </message>
     <message>
         <location filename="../wizard/WizardCreateWallet3.qml" line="58"/>
-        <source>To be able to communicate with the Superior network your wallet needs to be connected to a Superior node. For best privacy it&apos;s recommended to run your own node.</source>
+        <source>To be able to communicate with the SuperiorCoin network your wallet needs to be connected to a SuperiorCoin node. For best privacy it&apos;s recommended to run your own node.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2616,7 +2551,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardCreateWallet4.qml" line="59"/>
         <source>New wallet details:</source>
-        <translation>Detalls del nou moneder:</translation>
+        <translation type="unfinished">Detalls del nou moneder:</translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateWallet4.qml" line="66"/>
@@ -2639,12 +2574,12 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="76"/>
         <source>Default</source>
-        <translation>Per defecte</translation>
+        <translation type="unfinished">Per defecte</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="80"/>
         <source>Browse</source>
-        <translation>Navega</translation>
+        <translation type="unfinished">Navega</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="94"/>
@@ -2653,7 +2588,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="120"/>
-        <source>Additionally, you may specify a bootstrap node to use Superior immediately.</source>
+        <source>Additionally, you may specify a bootstrap node to use SuperiorCoin immediately.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2666,7 +2601,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <name>WizardHome</name>
     <message>
         <location filename="../wizard/WizardHome.qml" line="60"/>
-        <source>Welcome to Superior.</source>
+        <source>Welcome to SuperiorCoin.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2676,7 +2611,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="66"/>
-        <source>Choose this option if this is your first time using Superior.</source>
+        <source>Choose this option if this is your first time using SuperiorCoin.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2686,13 +2621,13 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="87"/>
-        <source>Connect your hardware wallet to create a new Superior wallet.</source>
+        <source>Connect your hardware wallet to create a new SuperiorCoin wallet.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="106"/>
         <source>Open a wallet from file</source>
-        <translation>Obrir moneder des d&apos;un fitxer</translation>
+        <translation type="unfinished">Obrir moneder des d&apos;un fitxer</translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="107"/>
@@ -2702,7 +2637,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardHome.qml" line="125"/>
         <source>Restore wallet from keys or mnemonic seed</source>
-        <translation>Restaura moneder des d&apos;una clau o llavor mnemònica</translation>
+        <translation type="unfinished">Restaura moneder des d&apos;una clau o llavor mnemònica</translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="126"/>
@@ -2722,7 +2657,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardHome.qml" line="166"/>
         <source>Advanced options</source>
-        <translation>Opcions avançades</translation>
+        <translation type="unfinished">Opcions avançades</translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="209"/>
@@ -2739,7 +2674,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     </message>
     <message>
         <location filename="../wizard/WizardLang.qml" line="93"/>
-        <source>Change the language of the Superior GUI.</source>
+        <source>Change the language of the SuperiorCoin GUI.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2767,7 +2702,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     </message>
     <message>
         <location filename="../wizard/WizardModeBootstrap.qml" line="81"/>
-        <source>Temporary use of remote nodes is useful in order to use Superior immediately (hence the name &lt;i&gt;bootstrap&lt;/i&gt;), however be aware that when using remote nodes (including with the bootstrap setting), nodes could track your IP address, track your &quot;restore height&quot; and associated block request data, and send you inaccurate information to learn more about transactions you make.</source>
+        <source>Temporary use of remote nodes is useful in order to use SuperiorCoin immediately (hence the name &lt;i&gt;bootstrap&lt;/i&gt;), however be aware that when using remote nodes (including with the bootstrap setting), nodes could track your IP address, track your &quot;restore height&quot; and associated block request data, and send you inaccurate information to learn more about transactions you make.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2795,7 +2730,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     </message>
     <message>
         <location filename="../wizard/WizardModeRemoteNodeWarning.qml" line="70"/>
-        <source>This mode is ideal for managing small amounts of Superior. You have access to basic features for making and managing transactions. It will automatically connect to the Superior network so you can start using Superior immediately.</source>
+        <source>This mode is ideal for managing small amounts of SuperiorCoin. You have access to basic features for making and managing transactions. It will automatically connect to the SuperiorCoin network so you can start using SuperiorCoin immediately.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2881,7 +2816,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardOpenWallet1.qml" line="73"/>
         <source>Open a wallet from file</source>
-        <translation>Obrir moneder des d&apos;un fitxer</translation>
+        <translation type="unfinished">Obrir moneder des d&apos;un fitxer</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOpenWallet1.qml" line="74"/>
@@ -2914,7 +2849,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="101"/>
         <source>Restore wallet</source>
-        <translation>Restaura moneder</translation>
+        <translation type="unfinished">Restaura moneder</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="102"/>
@@ -2924,37 +2859,37 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="113"/>
         <source>Restore from seed</source>
-        <translation>Restaurar des de llavor</translation>
+        <translation type="unfinished">Restaurar des de llavor</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="123"/>
         <source>Restore from keys</source>
-        <translation>Restaurar des de clau</translation>
+        <translation type="unfinished">Restaurar des de clau</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="133"/>
         <source>From QR Code</source>
-        <translation>Des de codi QR</translation>
+        <translation type="unfinished">Des de codi QR</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="196"/>
         <source>Enter your 25 (or 24) word mnemonic seed</source>
-        <translation>Introdueix les 25 (o 24) paraules mnemòniques de la llavor</translation>
+        <translation type="unfinished">Introdueix les 25 (o 24) paraules mnemòniques de la llavor</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="209"/>
         <source>Account address (public)</source>
-        <translation>Adreça del compte (pública)</translation>
+        <translation type="unfinished">Adreça del compte (pública)</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="221"/>
         <source>View key (private)</source>
-        <translation>Clau de visualització (privada)</translation>
+        <translation type="unfinished">Clau de visualització (privada)</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="233"/>
         <source>Spend key (private)</source>
-        <translation>Clau de gasto (privada)</translation>
+        <translation type="unfinished">Clau de gasto (privada)</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="244"/>
@@ -2964,7 +2899,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="247"/>
         <source>Restore height</source>
-        <translation>Restaurar alçada</translation>
+        <translation type="unfinished">Restaurar alçada</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="268"/>
@@ -2989,7 +2924,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet3.qml" line="66"/>
-        <source>To be able to communicate with the Superior network your wallet needs to be connected to a Superior node. For best privacy it&apos;s recommended to run your own node.
+        <source>To be able to communicate with the SuperiorCoin network your wallet needs to be connected to a SuperiorCoin node. For best privacy it&apos;s recommended to run your own node.
 
 If you don&apos;t have the option to run your own node, there&apos;s an option to connect to a remote node.</source>
         <translation type="unfinished"></translation>
@@ -3005,7 +2940,7 @@ If you don&apos;t have the option to run your own node, there&apos;s an option t
     <message>
         <location filename="../wizard/WizardRestoreWallet4.qml" line="59"/>
         <source>New wallet details:</source>
-        <translation>Detalls del nou moneder:</translation>
+        <translation type="unfinished">Detalls del nou moneder:</translation>
     </message>
 </context>
 <context>
@@ -3014,27 +2949,27 @@ If you don&apos;t have the option to run your own node, there&apos;s an option t
         <location filename="../wizard/WizardSummary.qml" line="44"/>
         <location filename="../wizard/WizardSummary.qml" line="62"/>
         <source>Wallet name</source>
-        <translation>Nom del moneder</translation>
+        <translation type="unfinished">Nom del moneder</translation>
     </message>
     <message>
         <location filename="../wizard/WizardSummary.qml" line="50"/>
         <source>Wallet path</source>
-        <translation>Ruta al moneder</translation>
+        <translation type="unfinished">Ruta al moneder</translation>
     </message>
     <message>
         <location filename="../wizard/WizardSummary.qml" line="56"/>
         <source>Language</source>
-        <translation>Idioma</translation>
+        <translation type="unfinished">Idioma</translation>
     </message>
     <message>
         <location filename="../wizard/WizardSummary.qml" line="68"/>
         <source>Restore height</source>
-        <translation>Restaurar alçada</translation>
+        <translation type="unfinished">Restaurar alçada</translation>
     </message>
     <message>
         <location filename="../wizard/WizardSummary.qml" line="82"/>
         <source>Daemon address</source>
-        <translation>Adreça del dimoni</translation>
+        <translation type="unfinished">Adreça del dimoni</translation>
     </message>
     <message>
         <location filename="../wizard/WizardSummary.qml" line="89"/>
@@ -3044,7 +2979,7 @@ If you don&apos;t have the option to run your own node, there&apos;s an option t
     <message>
         <location filename="../wizard/WizardSummary.qml" line="95"/>
         <source>Network Type</source>
-        <translation>Tipus de xarxa</translation>
+        <translation type="unfinished">Tipus de xarxa</translation>
     </message>
 </context>
 <context>
@@ -3052,7 +2987,7 @@ If you don&apos;t have the option to run your own node, there&apos;s an option t
     <message>
         <location filename="../wizard/WizardWalletInput.qml" line="71"/>
         <source>Wallet name</source>
-        <translation>Nom del moneder</translation>
+        <translation type="unfinished">Nom del moneder</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWalletInput.qml" line="85"/>
@@ -3062,12 +2997,12 @@ If you don&apos;t have the option to run your own node, there&apos;s an option t
     <message>
         <location filename="../wizard/WizardWalletInput.qml" line="91"/>
         <source>Browse</source>
-        <translation>Navega</translation>
+        <translation type="unfinished">Navega</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWalletInput.qml" line="106"/>
         <source>Please choose a directory</source>
-        <translation>Tria un directori</translation>
+        <translation type="unfinished">Tria un directori</translation>
     </message>
 </context>
 <context>
@@ -3305,8 +3240,8 @@ Spending address index: </source>
     </message>
     <message>
         <location filename="../main.qml" line="840"/>
-        <source>Superior sent successfully: %1 transaction(s) </source>
-        <translation>Superior ha enviat amb èxit: %1 transaccions</translation>
+        <source>SuperiorCoin sent successfully: %1 transaction(s) </source>
+        <translation>SuperiorCoin ha enviat amb èxit: %1 transaccions</translation>
     </message>
     <message>
         <location filename="../main.qml" line="910"/>
@@ -3343,7 +3278,7 @@ Spending address index: </source>
     <message>
         <location filename="../main.qml" line="1153"/>
         <source>Please choose a file</source>
-        <translation>Tria un fitxer</translation>
+        <translation type="unfinished">Tria un fitxer</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1202"/>
@@ -3393,8 +3328,8 @@ Spending address index: </source>
     <message>
         <location filename="../main.qml" line="1328"/>
         <location filename="../main.qml" line="1343"/>
-        <source>Superior</source>
-        <translation>Superior</translation>
+        <source>SuperiorCoin</source>
+        <translation>SuperiorCoin</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1503"/>

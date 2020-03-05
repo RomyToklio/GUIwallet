@@ -487,13 +487,13 @@
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="62"/>
-        <source>WARNING: Do not reuse your Superior keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
-        <translation>UYARI: EĞER ayrılma(fork) anahtarı yeniden kullanma sorunu giderme özelliği içermiyorsa, Superior anahtarlarınızı bu tip ayrılma(fork)da kullanmayın. Aksi halde gizliliğinize zarar verirsiniz.</translation>
+        <source>WARNING: Do not reuse your SuperiorCoin keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
+        <translation>UYARI: EĞER ayrılma(fork) anahtarı yeniden kullanma sorunu giderme özelliği içermiyorsa, SuperiorCoin anahtarlarınızı bu tip ayrılma(fork)da kullanmayın. Aksi halde gizliliğinize zarar verirsiniz.</translation>
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="85"/>
-        <source>WARNING: Copying your seed to clipboard can expose you to malicious software, which may record your seed and steal your Superior. Please write down your seed manually.</source>
-        <translation>UYARI: Tohumunuzu (seed) panoya kopyalamak, bunu kopyalatıp Superior&apos;larınızı çalacak kötü niyetli yazılımlara açık hale getirir. Lütfen tohumunuzu elle yazın.</translation>
+        <source>WARNING: Copying your seed to clipboard can expose you to malicious software, which may record your seed and steal your SuperiorCoin. Please write down your seed manually.</source>
+        <translation>UYARI: Tohumunuzu (seed) panoya kopyalamak, bunu kopyalatıp SuperiorCoin&apos;larınızı çalacak kötü niyetli yazılımlara açık hale getirir. Lütfen tohumunuzu elle yazın.</translation>
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="159"/>
@@ -879,8 +879,8 @@
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="72"/>
-        <source>Mining with your computer helps strengthen the Superior network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Superior. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
-        <translation>Bilgisayarınızla birlikte madencilik yapmak Superior ağını güçlendirmeye yardımcı olur. İnsanların benimsediği derecede, ağın saldırıya ne kadar zorlaşırsa, ve insanlara biraz yardımcı olur. &lt;br&gt; &lt;br&gt; Madencilik ayrıca bazı Superior kazanmak için küçük bir şans verir. Bilgisayarınız blok çözümleri arayan karma değerler oluşturacaktır. Bir blok bulursanız, size verilen ödülleri alacaksınız. İyi şanslar!</translation>
+        <source>Mining with your computer helps strengthen the SuperiorCoin network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some SuperiorCoin. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
+        <translation>Bilgisayarınızla birlikte madencilik yapmak SuperiorCoin ağını güçlendirmeye yardımcı olur. İnsanların benimsediği derecede, ağın saldırıya ne kadar zorlaşırsa, ve insanlara biraz yardımcı olur. &lt;br&gt; &lt;br&gt; Madencilik ayrıca bazı SuperiorCoin kazanmak için küçük bir şans verir. Bilgisayarınız blok çözümleri arayan karma değerler oluşturacaktır. Bir blok bulursanız, size verilen ödülleri alacaksınız. İyi şanslar!</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="93"/>
@@ -1239,8 +1239,8 @@
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="97"/>
-        <source>Embedded Superior version: </source>
-        <translation>Gömülü Superior sürümü: </translation>
+        <source>Embedded SuperiorCoin version: </source>
+        <translation>Gömülü SuperiorCoin sürümü: </translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="126"/>
@@ -1357,7 +1357,7 @@ Aşağıdaki bilgiler silinecek
     <message>
         <location filename="../pages/settings/SettingsLayout.qml" line="171"/>
         <source>Change language</source>
-        <translation>Dili değiştir</translation>
+        <translation type="unfinished">Dili değiştir</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsLayout.qml" line="183"/>
@@ -1402,13 +1402,13 @@ Aşağıdaki bilgiler silinecek
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="233"/>
-        <source>Uses a third-party server to connect to the Superior network. Less secure, but easier on your computer.</source>
-        <translation>Superior ağına bağlanmak için üçüncü parti sunucu kullanır. Daha az güvenli, ama bilgasayarınıza daha az zorlar.</translation>
+        <source>Uses a third-party server to connect to the SuperiorCoin network. Less secure, but easier on your computer.</source>
+        <translation>SuperiorCoin ağına bağlanmak için üçüncü parti sunucu kullanır. Daha az güvenli, ama bilgasayarınıza daha az zorlar.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="279"/>
-        <source>To find a remote node, type &apos;Superior remote node&apos; into your favorite search engine. Please ensure the node is run by a trusted third-party.</source>
-        <translation>Uzak düğüm bulmak için, göde arama motorunuza &apos;Superior remote node&apos; girin. Lütfen düğümün güvenilir bir üçümcü parti olduğundan emin olun.</translation>
+        <source>To find a remote node, type &apos;SuperiorCoin remote node&apos; into your favorite search engine. Please ensure the node is run by a trusted third-party.</source>
+        <translation>Uzak düğüm bulmak için, göde arama motorunuza &apos;SuperiorCoin remote node&apos; girin. Lütfen düğümün güvenilir bir üçümcü parti olduğundan emin olun.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="293"/>
@@ -1522,7 +1522,7 @@ Aşağıdaki bilgiler silinecek
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="183"/>
         <source>Success</source>
-        <translation>Başarılı</translation>
+        <translation type="unfinished">Başarılı</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="184"/>
@@ -1613,8 +1613,8 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="104"/>
-        <source>This page allows you to interact with the shared ring database. This database is meant for use by Superior wallets as well as wallets from Superior clones which reuse the Superior keys.</source>
-        <translation>Bu sayfa paylaşılan halka veritabanı ile etkileşim içindir. Bu veritabanı Superior ve Superior anahtarlarını kullanan Superior klonlarının cüzdanları içindir.</translation>
+        <source>This page allows you to interact with the shared ring database. This database is meant for use by SuperiorCoin wallets as well as wallets from SuperiorCoin clones which reuse the SuperiorCoin keys.</source>
+        <translation>Bu sayfa paylaşılan halka veritabanı ile etkileşim içindir. Bu veritabanı SuperiorCoin ve SuperiorCoin anahtarlarını kullanan SuperiorCoin klonlarının cüzdanları içindir.</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="117"/>
@@ -1630,8 +1630,8 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="120"/>
-        <source>In order to obscure which inputs in a Superior transaction are being spent, a third party should not be able to tell which inputs in a ring are already known to be spent. Being able to do so would weaken the protection afforded by ring signatures. If all but one of the inputs are known to be already spent, then the input being actually spent becomes apparent, thereby nullifying the effect of ring signatures, one of the three main layers of privacy protection Superior uses.&lt;br&gt;To help transactions avoid those inputs, a list of known spent ones can be used to avoid using them in new transactions. Such a list is maintained by the Superior project and is available on the getsuperior.org website, and you can import this list here.&lt;br&gt;Alternatively, you can scan the blockchain (and the blockchain of key-reusing Superior clones) yourself using the superior-blockchain-mark-spent-outputs tool to create a list of known spent outputs.&lt;br&gt;</source>
-        <translation>Superior işleminde hangi girdilerin harcanacağını gizlemek için, üçüncü bir taraf, bir halkada hangi girdilerin zaten harcanmış olduğunu söyleyememelidir. Bunu yapabilmek, halka imzaların sağladığı korumayı zayıflatabilir. Girişlerden birinin dışında kalanın zaten harcanmış olduğu biliniyorsa, o zaman harcanan girdi görünür hale gelir ve böylece Superior kullanımının gizlilik korumasının üç ana katmanından biri olan halka imzaların etkisini ortadan kaldırır.&lt;br&gt; İşlemlerin bu girdilerden kaçınmasına yardım etmek için, harcandığı bilinen girdilerin bir listesi yeni işlemlerde kullanmaktan kaçınmak için kullanılabilir. Böyle bir liste Superior projesi tarafından korunur ve getsuperior.org web sitesinde mevcuttur ve bu listeyi buradan içe aktarabilirsiniz.&lt;br&gt; Alternatif olarak, bilinen harcanan çıktıların bir listesini oluşturmak için superior-blockchain-mark-spent-outputs aracını kullanarak block zincirini (ve anahtarı tekrar kullanan Superior klonlarının blok zincirini), kendiniz de tarayabilirsiniz.&lt;br&gt;</translation>
+        <source>In order to obscure which inputs in a SuperiorCoin transaction are being spent, a third party should not be able to tell which inputs in a ring are already known to be spent. Being able to do so would weaken the protection afforded by ring signatures. If all but one of the inputs are known to be already spent, then the input being actually spent becomes apparent, thereby nullifying the effect of ring signatures, one of the three main layers of privacy protection SuperiorCoin uses.&lt;br&gt;To help transactions avoid those inputs, a list of known spent ones can be used to avoid using them in new transactions. Such a list is maintained by the SuperiorCoin project and is available on the superior-coin.com website, and you can import this list here.&lt;br&gt;Alternatively, you can scan the blockchain (and the blockchain of key-reusing SuperiorCoin clones) yourself using the superior-blockchain-mark-spent-outputs tool to create a list of known spent outputs.&lt;br&gt;</source>
+        <translation>SuperiorCoin işleminde hangi girdilerin harcanacağını gizlemek için, üçüncü bir taraf, bir halkada hangi girdilerin zaten harcanmış olduğunu söyleyememelidir. Bunu yapabilmek, halka imzaların sağladığı korumayı zayıflatabilir. Girişlerden birinin dışında kalanın zaten harcanmış olduğu biliniyorsa, o zaman harcanan girdi görünür hale gelir ve böylece SuperiorCoin kullanımının gizlilik korumasının üç ana katmanından biri olan halka imzaların etkisini ortadan kaldırır.&lt;br&gt; İşlemlerin bu girdilerden kaçınmasına yardım etmek için, harcandığı bilinen girdilerin bir listesi yeni işlemlerde kullanmaktan kaçınmak için kullanılabilir. Böyle bir liste SuperiorCoin projesi tarafından korunur ve superior-coin.com web sitesinde mevcuttur ve bu listeyi buradan içe aktarabilirsiniz.&lt;br&gt; Alternatif olarak, bilinen harcanan çıktıların bir listesini oluşturmak için superior-blockchain-mark-spent-outputs aracını kullanarak block zincirini (ve anahtarı tekrar kullanan SuperiorCoin klonlarının blok zincirini), kendiniz de tarayabilirsiniz.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="141"/>
@@ -1701,12 +1701,12 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="257"/>
-        <source>In order to avoid nullifying the protection afforded by Superior&apos;s ring signatures, an output should not be spent with different rings on different blockchains. While this is normally not a concern, it can become one when a key-reusing Superior clone allows you to spend existing outputs. In this case, you need to ensure this existing outputs uses the same ring on both chains.&lt;br&gt;This will be done automatically by Superior and any key-reusing software which is not trying to actively strip you of your privacy.&lt;br&gt;If you are using a key-reusing Superior clone too, and this clone does not include this protection, you can still ensure your transactions are protected by spending on the clone first, then manually adding the ring on this page, which allows you to then spend your Superior safely.&lt;br&gt;If you do not use a key-reusing Superior clone without these safety features, then you do not need to do anything as it is all automated.&lt;br&gt;</source>
-        <translation>Superior halka imzalarının getirdiği korumanın boşa gitmemesi için, bir çıktı farklı blok zincirlerinde farklı halkalar ile harcanmamalıdır. Normalde endişelenecek bir durum olmamakla birlikte, anahtarı yeniden kullanan Superior klonu mevcut çıktıları kullanmanıza izin verdiğinde sorun olur. Bu durumda, bu mevcut çıktıların her iki zincirde de aynı halkaları kullandığına emin olmalısınız.&lt;br&gt;Bu koruma, Superior ve herhangi bir, aktif olarak gizliliğinize sızmaya çalışmayan, anahtarı yeniden kullanan yazılımda kendiliğinden yapılır.&lt;br&gt; Eğer siz de anahtarı yeniden kullanan Superior klonu kullanıyorsanız, ve bu klon bu korumayı içermiyor ise, önce klonda harcayarak, sonra bu sayfadaki halkayı elle ekleyerek işleminizin güvenleğini sağlayabilirsiniz.&lt;br&gt;</translation>
+        <source>In order to avoid nullifying the protection afforded by SuperiorCoin&apos;s ring signatures, an output should not be spent with different rings on different blockchains. While this is normally not a concern, it can become one when a key-reusing SuperiorCoin clone allows you to spend existing outputs. In this case, you need to ensure this existing outputs uses the same ring on both chains.&lt;br&gt;This will be done automatically by SuperiorCoin and any key-reusing software which is not trying to actively strip you of your privacy.&lt;br&gt;If you are using a key-reusing SuperiorCoin clone too, and this clone does not include this protection, you can still ensure your transactions are protected by spending on the clone first, then manually adding the ring on this page, which allows you to then spend your SuperiorCoin safely.&lt;br&gt;If you do not use a key-reusing SuperiorCoin clone without these safety features, then you do not need to do anything as it is all automated.&lt;br&gt;</source>
+        <translation>SuperiorCoin halka imzalarının getirdiği korumanın boşa gitmemesi için, bir çıktı farklı blok zincirlerinde farklı halkalar ile harcanmamalıdır. Normalde endişelenecek bir durum olmamakla birlikte, anahtarı yeniden kullanan SuperiorCoin klonu mevcut çıktıları kullanmanıza izin verdiğinde sorun olur. Bu durumda, bu mevcut çıktıların her iki zincirde de aynı halkaları kullandığına emin olmalısınız.&lt;br&gt;Bu koruma, SuperiorCoin ve herhangi bir, aktif olarak gizliliğinize sızmaya çalışmayan, anahtarı yeniden kullanan yazılımda kendiliğinden yapılır.&lt;br&gt; Eğer siz de anahtarı yeniden kullanan SuperiorCoin klonu kullanıyorsanız, ve bu klon bu korumayı içermiyor ise, önce klonda harcayarak, sonra bu sayfadaki halkayı elle ekleyerek işleminizin güvenleğini sağlayabilirsiniz.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="279"/>
-        <source>This records rings used by outputs spent on Superior on a key reusing chain, so that the same ring may be reused to avoid privacy issues.</source>
+        <source>This records rings used by outputs spent on SuperiorCoin on a key reusing chain, so that the same ring may be reused to avoid privacy issues.</source>
         <translation>Bu, anahtarı yeniden kullanan zincirde harcanan çıktılarla kullanılan halkaları kaydeder, böylece aynı halka gizlilik sorunlarını önlemek için yeniden kullanılabilir.</translation>
     </message>
     <message>
@@ -1891,8 +1891,8 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="337"/>
-        <source>Enter the Superior Address (example: 44AFFq5kSiGBoZ...)</source>
-        <translation>Superior Adresini girin (örnek: 44AFFq5kSiGBoZ...)</translation>
+        <source>Enter the SuperiorCoin Address (example: 44AFFq5kSiGBoZ...)</source>
+        <translation>SuperiorCoin Adresini girin (örnek: 44AFFq5kSiGBoZ...)</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="348"/>
@@ -2050,8 +2050,8 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="51"/>
-        <source>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #B79B0F; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Start daemon&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</source>
-        <translation>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #B79B0F; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Arka plan hizmetini başlatın&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</translation>
+        <source>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FF6C3C; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Start daemon&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</source>
+        <translation>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FF6C3C; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Arka plan hizmetini başlatın&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="187"/>
@@ -2106,8 +2106,8 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="616"/>
-        <source>Superior sent successfully</source>
-        <translation>Superior başarı ile gönderildi</translation>
+        <source>SuperiorCoin sent successfully</source>
+        <translation>SuperiorCoin başarı ile gönderildi</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="463"/>
@@ -2277,8 +2277,7 @@ Lütfen yükseltin veya başka bir daemona bağlanın </translation>
         <source>Fastest (x41.5 fee)</source>
         <translation>En hızlı (x41.5 ücret)</translation>
     </message>
-<message><source></source><translation></translation>
-    <location filename="../pages/Transfer.qml" line="91"/></message></context>
+</context>
 <context>
     <name>TxKey</name>
     <message>
@@ -2368,70 +2367,6 @@ Harcama Kanıtı ile ilgili davada, alıcı adresini belirtmeniz gerekmez. </tra
     </message>
 </context>
 <context>
-    <name>Utils</name>
-    <message>
-        <location filename="../js/Utils.js" line="42"/>
-        <source>Wrong password</source>
-        <translation>Yanlış parola</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="61"/>
-        <source>second ago</source>
-        <translation>saniye önce</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="63"/>
-        <source>seconds ago</source>
-        <translation>saniye önce</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="67"/>
-        <source>minute ago</source>
-        <translation>dakika önce</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="69"/>
-        <source>minutes ago</source>
-        <translation>dakika önce</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="73"/>
-        <source>hour ago</source>
-        <translation>saat önce</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="75"/>
-        <source>hours ago</source>
-        <translation>saat önce</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="79"/>
-        <location filename="../js/Utils.js" line="83"/>
-        <source>day ago</source>
-        <translation>gün önce</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="85"/>
-        <source>days ago</source>
-        <translation>gün önce</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="94"/>
-        <source>Testnet</source>
-        <translation>Testnet</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="94"/>
-        <source>Stagenet</source>
-        <translation>Prova ağı (Stagenet)</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="94"/>
-        <source>Mainnet</source>
-        <translation>Ana ağ (mainnet)</translation>
-    </message>
-</context>
-<context>
     <name>WizardAskPassword</name>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="41"/>
@@ -2518,12 +2453,12 @@ Harcama Kanıtı ile ilgili davada, alıcı adresini belirtmeniz gerekmez. </tra
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="125"/>
         <source>Wallet creation date as `YYYY-MM-DD` or restore height</source>
-        <translation>&apos;YYYY-AA-GG&apos; olarak cüzdan oluşturma tarihi veya geri yükleme yüksekliği</translation>
+        <translation type="unfinished">&apos;YYYY-AA-GG&apos; olarak cüzdan oluşturma tarihi veya geri yükleme yüksekliği</translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="128"/>
         <source>Restore height</source>
-        <translation>Geri yükleme yüksekliği</translation>
+        <translation type="unfinished">Geri yükleme yüksekliği</translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="139"/>
@@ -2585,7 +2520,7 @@ Harcama Kanıtı ile ilgili davada, alıcı adresini belirtmeniz gerekmez. </tra
     <message>
         <location filename="../wizard/WizardCreateWallet2.qml" line="78"/>
         <source>Failed to fetch remote nodes from third-party server.</source>
-        <translation>Üçüncü taraf sunucudan uzak düğümler alınamadı.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2597,8 +2532,8 @@ Harcama Kanıtı ile ilgili davada, alıcı adresini belirtmeniz gerekmez. </tra
     </message>
     <message>
         <location filename="../wizard/WizardCreateWallet3.qml" line="58"/>
-        <source>To be able to communicate with the Superior network your wallet needs to be connected to a Superior node. For best privacy it&apos;s recommended to run your own node.</source>
-        <translation>Superior ağı ile iletişim kurabilmek için, cüzdanınızın bir Superior düğümüne bağlı olması gerekir. En iyi gizlilik için kendi düğümünüzü çalıştırmanız önerilir.</translation>
+        <source>To be able to communicate with the SuperiorCoin network your wallet needs to be connected to a SuperiorCoin node. For best privacy it&apos;s recommended to run your own node.</source>
+        <translation>SuperiorCoin ağı ile iletişim kurabilmek için, cüzdanınızın bir SuperiorCoin düğümüne bağlı olması gerekir. En iyi gizlilik için kendi düğümünüzü çalıştırmanız önerilir.</translation>
     </message>
 </context>
 <context>
@@ -2648,8 +2583,8 @@ Harcama Kanıtı ile ilgili davada, alıcı adresini belirtmeniz gerekmez. </tra
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="120"/>
-        <source>Additionally, you may specify a bootstrap node to use Superior immediately.</source>
-        <translation>Ayrıca, hemen Superior&apos;yu kullanmak için bir önyükleme düğümü belirleyebilirsiniz.</translation>
+        <source>Additionally, you may specify a bootstrap node to use SuperiorCoin immediately.</source>
+        <translation>Ayrıca, hemen SuperiorCoin&apos;yu kullanmak için bir önyükleme düğümü belirleyebilirsiniz.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="183"/>
@@ -2661,8 +2596,8 @@ Harcama Kanıtı ile ilgili davada, alıcı adresini belirtmeniz gerekmez. </tra
     <name>WizardHome</name>
     <message>
         <location filename="../wizard/WizardHome.qml" line="60"/>
-        <source>Welcome to Superior.</source>
-        <translation>Superior&apos;ya hoş geldin.</translation>
+        <source>Welcome to SuperiorCoin.</source>
+        <translation>SuperiorCoin&apos;ya hoş geldin.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="65"/>
@@ -2671,8 +2606,8 @@ Harcama Kanıtı ile ilgili davada, alıcı adresini belirtmeniz gerekmez. </tra
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="66"/>
-        <source>Choose this option if this is your first time using Superior.</source>
-        <translation>Superior&apos;yu ilk kez kullanıyorsanız bu seçeneği kullanın.</translation>
+        <source>Choose this option if this is your first time using SuperiorCoin.</source>
+        <translation>SuperiorCoin&apos;yu ilk kez kullanıyorsanız bu seçeneği kullanın.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="86"/>
@@ -2681,8 +2616,8 @@ Harcama Kanıtı ile ilgili davada, alıcı adresini belirtmeniz gerekmez. </tra
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="87"/>
-        <source>Connect your hardware wallet to create a new Superior wallet.</source>
-        <translation>Yeni bir Superior cüzdanı oluşturmak için donanım cüzdanınızı bağlayın.</translation>
+        <source>Connect your hardware wallet to create a new SuperiorCoin wallet.</source>
+        <translation>Yeni bir SuperiorCoin cüzdanı oluşturmak için donanım cüzdanınızı bağlayın.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="106"/>
@@ -2734,7 +2669,7 @@ Harcama Kanıtı ile ilgili davada, alıcı adresini belirtmeniz gerekmez. </tra
     </message>
     <message>
         <location filename="../wizard/WizardLang.qml" line="93"/>
-        <source>Change the language of the Superior GUI.</source>
+        <source>Change the language of the SuperiorCoin GUI.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2762,8 +2697,8 @@ Harcama Kanıtı ile ilgili davada, alıcı adresini belirtmeniz gerekmez. </tra
     </message>
     <message>
         <location filename="../wizard/WizardModeBootstrap.qml" line="81"/>
-        <source>Temporary use of remote nodes is useful in order to use Superior immediately (hence the name &lt;i&gt;bootstrap&lt;/i&gt;), however be aware that when using remote nodes (including with the bootstrap setting), nodes could track your IP address, track your &quot;restore height&quot; and associated block request data, and send you inaccurate information to learn more about transactions you make.</source>
-        <translation>Uzak düğümlerin geçici olarak kullanılması, hemen Superior&apos;yu kullanmak için kullanışlıdır (bu nedenle &lt;i&gt;önyükleme&lt;/i&gt; adıdır), ancak uzak düğümleri kullanırken (önyükleme ayarı dahil), düğümlerin IP adresinizi izleyebileceğinin, &quot;geri yükleme yüksekliğinizi&quot; ve ilişkili blok isteği verilerinizi takip edebileceğinin ve yaptığınız işlemler hakkında daha fazla bilgi edinmek için size yanlış bilgiler gönderebileceğinin farkında olun.</translation>
+        <source>Temporary use of remote nodes is useful in order to use SuperiorCoin immediately (hence the name &lt;i&gt;bootstrap&lt;/i&gt;), however be aware that when using remote nodes (including with the bootstrap setting), nodes could track your IP address, track your &quot;restore height&quot; and associated block request data, and send you inaccurate information to learn more about transactions you make.</source>
+        <translation>Uzak düğümlerin geçici olarak kullanılması, hemen SuperiorCoin&apos;yu kullanmak için kullanışlıdır (bu nedenle &lt;i&gt;önyükleme&lt;/i&gt; adıdır), ancak uzak düğümleri kullanırken (önyükleme ayarı dahil), düğümlerin IP adresinizi izleyebileceğinin, &quot;geri yükleme yüksekliğinizi&quot; ve ilişkili blok isteği verilerinizi takip edebileceğinin ve yaptığınız işlemler hakkında daha fazla bilgi edinmek için size yanlış bilgiler gönderebileceğinin farkında olun.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeBootstrap.qml" line="94"/>
@@ -2790,8 +2725,8 @@ Harcama Kanıtı ile ilgili davada, alıcı adresini belirtmeniz gerekmez. </tra
     </message>
     <message>
         <location filename="../wizard/WizardModeRemoteNodeWarning.qml" line="70"/>
-        <source>This mode is ideal for managing small amounts of Superior. You have access to basic features for making and managing transactions. It will automatically connect to the Superior network so you can start using Superior immediately.</source>
-        <translation>Bu mod az miktarda Superior&apos;yu yönetmek için idealdir. İşlemleri yapmak ve yönetmek için temel özelliklere erişebilirsiniz. Superior şebekesine otomatik olarak bağlanacaktır, böylece Superior&apos;yu hemen kullanmaya başlayabilirsiniz.</translation>
+        <source>This mode is ideal for managing small amounts of SuperiorCoin. You have access to basic features for making and managing transactions. It will automatically connect to the SuperiorCoin network so you can start using SuperiorCoin immediately.</source>
+        <translation>Bu mod az miktarda SuperiorCoin&apos;yu yönetmek için idealdir. İşlemleri yapmak ve yönetmek için temel özelliklere erişebilirsiniz. SuperiorCoin şebekesine otomatik olarak bağlanacaktır, böylece SuperiorCoin&apos;yu hemen kullanmaya başlayabilirsiniz.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeRemoteNodeWarning.qml" line="81"/>
@@ -2896,7 +2831,7 @@ Harcama Kanıtı ile ilgili davada, alıcı adresini belirtmeniz gerekmez. </tra
     <message>
         <location filename="../wizard/WizardOpenWallet1.qml" line="201"/>
         <source>Failed to fetch remote nodes from third-party server.</source>
-        <translation>Üçüncü taraf sunucudan uzak düğümler alınamadı.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardOpenWallet1.qml" line="228"/>
@@ -2972,7 +2907,7 @@ Harcama Kanıtı ile ilgili davada, alıcı adresini belirtmeniz gerekmez. </tra
     <message>
         <location filename="../wizard/WizardRestoreWallet2.qml" line="77"/>
         <source>Failed to fetch remote nodes from third-party server.</source>
-        <translation>Üçüncü taraf sunucudan uzak düğümler alınamadı.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2984,10 +2919,10 @@ Harcama Kanıtı ile ilgili davada, alıcı adresini belirtmeniz gerekmez. </tra
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet3.qml" line="66"/>
-        <source>To be able to communicate with the Superior network your wallet needs to be connected to a Superior node. For best privacy it&apos;s recommended to run your own node.
+        <source>To be able to communicate with the SuperiorCoin network your wallet needs to be connected to a SuperiorCoin node. For best privacy it&apos;s recommended to run your own node.
 
 If you don&apos;t have the option to run your own node, there&apos;s an option to connect to a remote node.</source>
-        <translation>Superior şebekesi ile iletişim kurabilmek için, cüzdanınızın bir Superior düğümüne bağlı olması gerekir. En iyi gizlilik için kendi düğümünüzü çalıştırmanız önerilir.
+        <translation>SuperiorCoin şebekesi ile iletişim kurabilmek için, cüzdanınızın bir SuperiorCoin düğümüne bağlı olması gerekir. En iyi gizlilik için kendi düğümünüzü çalıştırmanız önerilir.
 
 Kendi düğümünüzü çalıştırma seçeneğiniz yoksa, uzaktaki bir düğüme bağlanma seçeneği de vardır.</translation>
     </message>
@@ -3232,8 +3167,8 @@ Spending address index: </source>
     </message>
     <message>
         <location filename="../main.qml" line="840"/>
-        <source>Superior sent successfully: %1 transaction(s) </source>
-        <translation>Superior başarı ile gönderildi: %1 işlem</translation>
+        <source>SuperiorCoin sent successfully: %1 transaction(s) </source>
+        <translation>SuperiorCoin başarı ile gönderildi: %1 işlem</translation>
     </message>
     <message>
         <location filename="../main.qml" line="870"/>
@@ -3322,7 +3257,7 @@ Spending address index: </source>
     <message>
         <location filename="../main.qml" line="1803"/>
         <source>Failed to fetch remote nodes from third-party server.</source>
-        <translation>Üçüncü taraf sunucudan uzak düğümler alınamadı.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.qml" line="1858"/>
@@ -3347,7 +3282,7 @@ Spending address index: </source>
     <message>
         <location filename="../main.qml" line="1909"/>
         <source>New version of superior-wallet-gui is available: %1&lt;br&gt;%2</source>
-        <translation>Superior-wallet-gui&apos;nin yeni sürümü mevcut: %1&lt;br&gt;%2</translation>
+        <translation>SuperiorCoin-wallet-gui&apos;nin yeni sürümü mevcut: %1&lt;br&gt;%2</translation>
     </message>
     <message>
         <location filename="../main.qml" line="2002"/>
@@ -3415,8 +3350,8 @@ Spending address index: </source>
     <message>
         <location filename="../main.qml" line="1328"/>
         <location filename="../main.qml" line="1343"/>
-        <source>Superior</source>
-        <translation>Superior</translation>
+        <source>SuperiorCoin</source>
+        <translation>SuperiorCoin</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1503"/>

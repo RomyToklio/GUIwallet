@@ -37,7 +37,7 @@
     <message>
         <location filename="../pages/Account.qml" line="241"/>
         <source>Balance: </source>
-        <translation>Guthaben: </translation>
+        <translation>Saldo: </translation>
     </message>
     <message>
         <location filename="../pages/Account.qml" line="285"/>
@@ -487,13 +487,13 @@
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="62"/>
-        <source>WARNING: Do not reuse your Superior keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
-        <translation>Achtung: Verwende deine Superiorschlüssel nicht auf einer anderen Fork, AUßER diese verfügt über einen Replay-Schutz. Wenn du dies tust, wird deine Privatssphäre gefährdet!</translation>
+        <source>WARNING: Do not reuse your SuperiorCoin keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
+        <translation>Achtung: Verwende deine SuperiorCoinschlüssel nicht auf einer anderen Fork, AUßER diese verfügt über einen Replay-Schutz. Wenn du dies tust, wird deine Privatssphäre gefährdet!</translation>
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="85"/>
-        <source>WARNING: Copying your seed to clipboard can expose you to malicious software, which may record your seed and steal your Superior. Please write down your seed manually.</source>
-        <translation>ACHTUNG: Deinen Seed in die Zwischenablage zu kopieren, kann dich für bösartige Software verwundbar machen, die deinen Seed und somit deine Superior stehlen könnte. Bitte schreibe deinen Seed händisch auf.</translation>
+        <source>WARNING: Copying your seed to clipboard can expose you to malicious software, which may record your seed and steal your SuperiorCoin. Please write down your seed manually.</source>
+        <translation>ACHTUNG: Deinen Seed in die Zwischenablage zu kopieren, kann dich für bösartige Software verwundbar machen, die deinen Seed und somit deine SuperiorCoin stehlen könnte. Bitte schreibe deinen Seed händisch auf.</translation>
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="159"/>
@@ -510,7 +510,7 @@
         <location filename="../pages/Keys.qml" line="184"/>
         <location filename="../pages/Keys.qml" line="216"/>
         <source>View Only Wallet</source>
-        <translation>View-Only-Wallet (ohne Berechtigung)</translation>
+        <translation>View-only Wallet (ohne Berechtigung)</translation>
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="241"/>
@@ -588,7 +588,7 @@
     <message>
         <location filename="../LeftPanel.qml" line="142"/>
         <source>View Only</source>
-        <translation>View-Only</translation>
+        <translation>View-only</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="129"/>
@@ -764,7 +764,7 @@
         <location filename="../pages/merchant/Merchant.qml" line="172"/>
         <location filename="../pages/merchant/Merchant.qml" line="646"/>
         <source>Currently monitoring incoming transactions, none found yet.</source>
-        <translation>Überwache eingehende Transaktionen – bisher keine gefunden.</translation>
+        <translation>Überwache eingehende Transaktionen. Bisher keine gefunden.</translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="242"/>
@@ -879,8 +879,8 @@
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="72"/>
-        <source>Mining with your computer helps strengthen the Superior network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Superior. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
-        <translation>Mit Deinem Computer zu minen hilft dabei, das Superior-Netzwerk zu stärken. Je mehr Leute minen, desto schwieriger kann das Netzwerk angegriffen werden. Jeder kann helfen! &lt;br&gt; &lt;br&gt;Das Mining bietet Dir die Möglichkeit, Superior zu verdienen. Dein Computer errechnet dabei Hash-Werte für neue Blöcke. Wenn du einen neuen Block findest, bekommst du die Belohnung dafür. Viel Erfolg!</translation>
+        <source>Mining with your computer helps strengthen the SuperiorCoin network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some SuperiorCoin. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
+        <translation>Mit Deinem Computer zu minen hilft dabei, das SuperiorCoin-Netzwerk zu stärken. Je mehr Leute minen, desto schwieriger kann das Netzwerk angegriffen werden. Jeder kann helfen! &lt;br&gt; &lt;br&gt;Das Mining bietet Dir die Möglichkeit, SuperiorCoin zu verdienen. Dein Computer errechnet dabei Hash-Werte für neue Blöcke. Wenn du einen neuen Block findest, bekommst du die Belohnung dafür. Viel Erfolg!</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="93"/>
@@ -890,7 +890,7 @@
     <message>
         <location filename="../pages/Mining.qml" line="58"/>
         <source>Mining is only available on local daemons.</source>
-        <translation>Mining ist nur mit einem lokalen Hintergrunddienst möglich.</translation>
+        <translation>Mining ist nur mit einem lokalen Hintergrund-Dienst möglich.</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="84"/>
@@ -915,7 +915,7 @@
     <message>
         <location filename="../pages/Mining.qml" line="133"/>
         <source>Use all threads</source>
-        <translation>Benutze alle Threads</translation>
+        <translation>Benutze alle threads</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="137"/>
@@ -1183,7 +1183,7 @@
     <message>
         <location filename="../pages/Receive.qml" line="234"/>
         <source>(Untitled)</source>
-        <translation>(Unbenannt)</translation>
+        <translation>(Unbetitelt)</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="201"/>
@@ -1193,7 +1193,7 @@
     <message>
         <location filename="../pages/Receive.qml" line="231"/>
         <source>Create new address</source>
-        <translation>Neue Adresse generieren</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="307"/>
@@ -1239,8 +1239,8 @@
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="97"/>
-        <source>Embedded Superior version: </source>
-        <translation>Eingebundene Superior-Version: </translation>
+        <source>Embedded SuperiorCoin version: </source>
+        <translation>Eingebundene SuperiorCoin-Version: </translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="126"/>
@@ -1280,11 +1280,10 @@ The old wallet cache file will be renamed and can be restored later.
         <translation>Bist du sicher, dass du den Wallet-Cache neu erstellen möchtest?
 Die folgenden Informationen werden gelöscht
 - Empfängeradressen
-- Transaktionsschlüssel
-- Transaktionsbeschreibungen
+- Tx-Schlüssel
+- Tx-Beschreibungen
 
-Die alte Wallet-Cache-Datei wird umbenannt und kann später wiederhergestellt werden.
-</translation>
+Die alte Wallet-Cache-Datei wird umbenannt und kann später wiederhergestellt werden.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="195"/>
@@ -1304,7 +1303,7 @@ Die alte Wallet-Cache-Datei wird umbenannt und kann später wiederhergestellt we
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="273"/>
         <source>Wallet mode: </source>
-        <translation>Wallet-Modus: </translation>
+        <translation>Wallet Modus: </translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="286"/>
@@ -1357,7 +1356,7 @@ Die alte Wallet-Cache-Datei wird umbenannt und kann später wiederhergestellt we
     <message>
         <location filename="../pages/settings/SettingsLayout.qml" line="171"/>
         <source>Change language</source>
-        <translation>Sprache ändern</translation>
+        <translation type="unfinished">Sprache ändern</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsLayout.qml" line="183"/>
@@ -1393,7 +1392,7 @@ Die alte Wallet-Cache-Datei wird umbenannt und kann später wiederhergestellt we
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="132"/>
         <source>The blockchain is downloaded to your computer. Provides higher security and requires more local storage.</source>
-        <translation>Die Blockchain wird auf deinen Computer heruntergeladen. Dies bietet eine höhere Sicherheit, benötigt aber mehr lokalen Speicherplatz.</translation>
+        <translation>Die Blockchain wurde auf Deinen Computer heruntergeladen. Dies bietet eine höhere Sicherheit, benötigt aber mehr lokalen Speicherplatz.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="214"/>
@@ -1402,13 +1401,13 @@ Die alte Wallet-Cache-Datei wird umbenannt und kann später wiederhergestellt we
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="233"/>
-        <source>Uses a third-party server to connect to the Superior network. Less secure, but easier on your computer.</source>
-        <translation>Verwendet einen Server eines Drittanbieters, um eine Verbindung mit dem Superior-Netzwerk herzustellen. Das ist weniger sicher, aber auch weniger fordernd für deinen Computer.</translation>
+        <source>Uses a third-party server to connect to the SuperiorCoin network. Less secure, but easier on your computer.</source>
+        <translation>Verwendet einen Server eines Drittanbieters, um eine Verbindung mit dem SuperiorCoin-Netzwerk herzustellen. Weniger sicher, aber einfacher auf Deinem Computer.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="279"/>
-        <source>To find a remote node, type &apos;Superior remote node&apos; into your favorite search engine. Please ensure the node is run by a trusted third-party.</source>
-        <translation>Tippe in deine bevorzugte Suchmaschine &apos;Superior remote node&apos; ein, um einen Drittanbieter-Node zu finden. Stelle sicher, dass der Node von einem vertrauenswürdigen Drittanbieter ausgeführt wird.</translation>
+        <source>To find a remote node, type &apos;SuperiorCoin remote node&apos; into your favorite search engine. Please ensure the node is run by a trusted third-party.</source>
+        <translation>Tippe in Deine bevorzugte Suchmaschine &apos;SuperiorCoin remote node&apos; ein, um einen Drittanbieter-Node zu finden. Stelle sicher, dass der Node von einem vertrauenswürdigen Drittanbieter ausgeführt wird.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="293"/>
@@ -1423,7 +1422,7 @@ Die alte Wallet-Cache-Datei wird umbenannt und kann später wiederhergestellt we
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="305"/>
         <source>Remote node updated. Trusted daemon has been reset. Mark again, if desired.</source>
-        <translation>Der Drittanbieter-Node wurde aktualisiert und das Vertrauen in den Hintergrund-Dienst wurde zurückgesetzt. Wähle ihn bei Bedarf erneut aus.</translation>
+        <translation>Der Drittanbieter-Node wurde aktualisiert und das Vertrauen in den Hintergrund-Dienst wurde zurückgesetzt. Wählen Sie ihn bei Bedarf erneut aus.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="319"/>
@@ -1439,7 +1438,7 @@ Die alte Wallet-Cache-Datei wird umbenannt und kann später wiederhergestellt we
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="345"/>
         <source>Mark as Trusted Daemon</source>
-        <translation>Als vertrautem Hintergrunddienst markieren</translation>
+        <translation>Markiere als vertraulichen Daemon</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="352"/>
@@ -1507,7 +1506,7 @@ Die alte Wallet-Cache-Datei wird umbenannt und kann später wiederhergestellt we
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="149"/>
         <source>Create a view-only wallet</source>
-        <translation>View-Only-Wallet erstellen</translation>
+        <translation>View-Only Wallet erstellen</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="163"/>
@@ -1522,16 +1521,14 @@ Die alte Wallet-Cache-Datei wird umbenannt und kann später wiederhergestellt we
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="183"/>
         <source>Success</source>
-        <translation>Erfolg</translation>
-    <translatorcomment>seems good</translatorcomment></message>
+        <translation type="unfinished">Erfolg</translation>
+    </message>
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="184"/>
         <source>The view only wallet has been created with the same password as the current wallet. You can open it by closing this current wallet, clicking the &quot;Open wallet from file&quot; option, and selecting the view wallet in: 
 %1
 You can change the password in the wallet settings.</source>
-        <translation>Die View-Only-Wallet wurde mit dem selben Passwort erstellt, welches die aktuelle Wallet benutzt. Du kannst die View-Only-Wallet öffnen, indem du zunächst diese Wallet schließt, &quot;Öffne Wallet aus Datei&quot; anklickst und die View-Only-Wallet in: 
-%1
-auswählst. Du kannst das Passwort dann in den Wallet-Einstellungen ändern.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="226"/>
@@ -1593,7 +1590,7 @@ auswählst. Du kannst das Passwort dann in den Wallet-Einstellungen ändern.</tr
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="384"/>
         <source>Change the password of your wallet.</source>
-        <translation>Ändere das Passwort für deine Wallet.</translation>
+        <translation>Ändern Sie das Passwort für Ihr Wallet.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="399"/>
@@ -1615,14 +1612,14 @@ auswählst. Du kannst das Passwort dann in den Wallet-Einstellungen ändern.</tr
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="104"/>
-        <source>This page allows you to interact with the shared ring database. This database is meant for use by Superior wallets as well as wallets from Superior clones which reuse the Superior keys.</source>
-        <translation>Diese Seite erlaubt es dir mit der geteilten Ringdatenbank zu interagieren. Diese Datenbank kann sowohl von Superior-Wallets als auch Wallets von Superior-Klonen, welche Superior-Keys wiederbenutzen, verwendet werden.</translation>
+        <source>This page allows you to interact with the shared ring database. This database is meant for use by SuperiorCoin wallets as well as wallets from SuperiorCoin clones which reuse the SuperiorCoin keys.</source>
+        <translation>Diese Seite erlaubt es dir mit der geteilten Ringdatenbank zu interagieren. Diese Datenbank kann sowohl mit SuperiorCoin Wallets benutzt zu werden, als auch Wallets von SuperiorCoin Klonen, welche SuperiorCoin Keys wiederbenutzen.</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="117"/>
         <location filename="../pages/SharedRingDB.qml" line="119"/>
         <source>Outputs marked as spent</source>
-        <translation>Ausgaben als ausgegeben markiert</translation>
+        <translation>Unzulässige Verschleierungspartner</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="117"/>
@@ -1632,8 +1629,8 @@ auswählst. Du kannst das Passwort dann in den Wallet-Einstellungen ändern.</tr
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="120"/>
-        <source>In order to obscure which inputs in a Superior transaction are being spent, a third party should not be able to tell which inputs in a ring are already known to be spent. Being able to do so would weaken the protection afforded by ring signatures. If all but one of the inputs are known to be already spent, then the input being actually spent becomes apparent, thereby nullifying the effect of ring signatures, one of the three main layers of privacy protection Superior uses.&lt;br&gt;To help transactions avoid those inputs, a list of known spent ones can be used to avoid using them in new transactions. Such a list is maintained by the Superior project and is available on the getsuperior.org website, and you can import this list here.&lt;br&gt;Alternatively, you can scan the blockchain (and the blockchain of key-reusing Superior clones) yourself using the superior-blockchain-mark-spent-outputs tool to create a list of known spent outputs.&lt;br&gt;</source>
-        <translation>Um zu verschleiern, welche Inputs in einer Superior-Transaktion ausgegeben werden, sollte ein Dritter nicht erkennen können, welche Inputs in einem Ring bereits bekannt sind. Dies würde den Schutz durch Ringsignaturen schwächen. Wenn alle bis auf einen der Inputs bereits ausgegeben sind, wird der tatsächlich ausgegebene Input sichtbar, wodurch die Wirkung von Ringsignaturen – eine der drei Hauptebenen der Privatsphäre, die Superior verwendet – zunichte gemacht wird. Um diese Inputs zu vermeiden, kann eine Liste bekannter Ausgaben verwendet werden, um die Verwendung in neuen Transaktionen zu vermeiden. Eine solche Liste wird vom Superior-Projekt verwaltet und ist auf der Website getsuperior.org verfügbar. Du kannst diese Liste hier importieren.&lt;br&gt;Alternativ kannst du die Blockchain (und die Blockchain der Superior-Klone) selbst mit dem „Superior Blockchain mark spent outputs“-Tool scannen, um eine Liste der bekannten Outputs zu erstellen.&lt;br&gt;</translation>
+        <source>In order to obscure which inputs in a SuperiorCoin transaction are being spent, a third party should not be able to tell which inputs in a ring are already known to be spent. Being able to do so would weaken the protection afforded by ring signatures. If all but one of the inputs are known to be already spent, then the input being actually spent becomes apparent, thereby nullifying the effect of ring signatures, one of the three main layers of privacy protection SuperiorCoin uses.&lt;br&gt;To help transactions avoid those inputs, a list of known spent ones can be used to avoid using them in new transactions. Such a list is maintained by the SuperiorCoin project and is available on the superior-coin.com website, and you can import this list here.&lt;br&gt;Alternatively, you can scan the blockchain (and the blockchain of key-reusing SuperiorCoin clones) yourself using the superior-blockchain-mark-spent-outputs tool to create a list of known spent outputs.&lt;br&gt;</source>
+        <translation>Um zu verschleiern, welche Inputs in einer SuperiorCoin-Transaktion ausgegeben werden, sollte ein Dritter nicht erkennen können, welche Inputs in einem Ring bereits bekannt sind. Dies würde den Schutz durch Ringsignaturen schwächen. Wenn alle bis auf einen der Inputs bereits ausgegeben sind, wird der tatsächlich ausgegebene Input sichtbar, wodurch die Wirkung von Ringsignaturen - eine der drei Hauptebenen der Privatsphäre, die SuperiorCoin verwendet - zunichte gemacht wird. Um diese Inputs zu vermeiden, kann eine Liste bekannter Ausgaben verwendet werden, um die Verwendung in neuen Transaktionen zu vermeiden. Eine solche Liste wird vom SuperiorCoin-Projekt verwaltet und ist auf der Website superior-coin.com verfügbar, und Sie können diese Liste hier importieren.&lt;br&gt;Alternativ kannst du die Blockchain (und die Blockchain der SuperiorCoin-Klone) selbst mit dem SuperiorCoin-Blockchain-mark-spent-outputs-Tool scannen, um eine Liste der bekannten Outputs zu erstellen.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="141"/>
@@ -1703,13 +1700,13 @@ auswählst. Du kannst das Passwort dann in den Wallet-Einstellungen ändern.</tr
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="257"/>
-        <source>In order to avoid nullifying the protection afforded by Superior&apos;s ring signatures, an output should not be spent with different rings on different blockchains. While this is normally not a concern, it can become one when a key-reusing Superior clone allows you to spend existing outputs. In this case, you need to ensure this existing outputs uses the same ring on both chains.&lt;br&gt;This will be done automatically by Superior and any key-reusing software which is not trying to actively strip you of your privacy.&lt;br&gt;If you are using a key-reusing Superior clone too, and this clone does not include this protection, you can still ensure your transactions are protected by spending on the clone first, then manually adding the ring on this page, which allows you to then spend your Superior safely.&lt;br&gt;If you do not use a key-reusing Superior clone without these safety features, then you do not need to do anything as it is all automated.&lt;br&gt;</source>
-        <translation>Um zu vermeiden, die durch Ringsignaturen gewährte Privatsphäre zu verletzen, sollte eine Transaktion nicht mit verschiedenen Verschleierungspartnern(Ringe) auf mehreren Blockchains ausgegeben werden. Normalerweise ist das kein Problem; erlaubt ein Superior-Klon allerdings die Wiederbenutzung von Transaktionsschlüsselbildern, kann es jedoch eines werden. In diesem Fall musst du sicherstellen, dass die gleichen Verschleierungspartner auf beiden Blockchains verwendet werden.&lt;br&gt; Superior tut dies automatisch und jede andere Software auch, die dich nicht aktiv um deine Privatsphäre bringen möchte.&lt;br&gt;Solltest du neben Superior noch einen Klon benutzen und sollte dieser nicht sicherstellen, dass deine Privatsphäre geschützt wird, kannst du dies immernoch manuell tun, indem du zuerst eine Transaktion im Klon durchführst und anschließend die beteiligten Partner hier einfügst.&lt;br&gt;Wenn du keine Superior-Klone benutzt, brauchst du nichts zu tun. Superior macht das für dich.&lt;br&gt;</translation>
+        <source>In order to avoid nullifying the protection afforded by SuperiorCoin&apos;s ring signatures, an output should not be spent with different rings on different blockchains. While this is normally not a concern, it can become one when a key-reusing SuperiorCoin clone allows you to spend existing outputs. In this case, you need to ensure this existing outputs uses the same ring on both chains.&lt;br&gt;This will be done automatically by SuperiorCoin and any key-reusing software which is not trying to actively strip you of your privacy.&lt;br&gt;If you are using a key-reusing SuperiorCoin clone too, and this clone does not include this protection, you can still ensure your transactions are protected by spending on the clone first, then manually adding the ring on this page, which allows you to then spend your SuperiorCoin safely.&lt;br&gt;If you do not use a key-reusing SuperiorCoin clone without these safety features, then you do not need to do anything as it is all automated.&lt;br&gt;</source>
+        <translation>Um zu vermeiden, die durch Ringsignaturen gewährte Privatsspähre zu verletzen, sollte eine Transaktion nicht mit verschiedenen Verschleierungspartnern(Ringe) auf mehreren Blockchains ausgegeben werden. Normalerweise ist das kein Problem; erlaubt ein SuperiorCoinklon allerdings die Wiederbenutzung von Transaktionsschlüsselbildern, kann es jedoch eines werden. In diesem Fall musst du sicherstellen, dass die gleichen Verschleierungspartner auf beiden Blockchains verwendet werden.&lt;br&gt; SuperiorCoin tut dies automatisch und jede andere Software auch, die dich nicht aktiv um deine Privatssphäre bringen möchte.&lt;br&gt;Solltest du neben SuperiorCoin noch einen Klon benutzen und sollte dieser nicht sicherstellen, dass deine Privatsphäre geschützt wird, kannst du dies immernoch manuell tun, indem du zuerst eine Transaktion im Klon durchführst und anschließend die beteiligten Partner hier einfügst.&lt;br&gt;Wenn du keine SuperiorCoinklone benutzt, brauchst du nichts zu tun. SuperiorCoin macht das für dich.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="279"/>
-        <source>This records rings used by outputs spent on Superior on a key reusing chain, so that the same ring may be reused to avoid privacy issues.</source>
-        <translation>Hier werden Verschleierungspartner(Ringe) aufgezeichnet, die von Transaktionen verwendet wurden, die bei einem Superior-Klon ausgegeben wurden, sodass derselbe Ring wiederverwendet werden kann, um Privatsphäreprobleme zu vermeiden.</translation>
+        <source>This records rings used by outputs spent on SuperiorCoin on a key reusing chain, so that the same ring may be reused to avoid privacy issues.</source>
+        <translation>Hier werden Verschleierungspartner(Ringe) aufgezeichnet, die von Transaktionen verwendet wurden, die bei einem SuperiorCoinklon ausgegeben wurden, sodass derselbe Ring wiederverwendet werden kann, um Privatsphäreprobleme zu vermeiden.</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="290"/>
@@ -1749,12 +1746,12 @@ auswählst. Du kannst das Passwort dann in den Wallet-Einstellungen ändern.</tr
     <message>
         <location filename="../pages/SharedRingDB.qml" line="376"/>
         <source>I intend to spend on key-reusing fork(s)</source>
-        <translation>Ich habe vor auf einem Superior-Klon Ausgaben zu tätigen, der Transaktionsschlüsselbilder wiederverwendet</translation>
+        <translation>Ich habe vor auf einem SuperiorCoin-Klon Ausgaben zu tätigen, der Transaktionsschlüsselbilder wiederverwendet</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="390"/>
         <source>I might want to spend on key-reusing fork(s)</source>
-        <translation>Ich möchte vielleicht mit einem Superior-Klon, der Transaktionsschlüsselbilder wiederverwendet, Ausgaben tätigen</translation>
+        <translation>Ich möchte vielleicht mit einem SuperiorCoin-Klon, der Transaktionsschlüsselbilder wiederverwendendet, Ausgaben tätigen</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="404"/>
@@ -1893,8 +1890,8 @@ auswählst. Du kannst das Passwort dann in den Wallet-Einstellungen ändern.</tr
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="337"/>
-        <source>Enter the Superior Address (example: 44AFFq5kSiGBoZ...)</source>
-        <translation>Gebe die Superior-Adresse ein (Beispiel: 44AFFq5kSiGBoZ...)</translation>
+        <source>Enter the SuperiorCoin Address (example: 44AFFq5kSiGBoZ...)</source>
+        <translation>Gebe die SuperiorCoin-Adresse ein (Beispiel: 44AFFq5kSiGBoZ...)</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="348"/>
@@ -2037,7 +2034,7 @@ auswählst. Du kannst das Passwort dann in den Wallet-Einstellungen ändern.</tr
     <message>
         <location filename="../pages/Transfer.qml" line="91"/>
         <source></source>
-        <translation> </translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="57"/>
@@ -2072,8 +2069,8 @@ auswählst. Du kannst das Passwort dann in den Wallet-Einstellungen ändern.</tr
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="51"/>
-        <source>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #B79B0F; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Start daemon&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</source>
-        <translation>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #B79B0F; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Starte Hintergrunddienst&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</translation>
+        <source>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FF6C3C; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Start daemon&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</source>
+        <translation>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FF6C3C; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Starte Hintergrunddienst&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="141"/>
@@ -2098,12 +2095,12 @@ auswählst. Du kannst das Passwort dann in den Wallet-Einstellungen ändern.</tr
     <message>
         <location filename="../pages/Transfer.qml" line="282"/>
         <source>Address found, but the DNSSEC signatures could not be verified, so this address may be spoofed</source>
-        <translation>Die Adresse wurde zwar gefunden, doch die DNSSEC-Signaturen konnten nicht verifiziert werden. Möglicherweise wurde diese Adresse manipuliert.</translation>
+        <translation>Die Adresse wurde zwar gefunden, jedoch konnten die DNSSEC-Signaturen nicht verifiziert werden. Möglicherweise wurde diese Adresse manipuliert</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="286"/>
         <source>No valid address found at this OpenAlias address, but the DNSSEC signatures could not be verified, so this may be spoofed</source>
-        <translation>Unter dieser OpenAlias-Adresse konnte weder eine gültige Adresse gefunden noch die DNSSEC-Signaturen verifiziert werden. Möglicherweise wurde diese Adresse manipuliert.</translation>
+        <translation>Unter dieser OpenAlias-Adresse konnte weder eine gültige Adresse gefunden werden, noch konnten die DNSSEC-Signaturen verifiziert werden. Möglicherweise wurde diese Adresse manipuliert</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="290"/>
@@ -2160,7 +2157,7 @@ auswählst. Du kannst das Passwort dann in den Wallet-Einstellungen ändern.</tr
     <message>
         <location filename="../pages/Transfer.qml" line="704"/>
         <source>Waiting on daemon synchronization to finish.</source>
-        <translation>Wartet auf Synchronisierung des Hintergrunddienstes</translation>
+        <translation>Wartet auf Synchronisierung des Hintergrund-Dienstes</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="542"/>
@@ -2265,8 +2262,8 @@ Ringgröße: </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="616"/>
-        <source>Superior sent successfully</source>
-        <translation>Superior erfolgreich gesendet</translation>
+        <source>SuperiorCoin sent successfully</source>
+        <translation>SuperiorCoin erfolgreich gesendet</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="680"/>
@@ -2376,70 +2373,6 @@ Für einen reinen Sendenachweis muss die Empfängeradresse nicht angegeben werde
     </message>
 </context>
 <context>
-    <name>Utils</name>
-    <message>
-        <location filename="../js/Utils.js" line="42"/>
-        <source>Wrong password</source>
-        <translation>Falsches Passwort</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="61"/>
-        <source>second ago</source>
-        <translation>Sekunde her</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="63"/>
-        <source>seconds ago</source>
-        <translation>Sekunden her</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="67"/>
-        <source>minute ago</source>
-        <translation>Minute her</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="69"/>
-        <source>minutes ago</source>
-        <translation>Minuten her</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="73"/>
-        <source>hour ago</source>
-        <translation>Stunde her</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="75"/>
-        <source>hours ago</source>
-        <translation>Stunden her</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="79"/>
-        <location filename="../js/Utils.js" line="83"/>
-        <source>day ago</source>
-        <translation>Tag her</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="85"/>
-        <source>days ago</source>
-        <translation>Tage her</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="94"/>
-        <source>Testnet</source>
-        <translation>Testnet</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="94"/>
-        <source>Stagenet</source>
-        <translation>Stagenet</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="94"/>
-        <source>Mainnet</source>
-        <translation>Mainnet</translation>
-    </message>
-</context>
-<context>
     <name>WizardAskPassword</name>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="41"/>
@@ -2470,7 +2403,7 @@ Für einen reinen Sendenachweis muss die Empfängeradresse nicht angegeben werde
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="85"/>
         <source>This password cannot be recovered. If you forget it then the wallet will have to be restored from its 25 word mnemonic seed.</source>
-        <translation>Dieses Passwort kann nicht wiederhergestellt werden. Wenn du es vergisst, muss die Wallet mit ihrem, aus 25 Wörtern bestehenden, mnemonischen Seed wiederhergestellt werden.</translation>
+        <translation>Dieses Passwort kann nicht wiederhergestellt werden. Wenn du es vergisst, muss die Wallet mit Ihrem, aus 25 Wörtern bestehenden, mnemonischen Seed wiederhergestellt werden.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="89"/>
@@ -2516,23 +2449,23 @@ Für einen reinen Sendenachweis muss die Empfängeradresse nicht angegeben werde
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="90"/>
         <source>Create a new wallet from device.</source>
-        <translation>Neue Wallet von Hardwaregerät erstellen.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="103"/>
         <source>Restore a wallet from device. Use this if you used your hardware wallet before.</source>
-        <translation>Stelle eine Wallet von einem Hardwaregerät wieder her. Nutze diese Option, wenn du deine Hardwarewallet bereits vorher benutzt hast.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="125"/>
         <source>Wallet creation date as `YYYY-MM-DD` or restore height</source>
-        <translation>Erstellungsdatum der Wallet als `JJJJ-MM-TT` oder Wiederherstellungshöhe</translation>
-    <translatorcomment>seems good</translatorcomment></message>
+        <translation type="unfinished">Erstellungsdatum der Wallet als `JJJJ-MM-TT` oder Wiederherstellungshöhe</translation>
+    </message>
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="128"/>
         <source>Restore height</source>
         <translation type="unfinished">Wiederherstellungshöhe</translation>
-    <translatorcomment>seems good</translatorcomment></message>
+    </message>
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="139"/>
         <source>Subaddress lookahead (optional)</source>
@@ -2593,7 +2526,7 @@ Für einen reinen Sendenachweis muss die Empfängeradresse nicht angegeben werde
     <message>
         <location filename="../wizard/WizardCreateWallet2.qml" line="78"/>
         <source>Failed to fetch remote nodes from third-party server.</source>
-        <translation>Drittanbieter-Nodes konnten nicht vom externen Server geladen werden.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2601,12 +2534,12 @@ Für einen reinen Sendenachweis muss die Empfängeradresse nicht angegeben werde
     <message>
         <location filename="../wizard/WizardCreateWallet3.qml" line="57"/>
         <source>Daemon settings</source>
-        <translation>Hintergrunddienst-Einstellungen</translation>
+        <translation>Hintergrund-Dienst-Einstellungen</translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateWallet3.qml" line="58"/>
-        <source>To be able to communicate with the Superior network your wallet needs to be connected to a Superior node. For best privacy it&apos;s recommended to run your own node.</source>
-        <translation>Um mit dem Superior-Netzwerk kommunizieren zu können, muss deine Wallet mit einem Superior-Node verbunden sein. Es wird für einen optimalen Datenschutz empfohlen, einen eigenen Node zu betreiben.</translation>
+        <source>To be able to communicate with the SuperiorCoin network your wallet needs to be connected to a SuperiorCoin node. For best privacy it&apos;s recommended to run your own node.</source>
+        <translation>Um mit dem SuperiorCoin-Netzwerk kommunizieren zu können, muss deine Wallet mit einem SuperiorCoin-Node verbunden sein. Es wird für einen optimalen Datenschutz empfohlen, einen eigenen Node zu betreiben.</translation>
     </message>
 </context>
 <context>
@@ -2656,8 +2589,8 @@ Für einen reinen Sendenachweis muss die Empfängeradresse nicht angegeben werde
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="120"/>
-        <source>Additionally, you may specify a bootstrap node to use Superior immediately.</source>
-        <translation>Zusätzlich kannst du eine Bootstrap-Node einstellen, um Superior sofort zu nutzen.</translation>
+        <source>Additionally, you may specify a bootstrap node to use SuperiorCoin immediately.</source>
+        <translation>Zusätzlich kannst du eine Bootstrap-Node einstellen, um SuperiorCoin sofort zu nutzen.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="183"/>
@@ -2669,8 +2602,8 @@ Für einen reinen Sendenachweis muss die Empfängeradresse nicht angegeben werde
     <name>WizardHome</name>
     <message>
         <location filename="../wizard/WizardHome.qml" line="60"/>
-        <source>Welcome to Superior.</source>
-        <translation>Willkommen bei Superior.</translation>
+        <source>Welcome to SuperiorCoin.</source>
+        <translation>Willkommen bei SuperiorCoin.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="65"/>
@@ -2679,8 +2612,8 @@ Für einen reinen Sendenachweis muss die Empfängeradresse nicht angegeben werde
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="66"/>
-        <source>Choose this option if this is your first time using Superior.</source>
-        <translation>Wähle diese Option, wenn du Superior zum ersten Mal verwendest.</translation>
+        <source>Choose this option if this is your first time using SuperiorCoin.</source>
+        <translation>Wähle diese Option, wenn du SuperiorCoin zum ersten Mal verwendest.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="86"/>
@@ -2689,8 +2622,8 @@ Für einen reinen Sendenachweis muss die Empfängeradresse nicht angegeben werde
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="87"/>
-        <source>Connect your hardware wallet to create a new Superior wallet.</source>
-        <translation>Verbinde deine Hardware-Wallet, um eine neue Superior-Wallet zu erstellen.</translation>
+        <source>Connect your hardware wallet to create a new SuperiorCoin wallet.</source>
+        <translation>Verbinde deine Hardware-Wallet, um eine neue SuperiorCoin-Wallet zu erstellen.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="106"/>
@@ -2738,22 +2671,22 @@ Für einen reinen Sendenachweis muss die Empfängeradresse nicht angegeben werde
     <message>
         <location filename="../wizard/WizardLang.qml" line="64"/>
         <source>Language settings</source>
-        <translation>Spracheinstellungen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardLang.qml" line="93"/>
-        <source>Change the language of the Superior GUI.</source>
-        <translation>Ändere die Sprache der Benutzeroberfläche von Superior.</translation>
+        <source>Change the language of the SuperiorCoin GUI.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardLang.qml" line="188"/>
         <source>Language changed.</source>
-        <translation>Sprache geändert.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardLang.qml" line="210"/>
         <source>Close</source>
-        <translation>Schließen</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2770,8 +2703,8 @@ Für einen reinen Sendenachweis muss die Empfängeradresse nicht angegeben werde
     </message>
     <message>
         <location filename="../wizard/WizardModeBootstrap.qml" line="81"/>
-        <source>Temporary use of remote nodes is useful in order to use Superior immediately (hence the name &lt;i&gt;bootstrap&lt;/i&gt;), however be aware that when using remote nodes (including with the bootstrap setting), nodes could track your IP address, track your &quot;restore height&quot; and associated block request data, and send you inaccurate information to learn more about transactions you make.</source>
-        <translation>Die vorübergehende Verwendung von Drittanbieter-Nodes ist sinnvoll, um Superior sofort verwenden zu können – daher auch der Name &lt;i&gt;Bootstrap&lt;/i&gt;. Beim Verwenden von Drittanbieter-Nodes (auch im Bootstrap-Modus) ist jedoch allgemein zu beachten, dass Drittanbieter-Nodes die IP-Adresse, Wiederherstellungshöhe und damit assoziierte Blockanfragen auslesen können, sowie durch das Bereitstellen verfälschter Informationen mehr über deine Transaktionen heraus finden können.</translation>
+        <source>Temporary use of remote nodes is useful in order to use SuperiorCoin immediately (hence the name &lt;i&gt;bootstrap&lt;/i&gt;), however be aware that when using remote nodes (including with the bootstrap setting), nodes could track your IP address, track your &quot;restore height&quot; and associated block request data, and send you inaccurate information to learn more about transactions you make.</source>
+        <translation>Die vorübergehende Verwendung von Drittanbieter-Nodes ist sinnvoll, um SuperiorCoin sofort verwenden zu können – daher auch der Name &lt;i&gt;Bootstrap&lt;/i&gt;. Beim Verwenden von Drittanbieter-Nodes (auch im Bootstrap-Modus) ist jedoch allgemein zu beachten, dass Drittanbieter-Nodes die IP-Adresse, Wiederherstellungshöhe und damit assoziierte Blockanfragen auslesen können, sowie durch das Bereitstellen verfälschter Informationen mehr über deine Transaktionen heraus finden können.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeBootstrap.qml" line="94"/>
@@ -2798,8 +2731,8 @@ Für einen reinen Sendenachweis muss die Empfängeradresse nicht angegeben werde
     </message>
     <message>
         <location filename="../wizard/WizardModeRemoteNodeWarning.qml" line="70"/>
-        <source>This mode is ideal for managing small amounts of Superior. You have access to basic features for making and managing transactions. It will automatically connect to the Superior network so you can start using Superior immediately.</source>
-        <translation>Dieser Modus ist ideal für die Verwaltung kleiner Mengen von Superior. Du hast Zugriff auf grundlegende Funktionen zur Durchführung und Verwaltung von Transaktionen. Er verbindet sich automatisch mit dem Superior-Netzwerk, sodass du Superior sofort nutzen kannst.</translation>
+        <source>This mode is ideal for managing small amounts of SuperiorCoin. You have access to basic features for making and managing transactions. It will automatically connect to the SuperiorCoin network so you can start using SuperiorCoin immediately.</source>
+        <translation>Dieser Modus ist ideal für die Verwaltung kleiner Mengen von SuperiorCoin. Du hast Zugriff auf grundlegende Funktionen zur Durchführung und Verwaltung von Transaktionen. Er verbindet sich automatisch mit dem SuperiorCoin-Netzwerk, sodass du SuperiorCoin sofort nutzen kannst.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardModeRemoteNodeWarning.qml" line="81"/>
@@ -2904,7 +2837,7 @@ Für einen reinen Sendenachweis muss die Empfängeradresse nicht angegeben werde
     <message>
         <location filename="../wizard/WizardOpenWallet1.qml" line="201"/>
         <source>Failed to fetch remote nodes from third-party server.</source>
-        <translation>Drittanbieter-Nodes konnten nicht vom externen Server geladen werden.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../wizard/WizardOpenWallet1.qml" line="228"/>
@@ -2980,7 +2913,7 @@ Für einen reinen Sendenachweis muss die Empfängeradresse nicht angegeben werde
     <message>
         <location filename="../wizard/WizardRestoreWallet2.qml" line="77"/>
         <source>Failed to fetch remote nodes from third-party server.</source>
-        <translation>Drittanbieter-Nodes konnten nicht vom externen Server geladen werden.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2988,14 +2921,14 @@ Für einen reinen Sendenachweis muss die Empfängeradresse nicht angegeben werde
     <message>
         <location filename="../wizard/WizardRestoreWallet3.qml" line="65"/>
         <source>Daemon settings</source>
-        <translation>Hintergrunddienst-Einstellungen</translation>
+        <translation>Hintergrund-Dienst-Einstellungen</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet3.qml" line="66"/>
-        <source>To be able to communicate with the Superior network your wallet needs to be connected to a Superior node. For best privacy it&apos;s recommended to run your own node.
+        <source>To be able to communicate with the SuperiorCoin network your wallet needs to be connected to a SuperiorCoin node. For best privacy it&apos;s recommended to run your own node.
 
 If you don&apos;t have the option to run your own node, there&apos;s an option to connect to a remote node.</source>
-        <translation>Um mit dem Superior-Netzwerk kommunizieren zu können, muss deine Wallet mit einem Superior-Node verbunden sein. Es wird für einen optimalen Datenschutz empfohlen, einen eigenen Node zu betreiben.
+        <translation>Um mit dem SuperiorCoin-Netzwerk kommunizieren zu können, muss deine Wallet mit einem SuperiorCoin-Node verbunden sein. Es wird für einen optimalen Datenschutz empfohlen, einen eigenen Node zu betreiben.
 
 Wenn du keinen eigenen Node betreiben kannst, gibt es die Möglichkeit, sich mit einem Drittanbieter-Node zu verbinden.</translation>
     </message>
@@ -3141,7 +3074,7 @@ Wenn du keinen eigenen Node betreiben kannst, gibt es die Möglichkeit, sich mit
     <message>
         <location filename="../main.qml" line="910"/>
         <source>This address received %1 superior, but the transaction is not yet mined</source>
-        <translation>Diese Adresse hat %1 Superior empfangen, aber die Transaktion wurde noch nicht bestätigt</translation>
+        <translation>Diese Adresse hat %1 SuperiorCoin empfangen, aber die Transaktion wurde noch nicht bestätigt</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1858"/>
@@ -3316,8 +3249,8 @@ Indizes der beteiligten Adressen: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="840"/>
-        <source>Superior sent successfully: %1 transaction(s) </source>
-        <translation>Superior erfolgreich gesendet: %1 Transaktion(en)</translation>
+        <source>SuperiorCoin sent successfully: %1 transaction(s) </source>
+        <translation>SuperiorCoin erfolgreich gesendet: %1 Transaktion(en)</translation>
     </message>
     <message>
         <location filename="../main.qml" line="870"/>
@@ -3346,7 +3279,7 @@ Indizes der beteiligten Adressen: </translation>
     <message>
         <location filename="../main.qml" line="913"/>
         <source>This address received %1 superior, with %2 confirmation(s).</source>
-        <translation>Diese Adresse hat %1 Superior erhalten, mit %2 Bestätigung(en).</translation>
+        <translation>Diese Adresse hat %1 SuperiorCoin erhalten, mit %2 Bestätigung(en).</translation>
     </message>
     <message>
         <location filename="../main.qml" line="924"/>
@@ -3423,8 +3356,8 @@ Indizes der beteiligten Adressen: </translation>
     <message>
         <location filename="../main.qml" line="1328"/>
         <location filename="../main.qml" line="1343"/>
-        <source>Superior</source>
-        <translation>Superior</translation>
+        <source>SuperiorCoin</source>
+        <translation>SuperiorCoin</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1503"/>
@@ -3434,7 +3367,7 @@ Indizes der beteiligten Adressen: </translation>
     <message>
         <location filename="../main.qml" line="1803"/>
         <source>Failed to fetch remote nodes from third-party server.</source>
-        <translation>Drittanbieter-Nodes konnten nicht vom externen Server geladen werden.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.qml" line="2002"/>

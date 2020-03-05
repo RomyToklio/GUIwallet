@@ -22,7 +22,7 @@
         <location filename="../pages/Account.qml" line="112"/>
         <location filename="../pages/Account.qml" line="145"/>
         <source>Copied to clipboard</source>
-        <translation>Copi&apos;d to ye scroll</translation>
+        <translation type="unfinished">Copi&apos;d to ye scroll</translation>
     </message>
     <message>
         <location filename="../pages/Account.qml" line="121"/>
@@ -57,7 +57,7 @@
     <message>
         <location filename="../pages/Account.qml" line="323"/>
         <source>(Untitled)</source>
-        <translation>(Untitl&apos;d)</translation>
+        <translation type="unfinished">(Untitl&apos;d)</translation>
     </message>
 </context>
 <context>
@@ -75,33 +75,33 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="93"/>
         <source>Resolve</source>
-        <translation>Resolv&apos;</translation>
+        <translation type="unfinished">Resolv&apos;</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="109"/>
         <source>No valid address found at this OpenAlias address</source>
-        <translation>Thar be no valid addr&apos;ss be found at t&apos;is OpenAlias addr&apos;ss ye bilge rat</translation>
+        <translation type="unfinished">Thar be no valid addr&apos;ss be found at t&apos;is OpenAlias addr&apos;ss ye bilge rat</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="114"/>
         <source>Address found, but the DNSSEC signatures could not be verified, so this address may be spoofed</source>
-        <translation>Thee Addr&apos;ss be found, but thee DNSSEC signat&apos;res nay can be verifi&apos;d, so thee addr&apos;ss may be spoof&apos;d o&apos; sunken</translation>
+        <translation type="unfinished">Thee Addr&apos;ss be found, but thee DNSSEC signat&apos;res nay can be verifi&apos;d, so thee addr&apos;ss may be spoof&apos;d o&apos; sunken</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="118"/>
         <source>No valid address found at this OpenAlias address, but the DNSSEC signatures could not be verified, so this may be spoofed</source>
-        <translation>Thar be No valid addr&apos;ss be found at t&apos;is OpenAlias addr&apos;ss, but thee DNSSEC signat&apos;res nay be verifi&apos;d, so thee addr&apos;ss may be spoof&apos;d o&apos; sunken</translation>
+        <translation type="unfinished">Thar be No valid addr&apos;ss be found at t&apos;is OpenAlias addr&apos;ss, but thee DNSSEC signat&apos;res nay be verifi&apos;d, so thee addr&apos;ss may be spoof&apos;d o&apos; sunken</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="122"/>
         <location filename="../pages/AddressBook.qml" line="126"/>
         <source>Internal error</source>
-        <translation>Blund&apos;r below thee decks!</translation>
+        <translation type="unfinished">Blund&apos;r below thee decks!</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="130"/>
         <source>No address found</source>
-        <translation>Thar be No addr&apos;ss found</translation>
+        <translation type="unfinished">Thar be No addr&apos;ss found</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="140"/>
@@ -141,7 +141,7 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="264"/>
         <source>OpenAlias error</source>
-        <translation>OpenAlias blund&apos;r!</translation>
+        <translation type="unfinished">OpenAlias blund&apos;r!</translation>
     </message>
 </context>
 <context>
@@ -321,7 +321,7 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="194"/>
         <source>Copied to clipboard</source>
-        <translation>Copi&apos;d to ye scroll</translation>
+        <translation type="unfinished">Copi&apos;d to ye scroll</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="239"/>
@@ -482,12 +482,12 @@
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="62"/>
-        <source>WARNING: Do not reuse your Superior keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
+        <source>WARNING: Do not reuse your SuperiorCoin keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
         <translation>G&apos;YARRGGHHHHH: Ye best not be reusin&apos; yer XM-ARGHHH keys on anoth&apos;r fork, UNLESS thee fork has key reuse mit&apos;gations built in upon thee! Doin&apos; so will be harmin&apos; ye privacy!</translation>
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="85"/>
-        <source>WARNING: Copying your seed to clipboard can expose you to malicious software, which may record your seed and steal your Superior. Please write down your seed manually.</source>
+        <source>WARNING: Copying your seed to clipboard can expose you to malicious software, which may record your seed and steal your SuperiorCoin. Please write down your seed manually.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -604,7 +604,7 @@
         <location filename="../LeftPanel.qml" line="226"/>
         <location filename="../LeftPanel.qml" line="264"/>
         <source>Copied to clipboard</source>
-        <translation>Copi&apos;d to ye scroll</translation>
+        <translation type="unfinished">Copi&apos;d to ye scroll</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="342"/>
@@ -769,7 +769,7 @@
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="242"/>
         <source>Save As</source>
-        <translation>Save As</translation>
+        <translation type="unfinished">Save As!</translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="300"/>
@@ -784,13 +784,13 @@
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="420"/>
         <source>Copied to clipboard</source>
-        <translation>Copi&apos;d to ye scroll</translation>
+        <translation type="unfinished">Copi&apos;d to ye scroll</translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="453"/>
         <location filename="../pages/merchant/Merchant.qml" line="504"/>
         <source>Amount to receive</source>
-        <translation>Thee Amount o&apos; XM-ARGHHH to be receivin&apos;</translation>
+        <translation type="unfinished">Thee Amount o&apos; XM-ARGHHH to be receivin&apos;</translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="531"/>
@@ -810,17 +810,17 @@
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="586"/>
         <source>WARNING: no connection to daemon</source>
-        <translation>WARNING: thar be no be arghhh conn&apos;ction to thee daemon</translation>
+        <translation type="unfinished">WARNING: thar be no be arghhh conn&apos;ction to thee daemon</translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="690"/>
         <source>Save QrCode</source>
-        <translation>Save ye QrCode!</translation>
+        <translation type="unfinished">Save ye QrCode!</translation>
     </message>
     <message>
         <location filename="../pages/merchant/Merchant.qml" line="691"/>
         <source>Failed to save QrCode to </source>
-        <translation>Ye Fail&apos;d to be savin&apos; QrCode to </translation>
+        <translation type="unfinished">Ye Fail&apos;d to be savin&apos; QrCode to </translation>
     </message>
 </context>
 <context>
@@ -844,12 +844,12 @@
         <location filename="../pages/merchant/MerchantTrackingList.qml" line="167"/>
         <location filename="../pages/merchant/MerchantTrackingList.qml" line="169"/>
         <source>confirmations</source>
-        <translation>confirm&apos;tions!</translation>
+        <translation type="unfinished">confirm&apos;tions!</translation>
     </message>
     <message>
         <location filename="../pages/merchant/MerchantTrackingList.qml" line="172"/>
         <source>confirmation</source>
-        <translation>confirm&apos;tion!</translation>
+        <translation type="unfinished">confirm&apos;tion!</translation>
     </message>
 </context>
 <context>
@@ -879,8 +879,8 @@
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="72"/>
-        <source>Mining with your computer helps strengthen the Superior network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Superior. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
-        <translation>Minin&apos; wit&apos; yer comput&apos;r be helpin&apos; put wind in thee Superior sails. Thee more that ye buckos be minin&apos;, thee hard&apos;r it be fer thee ship to be sunk&apos;n, an&apos; every little rapscalli&apos;n helps.&lt;br&gt; &lt;br&gt;Minin&apos; also be givin&apos; ye a small chance to happ&apos;n upon some o&apos; thee treasur&apos;d XM-ARGHHH. Yer comput&apos;r will be creatin&apos; hash&apos;s lookin&apos; fer thee block solut&apos;ons. If ye dig up a block, ye shall be receivin&apos; thee treasure. Good fortun&apos; &apos;n good luck ye scurvy swine!</translation>
+        <source>Mining with your computer helps strengthen the SuperiorCoin network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some SuperiorCoin. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
+        <translation>Minin&apos; wit&apos; yer comput&apos;r be helpin&apos; put wind in thee SuperiorCoin sails. Thee more that ye buckos be minin&apos;, thee hard&apos;r it be fer thee ship to be sunk&apos;n, an&apos; every little rapscalli&apos;n helps.&lt;br&gt; &lt;br&gt;Minin&apos; also be givin&apos; ye a small chance to happ&apos;n upon some o&apos; thee treasur&apos;d XM-ARGHHH. Yer comput&apos;r will be creatin&apos; hash&apos;s lookin&apos; fer thee block solut&apos;ons. If ye dig up a block, ye shall be receivin&apos; thee treasure. Good fortun&apos; &apos;n good luck ye scurvy swine!</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="93"/>
@@ -1035,7 +1035,7 @@
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="46"/>
         <source>Mining</source>
-        <translation>Diggin&apos; up ye booty!</translation>
+        <translation type="unfinished">Diggin&apos; up ye booty!</translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="49"/>
@@ -1168,7 +1168,7 @@
     <message>
         <location filename="../pages/Receive.qml" line="287"/>
         <source>Copied to clipboard</source>
-        <translation>Copi&apos;d to ye scroll</translation>
+        <translation type="unfinished">Copi&apos;d to ye scroll</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="300"/>
@@ -1239,7 +1239,7 @@
     </message>
     <message>
         <location filename="../pages/settings/SettingsInfo.qml" line="97"/>
-        <source>Embedded Superior version: </source>
+        <source>Embedded SuperiorCoin version: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1395,12 +1395,12 @@ The old wallet cache file will be renamed and can be restored later.
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="233"/>
-        <source>Uses a third-party server to connect to the Superior network. Less secure, but easier on your computer.</source>
+        <source>Uses a third-party server to connect to the SuperiorCoin network. Less secure, but easier on your computer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsNode.qml" line="279"/>
-        <source>To find a remote node, type &apos;Superior remote node&apos; into your favorite search engine. Please ensure the node is run by a trusted third-party.</source>
+        <source>To find a remote node, type &apos;SuperiorCoin remote node&apos; into your favorite search engine. Please ensure the node is run by a trusted third-party.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1515,7 +1515,7 @@ The old wallet cache file will be renamed and can be restored later.
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="183"/>
         <source>Success</source>
-        <translation>Victory!</translation>
+        <translation type="unfinished">Victory!</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="184"/>
@@ -1594,7 +1594,7 @@ You can change the password in the wallet settings.</source>
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="406"/>
         <source>Wrong password</source>
-        <translation>Wrong passw&apos;rd ye mindless kidney-wipe!</translation>
+        <translation type="unfinished">Wrong passw&apos;rd ye mindless kidney-wipe!</translation>
     </message>
 </context>
 <context>
@@ -1606,8 +1606,8 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="104"/>
-        <source>This page allows you to interact with the shared ring database. This database is meant for use by Superior wallets as well as wallets from Superior clones which reuse the Superior keys.</source>
-        <translation>T&apos;is page be allowin&apos; ye to inter&apos;ct wit&apos; thee shar&apos;d ring datab&apos;se. T&apos;is datab&apos;se be meant fer use by ye XM-ARGHHH wall&apos;ts as well as wall&apos;ts from Superior clones which be reusin&apos; thee Superior keys.</translation>
+        <source>This page allows you to interact with the shared ring database. This database is meant for use by SuperiorCoin wallets as well as wallets from SuperiorCoin clones which reuse the SuperiorCoin keys.</source>
+        <translation>T&apos;is page be allowin&apos; ye to inter&apos;ct wit&apos; thee shar&apos;d ring datab&apos;se. T&apos;is datab&apos;se be meant fer use by ye XM-ARGHHH wall&apos;ts as well as wall&apos;ts from SuperiorCoin clones which be reusin&apos; thee SuperiorCoin keys.</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="117"/>
@@ -1623,8 +1623,8 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="120"/>
-        <source>In order to obscure which inputs in a Superior transaction are being spent, a third party should not be able to tell which inputs in a ring are already known to be spent. Being able to do so would weaken the protection afforded by ring signatures. If all but one of the inputs are known to be already spent, then the input being actually spent becomes apparent, thereby nullifying the effect of ring signatures, one of the three main layers of privacy protection Superior uses.&lt;br&gt;To help transactions avoid those inputs, a list of known spent ones can be used to avoid using them in new transactions. Such a list is maintained by the Superior project and is available on the getsuperior.org website, and you can import this list here.&lt;br&gt;Alternatively, you can scan the blockchain (and the blockchain of key-reusing Superior clones) yourself using the superior-blockchain-mark-spent-outputs tool to create a list of known spent outputs.&lt;br&gt;</source>
-        <translation>In ord&apos;r to be obscurin&apos; which inputs in a XM-ARGHHH transact&apos;on are bein&apos; spent, a third party shant be abl&apos; to dig&apos;st which inputs in thee ring argh already be known to be spent. Bein&apos; abl&apos; to do so would be weakenin&apos; thee protect&apos;on afford&apos;d by ring signat&apos;res. If all but one o&apos; thee inputs are known to be already spent, then thee input bein&apos; actually spent becomes appar&apos;nt, thereby nullifyin&apos; thee effect o&apos; thee ring signat&apos;res, one o&apos; thee three main lay&apos;rs o&apos; privacy protecti&apos;n XM-ARGHHH uses.&lt;br&gt;To help ye transactions to be avoidin&apos; those inputs, a list o&apos; known spent ones can be us&apos;d to avoid usin&apos; them in new transact&apos;ons. Such a list be maintain&apos;d by thee Superior project and be availabl&apos; on thee getsuperior.org website, and ye can be importin&apos; t&apos;is list &apos;ere.&lt;br&gt;Alternativ&apos;ly, ye can be scannin&apos; thee blockchain (and thee blockchain o&apos; the key-reusin&apos; Superior clones) yaself usin&apos; thee superior-blockchain-mark-spent-outputs tool an be creatin&apos; a list o&apos; known spent outputs.&lt;br&gt;</translation>
+        <source>In order to obscure which inputs in a SuperiorCoin transaction are being spent, a third party should not be able to tell which inputs in a ring are already known to be spent. Being able to do so would weaken the protection afforded by ring signatures. If all but one of the inputs are known to be already spent, then the input being actually spent becomes apparent, thereby nullifying the effect of ring signatures, one of the three main layers of privacy protection SuperiorCoin uses.&lt;br&gt;To help transactions avoid those inputs, a list of known spent ones can be used to avoid using them in new transactions. Such a list is maintained by the SuperiorCoin project and is available on the superior-coin.com website, and you can import this list here.&lt;br&gt;Alternatively, you can scan the blockchain (and the blockchain of key-reusing SuperiorCoin clones) yourself using the superior-blockchain-mark-spent-outputs tool to create a list of known spent outputs.&lt;br&gt;</source>
+        <translation>In ord&apos;r to be obscurin&apos; which inputs in a XM-ARGHHH transact&apos;on are bein&apos; spent, a third party shant be abl&apos; to dig&apos;st which inputs in thee ring argh already be known to be spent. Bein&apos; abl&apos; to do so would be weakenin&apos; thee protect&apos;on afford&apos;d by ring signat&apos;res. If all but one o&apos; thee inputs are known to be already spent, then thee input bein&apos; actually spent becomes appar&apos;nt, thereby nullifyin&apos; thee effect o&apos; thee ring signat&apos;res, one o&apos; thee three main lay&apos;rs o&apos; privacy protecti&apos;n XM-ARGHHH uses.&lt;br&gt;To help ye transactions to be avoidin&apos; those inputs, a list o&apos; known spent ones can be us&apos;d to avoid usin&apos; them in new transact&apos;ons. Such a list be maintain&apos;d by thee SuperiorCoin project and be availabl&apos; on thee superior-coin.com website, and ye can be importin&apos; t&apos;is list &apos;ere.&lt;br&gt;Alternativ&apos;ly, ye can be scannin&apos; thee blockchain (and thee blockchain o&apos; the key-reusin&apos; SuperiorCoin clones) yaself usin&apos; thee superior-blockchain-mark-spent-outputs tool an be creatin&apos; a list o&apos; known spent outputs.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="141"/>
@@ -1694,12 +1694,12 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="257"/>
-        <source>In order to avoid nullifying the protection afforded by Superior&apos;s ring signatures, an output should not be spent with different rings on different blockchains. While this is normally not a concern, it can become one when a key-reusing Superior clone allows you to spend existing outputs. In this case, you need to ensure this existing outputs uses the same ring on both chains.&lt;br&gt;This will be done automatically by Superior and any key-reusing software which is not trying to actively strip you of your privacy.&lt;br&gt;If you are using a key-reusing Superior clone too, and this clone does not include this protection, you can still ensure your transactions are protected by spending on the clone first, then manually adding the ring on this page, which allows you to then spend your Superior safely.&lt;br&gt;If you do not use a key-reusing Superior clone without these safety features, then you do not need to do anything as it is all automated.&lt;br&gt;</source>
-        <translation>In ord&apos;r to be avoidin&apos; nullifyin&apos; thee protection afford&apos;d by XM-ARGHHH&apos;s ring sign&apos;tures, an output shan&apos;t be spent with diff&apos;rent rings on diff&apos;rent blockchains. While t&apos;is may norm&apos;lly not be argh concern, it can become one when thar be a key-reusin&apos; Superior clone allowin&apos; you to spend existing outputs. In t&apos;is case, ye need to ensur&apos; t&apos;is existin&apos; outputs be usin&apos; thee same ring on both chains.&lt;br&gt;T&apos;is shal&apos; be done automatica&apos;ly by Superior an&apos; any key-reusin&apos; software which not be tryin&apos; to activ&apos;ly strip ye of ye treasur&apos;d privacy.&lt;br&gt;If ye are usin&apos; a key-reusin&apos; Superior clone too, an&apos; t&apos;is clone does not be includ&apos; t&apos;is protection, ye can stil&apos; ensur&apos; ye transactions be protect&apos;d by spendin&apos; on thee clone first, then be manually addin&apos; thee ring on t&apos;is page, which be allowin&apos; ye to then be spendin&apos; y&apos; XM-ARGHHH safely.&lt;br&gt;If ye do not be usin&apos; a key-reusin&apos; Superior clone without these safety featur&apos;s, then ye do not be needin&apos; to do anythin&apos; as it is all automat&apos;d.&lt;br&gt;</translation>
+        <source>In order to avoid nullifying the protection afforded by SuperiorCoin&apos;s ring signatures, an output should not be spent with different rings on different blockchains. While this is normally not a concern, it can become one when a key-reusing SuperiorCoin clone allows you to spend existing outputs. In this case, you need to ensure this existing outputs uses the same ring on both chains.&lt;br&gt;This will be done automatically by SuperiorCoin and any key-reusing software which is not trying to actively strip you of your privacy.&lt;br&gt;If you are using a key-reusing SuperiorCoin clone too, and this clone does not include this protection, you can still ensure your transactions are protected by spending on the clone first, then manually adding the ring on this page, which allows you to then spend your SuperiorCoin safely.&lt;br&gt;If you do not use a key-reusing SuperiorCoin clone without these safety features, then you do not need to do anything as it is all automated.&lt;br&gt;</source>
+        <translation>In ord&apos;r to be avoidin&apos; nullifyin&apos; thee protection afford&apos;d by XM-ARGHHH&apos;s ring sign&apos;tures, an output shan&apos;t be spent with diff&apos;rent rings on diff&apos;rent blockchains. While t&apos;is may norm&apos;lly not be argh concern, it can become one when thar be a key-reusin&apos; SuperiorCoin clone allowin&apos; you to spend existing outputs. In t&apos;is case, ye need to ensur&apos; t&apos;is existin&apos; outputs be usin&apos; thee same ring on both chains.&lt;br&gt;T&apos;is shal&apos; be done automatica&apos;ly by SuperiorCoin an&apos; any key-reusin&apos; software which not be tryin&apos; to activ&apos;ly strip ye of ye treasur&apos;d privacy.&lt;br&gt;If ye are usin&apos; a key-reusin&apos; SuperiorCoin clone too, an&apos; t&apos;is clone does not be includ&apos; t&apos;is protection, ye can stil&apos; ensur&apos; ye transactions be protect&apos;d by spendin&apos; on thee clone first, then be manually addin&apos; thee ring on t&apos;is page, which be allowin&apos; ye to then be spendin&apos; y&apos; XM-ARGHHH safely.&lt;br&gt;If ye do not be usin&apos; a key-reusin&apos; SuperiorCoin clone without these safety featur&apos;s, then ye do not be needin&apos; to do anythin&apos; as it is all automat&apos;d.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="279"/>
-        <source>This records rings used by outputs spent on Superior on a key reusing chain, so that the same ring may be reused to avoid privacy issues.</source>
+        <source>This records rings used by outputs spent on SuperiorCoin on a key reusing chain, so that the same ring may be reused to avoid privacy issues.</source>
         <translation>T&apos;is records rings us&apos;d by thee outputs sp&apos;nt on XM-ARGHHH on a key reusin&apos; chain, so thee same ring may be reus&apos;d to avoid privacy issu&apos;s.</translation>
     </message>
     <message>
@@ -1783,7 +1783,7 @@ You can change the password in the wallet settings.</source>
     <message>
         <location filename="../pages/Sign.qml" line="101"/>
         <source>Sign/verify</source>
-        <translation>Sign/ver&apos;fy!</translation>
+        <translation type="unfinished">Sign/ver&apos;fy!</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="145"/>
@@ -1884,7 +1884,7 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="337"/>
-        <source>Enter the Superior Address (example: 44AFFq5kSiGBoZ...)</source>
+        <source>Enter the SuperiorCoin Address (example: 44AFFq5kSiGBoZ...)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2127,7 +2127,7 @@ You can change the password in the wallet settings.</source>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="51"/>
-        <source>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #B79B0F; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Start daemon&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</source>
+        <source>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FF6C3C; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Start daemon&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2224,7 +2224,7 @@ Ringsize: </source>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="616"/>
-        <source>Superior sent successfully</source>
+        <source>SuperiorCoin sent successfully</source>
         <translation>XM-ARGHHH be sent succ&apos;ssf&apos;lly</translation>
     </message>
     <message>
@@ -2269,8 +2269,7 @@ Upgrad&apos; or conn&apos;ct to anoth&apos;r daemon ye lazy seadog</translation>
         <source>Fastest (x41.5 fee)</source>
         <translation>Breakneck! (x41.5 fee)</translation>
     </message>
-<message><source></source><translation></translation>
-    <location filename="../pages/Transfer.qml" line="91"/></message></context>
+</context>
 <context>
     <name>TxKey</name>
     <message>
@@ -2360,70 +2359,6 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     </message>
 </context>
 <context>
-    <name>Utils</name>
-    <message>
-        <location filename="../js/Utils.js" line="42"/>
-        <source>Wrong password</source>
-        <translation>Wrong passw&apos;rd ye mindless kidney-wipe!</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="61"/>
-        <source>second ago</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="63"/>
-        <source>seconds ago</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="67"/>
-        <source>minute ago</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="69"/>
-        <source>minutes ago</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="73"/>
-        <source>hour ago</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="75"/>
-        <source>hours ago</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="79"/>
-        <location filename="../js/Utils.js" line="83"/>
-        <source>day ago</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="85"/>
-        <source>days ago</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="94"/>
-        <source>Testnet</source>
-        <translation>Testnet!</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="94"/>
-        <source>Stagenet</source>
-        <translation>Stag&apos;net</translation>
-    </message>
-    <message>
-        <location filename="../js/Utils.js" line="94"/>
-        <source>Mainnet</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
     <name>WizardAskPassword</name>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="41"/>
@@ -2434,22 +2369,22 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
         <location filename="../wizard/WizardAskPassword.qml" line="52"/>
         <location filename="../wizard/WizardAskPassword.qml" line="71"/>
         <source>Low</source>
-        <translation>Weak as piss!</translation>
+        <translation type="unfinished">Weak as piss!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="73"/>
         <source>Medium</source>
-        <translation>Run-o-thee-mill!</translation>
+        <translation type="unfinished">Run-o-thee-mill!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="75"/>
         <source>High</source>
-        <translation>Highly Admirabl&apos;!</translation>
+        <translation type="unfinished">Highly Admirabl&apos;!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="84"/>
         <source>Give your wallet a password</source>
-        <translation>Giv&apos; yer wall&apos;t a password ye hasty-witt&apos;d barnacle!</translation>
+        <translation type="unfinished">Giv&apos; yer wall&apos;t a password ye hasty-witt&apos;d barnacle!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="85"/>
@@ -2464,7 +2399,7 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="155"/>
         <source>Password</source>
-        <translation>Password!</translation>
+        <translation type="unfinished">Password!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardAskPassword.qml" line="210"/>
@@ -2477,7 +2412,7 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     <message>
         <location filename="../wizard/WizardController.qml" line="260"/>
         <source>Please choose a file</source>
-        <translation>Sel&apos;ct a file ye filthy swine</translation>
+        <translation type="unfinished">Sel&apos;ct a file ye filthy swine</translation>
     </message>
 </context>
 <context>
@@ -2536,7 +2471,7 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     <message>
         <location filename="../wizard/WizardCreateDevice1.qml" line="191"/>
         <source>Create wallet</source>
-        <translation>Create ye wall&apos;t!</translation>
+        <translation type="unfinished">Create ye wall&apos;t!</translation>
     </message>
 </context>
 <context>
@@ -2554,7 +2489,7 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     <message>
         <location filename="../wizard/WizardCreateWallet1.qml" line="89"/>
         <source>Mnemonic seed</source>
-        <translation>Ye Mnemonic seed!</translation>
+        <translation type="unfinished">Ye Mnemonic seed!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateWallet1.qml" line="94"/>
@@ -2564,7 +2499,7 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     <message>
         <location filename="../wizard/WizardCreateWallet1.qml" line="127"/>
         <source>This seed is &lt;b&gt;very&lt;/b&gt; important to write down and keep secret. It is all you need to backup and restore your wallet.</source>
-        <translation>T&apos;is seed be &lt;b&gt;very&lt;/b&gt; important to scribe down an&apos; be keepin&apos; secret from evil pilllag&apos;rs! Do t&apos;is befor&apos; settin&apos; sail! It be all ye need to backup and restore yer wall&apos;t.</translation>
+        <translation type="unfinished">T&apos;is seed be &lt;b&gt;very&lt;/b&gt; important to scribe down an&apos; be keepin&apos; secret from evil pilllag&apos;rs! Do t&apos;is befor&apos; settin&apos; sail! It be all ye need to backup and restore yer wall&apos;t.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateWallet1.qml" line="135"/>
@@ -2589,7 +2524,7 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     </message>
     <message>
         <location filename="../wizard/WizardCreateWallet3.qml" line="58"/>
-        <source>To be able to communicate with the Superior network your wallet needs to be connected to a Superior node. For best privacy it&apos;s recommended to run your own node.</source>
+        <source>To be able to communicate with the SuperiorCoin network your wallet needs to be connected to a SuperiorCoin node. For best privacy it&apos;s recommended to run your own node.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2603,7 +2538,7 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     <message>
         <location filename="../wizard/WizardCreateWallet4.qml" line="59"/>
         <source>New wallet details:</source>
-        <translation>New wall&apos;t details:</translation>
+        <translation type="unfinished">New wall&apos;t details:</translation>
     </message>
     <message>
         <location filename="../wizard/WizardCreateWallet4.qml" line="66"/>
@@ -2626,7 +2561,7 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="76"/>
         <source>Default</source>
-        <translation>Run-o-thee-mill!</translation>
+        <translation type="unfinished">Run-o-thee-mill!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="80"/>
@@ -2640,7 +2575,7 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     </message>
     <message>
         <location filename="../wizard/WizardDaemonSettings.qml" line="120"/>
-        <source>Additionally, you may specify a bootstrap node to use Superior immediately.</source>
+        <source>Additionally, you may specify a bootstrap node to use SuperiorCoin immediately.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2653,7 +2588,7 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     <name>WizardHome</name>
     <message>
         <location filename="../wizard/WizardHome.qml" line="60"/>
-        <source>Welcome to Superior.</source>
+        <source>Welcome to SuperiorCoin.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2663,7 +2598,7 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="66"/>
-        <source>Choose this option if this is your first time using Superior.</source>
+        <source>Choose this option if this is your first time using SuperiorCoin.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2673,7 +2608,7 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="87"/>
-        <source>Connect your hardware wallet to create a new Superior wallet.</source>
+        <source>Connect your hardware wallet to create a new SuperiorCoin wallet.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2689,7 +2624,7 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     <message>
         <location filename="../wizard/WizardHome.qml" line="125"/>
         <source>Restore wallet from keys or mnemonic seed</source>
-        <translation>Restor&apos; ye wall&apos;t from ye keys o&apos; ye mnemonic seed!</translation>
+        <translation type="unfinished">Restor&apos; ye wall&apos;t from ye keys o&apos; ye mnemonic seed!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="126"/>
@@ -2709,7 +2644,7 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     <message>
         <location filename="../wizard/WizardHome.qml" line="166"/>
         <source>Advanced options</source>
-        <translation>Capt&apos;ns options</translation>
+        <translation type="unfinished">Capt&apos;ns options</translation>
     </message>
     <message>
         <location filename="../wizard/WizardHome.qml" line="209"/>
@@ -2726,7 +2661,7 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     </message>
     <message>
         <location filename="../wizard/WizardLang.qml" line="93"/>
-        <source>Change the language of the Superior GUI.</source>
+        <source>Change the language of the SuperiorCoin GUI.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2754,7 +2689,7 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     </message>
     <message>
         <location filename="../wizard/WizardModeBootstrap.qml" line="81"/>
-        <source>Temporary use of remote nodes is useful in order to use Superior immediately (hence the name &lt;i&gt;bootstrap&lt;/i&gt;), however be aware that when using remote nodes (including with the bootstrap setting), nodes could track your IP address, track your &quot;restore height&quot; and associated block request data, and send you inaccurate information to learn more about transactions you make.</source>
+        <source>Temporary use of remote nodes is useful in order to use SuperiorCoin immediately (hence the name &lt;i&gt;bootstrap&lt;/i&gt;), however be aware that when using remote nodes (including with the bootstrap setting), nodes could track your IP address, track your &quot;restore height&quot; and associated block request data, and send you inaccurate information to learn more about transactions you make.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2782,7 +2717,7 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     </message>
     <message>
         <location filename="../wizard/WizardModeRemoteNodeWarning.qml" line="70"/>
-        <source>This mode is ideal for managing small amounts of Superior. You have access to basic features for making and managing transactions. It will automatically connect to the Superior network so you can start using Superior immediately.</source>
+        <source>This mode is ideal for managing small amounts of SuperiorCoin. You have access to basic features for making and managing transactions. It will automatically connect to the SuperiorCoin network so you can start using SuperiorCoin immediately.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2901,7 +2836,7 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="101"/>
         <source>Restore wallet</source>
-        <translation>Restore ye wallet!</translation>
+        <translation type="unfinished">Restore ye wallet!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="102"/>
@@ -2911,12 +2846,12 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="113"/>
         <source>Restore from seed</source>
-        <translation>Restor&apos; from ye seed!</translation>
+        <translation type="unfinished">Restor&apos; from ye seed!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="123"/>
         <source>Restore from keys</source>
-        <translation>Restor&apos; from ye keys!</translation>
+        <translation type="unfinished">Restor&apos; from ye keys!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="133"/>
@@ -2926,22 +2861,22 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="196"/>
         <source>Enter your 25 (or 24) word mnemonic seed</source>
-        <translation>Ent&apos;r yer 25 (or 24) word mnemonic seed!</translation>
+        <translation type="unfinished">Ent&apos;r yer 25 (or 24) word mnemonic seed!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="209"/>
         <source>Account address (public)</source>
-        <translation>Ye Account addr&apos;ss (public)</translation>
+        <translation type="unfinished">Ye Account addr&apos;ss (public)</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="221"/>
         <source>View key (private)</source>
-        <translation>Ye View key (privat&apos;)</translation>
+        <translation type="unfinished">Ye View key (privat&apos;)</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="233"/>
         <source>Spend key (private)</source>
-        <translation>Ye Spend key (privat&apos;)</translation>
+        <translation type="unfinished">Ye Spend key (privat&apos;)</translation>
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet1.qml" line="244"/>
@@ -2976,7 +2911,7 @@ Fer the case wit&apos; Spend Proof, you don&apos;t be needin&apos; to specify th
     </message>
     <message>
         <location filename="../wizard/WizardRestoreWallet3.qml" line="66"/>
-        <source>To be able to communicate with the Superior network your wallet needs to be connected to a Superior node. For best privacy it&apos;s recommended to run your own node.
+        <source>To be able to communicate with the SuperiorCoin network your wallet needs to be connected to a SuperiorCoin node. For best privacy it&apos;s recommended to run your own node.
 
 If you don&apos;t have the option to run your own node, there&apos;s an option to connect to a remote node.</source>
         <translation type="unfinished"></translation>
@@ -2992,7 +2927,7 @@ If you don&apos;t have the option to run your own node, there&apos;s an option t
     <message>
         <location filename="../wizard/WizardRestoreWallet4.qml" line="59"/>
         <source>New wallet details:</source>
-        <translation>New wall&apos;t details:</translation>
+        <translation type="unfinished">New wall&apos;t details:</translation>
     </message>
 </context>
 <context>
@@ -3006,7 +2941,7 @@ If you don&apos;t have the option to run your own node, there&apos;s an option t
     <message>
         <location filename="../wizard/WizardSummary.qml" line="50"/>
         <source>Wallet path</source>
-        <translation>Wall&apos;t path</translation>
+        <translation type="unfinished">Wall&apos;t path</translation>
     </message>
     <message>
         <location filename="../wizard/WizardSummary.qml" line="56"/>
@@ -3054,7 +2989,7 @@ If you don&apos;t have the option to run your own node, there&apos;s an option t
     <message>
         <location filename="../wizard/WizardWalletInput.qml" line="106"/>
         <source>Please choose a directory</source>
-        <translation>Choose argh dir&apos;ctory ye bootless boar-pig!</translation>
+        <translation type="unfinished">Choose argh dir&apos;ctory ye bootless boar-pig!</translation>
     </message>
 </context>
 <context>
@@ -3222,7 +3157,7 @@ Spending address index: </source>
     </message>
     <message>
         <location filename="../main.qml" line="840"/>
-        <source>Superior sent successfully: %1 transaction(s) </source>
+        <source>SuperiorCoin sent successfully: %1 transaction(s) </source>
         <translation>XM-ARGHHH sent successfully: %1 transaction(s) </translation>
     </message>
     <message>
@@ -3268,7 +3203,7 @@ Spending address index: </source>
     <message>
         <location filename="../main.qml" line="1153"/>
         <source>Please choose a file</source>
-        <translation>Sel&apos;ct a file ye filthy swine</translation>
+        <translation type="unfinished">Sel&apos;ct a file ye filthy swine</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1202"/>
@@ -3396,7 +3331,7 @@ Spending address index: </source>
         <location filename="../main.qml" line="936"/>
         <location filename="../main.qml" line="1948"/>
         <source>Balance</source>
-        <translation>Bal&apos;nce!</translation>
+        <translation type="unfinished">Bal&apos;nce!</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1304"/>
@@ -3406,7 +3341,7 @@ Spending address index: </source>
     <message>
         <location filename="../main.qml" line="1328"/>
         <location filename="../main.qml" line="1343"/>
-        <source>Superior</source>
+        <source>SuperiorCoin</source>
         <translation>XM-ARGHHH!</translation>
     </message>
     <message>
